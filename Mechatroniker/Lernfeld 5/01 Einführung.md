@@ -25,6 +25,7 @@ import:
 
 -->
 
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/TobiKoz-git/Unterricht/edit/main/Mechatroniker/Lernfeld%205/01%20Einf%C3%BChrung.md)
 # LF5 - Einführung
 
 | Parameter                | Kursinformationen                                                                           |
