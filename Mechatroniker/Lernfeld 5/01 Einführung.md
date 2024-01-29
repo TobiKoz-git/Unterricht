@@ -35,7 +35,7 @@ import:
 | **Veranstaltung:**       | Kommunizieren mit Hilfe von Datenverarbeitungssystemen                                      |
 | **Teil:**                |`1/12`                                                  |
 | **Inhalte:**             | @comment                                                                                    |
-| **Link auf den GitHub:** | https://github.com/TobiKoz-git/Unterricht/edit/main/Mechatroniker/Lernfeld%205/01%20Einf%C3%BChrung.md |
+| **Link auf den GitHub:** | https://github.com/TobiKoz-git/Unterricht/blob/main/Mechatroniker/Lernfeld%205/01%20Einf%C3%BChrung.md |
 | **Autoren**              | @author                                                                                     |
 
 ![](https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif)
