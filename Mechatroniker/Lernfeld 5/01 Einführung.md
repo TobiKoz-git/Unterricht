@@ -1,7 +1,7 @@
 <!--
 
 author:   	Tobias Kozlowski
-email:    	tobias.kozlowski@bsz-tw-freiberg.lernsax.de
+email:    	tobias.kozlowski bsz-tw-freiberg.lernsax.de
 
 version:  	0.0.1
 
@@ -128,7 +128,7 @@ bla bla
 - [ ] Loggen sie sich mit Ihren Nutzerdaten auf Lernsax.de ein. 
 - [ ] Senden Sie eine E-Mail mit den Informationen aus `Vorstellung.doc` an meine E-Mail: *@email* 
 
-
+- [(Fertig)] Ich bin mit allen Aufgabe fertig!
 
 ## Lernsituation 
 > Neuausstattung des Planungsbüros "InnovationsPlan GmbH"
