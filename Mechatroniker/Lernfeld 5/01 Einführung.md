@@ -123,7 +123,7 @@ bla bla
 
 
 ### Aufgabe
-- [ erledigt ] Melden Sie sich an Ihrem Rechner an.
+- [ ] Melden Sie sich an Ihrem Rechner an.
 - [ ] Navigieren sie zum Ordner `netzwerkpfad` und öffnen sie die Datei `Vorstellung.doc`
 - [ ] Loggen sie sich mit Ihren Nutzerdaten auf Lernsax.de ein. 
 - [ ] Senden Sie eine E-Mail mit den Informationen aus `Vorstellung.doc` an meine E-Mail: *@email* 
