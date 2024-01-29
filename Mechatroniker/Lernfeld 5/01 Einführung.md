@@ -68,13 +68,6 @@ Zielformulierungen aus [^RahmenlehrplanMechatroniker]
 
 > _Wir lernen die grundlegende Funktionsweise in Computern und Netzwerken kennen._
 
-| Genereller Anspruch                                                                           | Spezifischer Anspruch                                                                                  |
-| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| Verstehen verschiedener Programmierparadigmen UNABHÄNGIG von der konkreten Programmiersprache | Objektorientierte (und funktionale) Programmierung am Beispiel von C#                                  |
-| Praktische Einführung in die methodische Softwareentwicklung                                  | Systematisierung der Anforderungen an einen Code, Arbeit mit UML Diagrammen und Entwurfsmustern                                             |
-| Grundlagen der kooperativ/kollaborative Arbeit und Projektentwicklung                 | Verwendung von Projektmanagementtools und einer Versionsverwaltung für den Softwareentwicklungsprozess |
-
-
 ### Wozu brauche ich das?
 
 bla bla
@@ -130,7 +123,7 @@ bla bla
 
 
 ### Aufgabe
-- [ ] Melden Sie sich an Ihrem Rechner an.
+- [ erledigt ] Melden Sie sich an Ihrem Rechner an.
 - [ ] Navigieren sie zum Ordner `netzwerkpfad` und öffnen sie die Datei `Vorstellung.doc`
 - [ ] Loggen sie sich mit Ihren Nutzerdaten auf Lernsax.de ein. 
 - [ ] Senden Sie eine E-Mail mit den Informationen aus `Vorstellung.doc` an meine E-Mail: *@email* 
