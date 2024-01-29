@@ -128,7 +128,7 @@ bla bla
 - [ ] Loggen sie sich mit Ihren Nutzerdaten auf Lernsax.de ein. 
 - [ ] Senden Sie eine E-Mail mit den Informationen aus `Vorstellung.doc` an meine E-Mail: *@email* 
 
-- [(Fertig)] Ich bin mit allen Aufgabe fertig!
+- [(Fertig)] Ich habe alle AUfgaben erledigt!
 
 ## Lernsituation 
 > Neuausstattung des Planungsbüros "InnovationsPlan GmbH"
