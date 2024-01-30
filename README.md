@@ -1,3 +1,3 @@
 # Unterricht
 
-Hier führe ich eine Übersicht über meinen Unterricht. Alle Unterrichtsverläufe und Arbeitsmaterilien sind einsehbar. 
+Hier führe ich eine Übersicht über meinen Unterricht. Alle Unterrichtsscripte und Materilien sind einsehbar. 
