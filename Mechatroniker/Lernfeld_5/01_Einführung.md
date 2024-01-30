@@ -3,7 +3,7 @@
 author:   	Tobias Kozlowski
 email:    	tobias.kozlowski bsz-tw-freiberg.lernsax.de
 
-version:  	0.0.1
+version:  	0.0.5
 
 language: 	de
 narrator: 	Deutsch Female
