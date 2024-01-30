@@ -46,7 +46,7 @@ https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif
 
 ## Zielstellung der Veranstaltung
 
-![Gif einer Fahrradtour über einen Berg](https://media.giphy.com/media/3oKIP9M5hm5YxsG58I/giphy.gif)<!--style="width: 100%; max-width: 80vh;"-->
+![Gif einer Fahrradtour über einen Berg](https://media.giphy.com/media/3oKIP9M5hm5YxsG58I/giphy.gif)<!--style="width: 50%; max-width: 80vh;"-->
 
 ### Rahmenlehrplan LF5
 >
