@@ -38,7 +38,7 @@ import:
 | **Link auf den GitHub:** | https://github.com/TobiKoz-git/Unterricht/blob/main/Mechatroniker/Lernfeld_5/01_Einf%C3%BChrung.md |
 | **Autoren**              | @author                                                                                     |
 
-![](https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif)<!--style="width: 150%; max-width: 80vh;"-->
+![](https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif)
 
 
 ---------------------------------------------------------------------
