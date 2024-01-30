@@ -38,7 +38,7 @@ import:
 | **Link auf den GitHub:** | https://github.com/TobiKoz-git/Unterricht/blob/main/Mechatroniker/Lernfeld_5/01_Einf%C3%BChrung.md |
 | **Autoren**              | @author                                                                                     |
 
-![](https://github.com/TobiKoz-git/Unterricht/blob/main/Mechatroniker/Lernfeld_5/Grafiken/Nutzen_von_IT_Systemen__Tobias_Kozlowski_(createt_with_Firefly).jpg?raw=true)
+![](https://github.com/TobiKoz-git/Unterricht/blob/main/Mechatroniker/Lernfeld_5/Grafiken/Nutzen_von_IT_Systemen__Tobias_Kozlowski_generated_with_Firefly.jpg)
 
 
 ---------------------------------------------------------------------
