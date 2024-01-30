@@ -25,7 +25,7 @@ import:
 
 -->
 
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/TobiKoz-git/Unterricht/blob/main/Mechatroniker/Lernfeld_5/Einführung.md)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/TobiKoz-git/Unterricht/blob/main/Mechatroniker/Lernfeld_5/01_Einf%C3%BChrung.md)
 
 
 # LF5 - Einführung
@@ -35,7 +35,7 @@ import:
 | **Veranstaltung:**       | Kommunizieren mit Hilfe von Datenverarbeitungssystemen                                      |
 | **Teil:**                |`1/12`                                                  |
 | **Inhalte:**             | @comment                                                                                    |
-| **Link auf den GitHub:** | https://github.com/TobiKoz-git/Unterricht/blob/main/Mechatroniker/Lernfeld%205/01%20Einf%C3%BChrung.md |
+| **Link auf den GitHub:** | https://github.com/TobiKoz-git/Unterricht/blob/main/Mechatroniker/Lernfeld_5/01_Einf%C3%BChrung.md |
 | **Autoren**              | @author                                                                                     |
 
 ![](https://github.com/TobiKoz-git/Unterricht/blob/main/Mechatroniker/Lernfeld_5/Grafiken/Nutzen_von_IT_Systemen__Tobias_Kozlowski_(createt_with_Firefly).jpg)
