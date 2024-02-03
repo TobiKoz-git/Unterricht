@@ -12,8 +12,8 @@ comment:  	Motivation der Lehrveranstaltung "Lernfeld 5" und Beschreibung der Or
 tags:     	LF5, MECH, Einführung, Lernsituation, Arbeitsplan
 
 
-icon:  		https://www.bsz-freiberg.de/templates/bszjw/img/logo.svg
-logo:		https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_1280.jpg
+icon:  	 	  https://www.bsz-freiberg.de/templates/bszjw/img/logo.svg
+logo:		    https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_1280.jpg
 
 import:
 
@@ -130,6 +130,9 @@ bla bla
 In der „InnovationsPlan GmbH“ wurde kürzlich eine neue CAD-Software für das Planungsbüro angeschafft. Die Einführung gestaltet sich jedoch als schwierig, da die Software auf den bereits vorhandenen PCs nicht ordnungsgemäß funktioniert. Die aktuelle Hardware ist veraltet und nicht mit der neuen Software kompatibel. Aufgrund dieser Herausforderung wurden Sie als Mitarbeiter beauftragt, ein Angebot für eine umfassende neue Ausstattung für das gesamte Büro zu erstellen. Ziel ist es, einen reibungslosen Betrieb der neuen CAD-Software sicherzustellen. Zusätzlich soll der neue 3D-Drucker in das Netzwerk integriert werden, um aktuelle Einstellungen am PC überwachen zu können. Ihre Aufgabe besteht darin, eine geeignete moderne Hardwareausstattung auszuwählen, die den Anforderungen der neuen Software entspricht und einen effizienten Arbeitsablauf für die technischen Systemplaner ermöglicht. Dabei müssen Sie sowohl die technischen Anforderungen der Software als auch die individuellen Bedürfnisse und Anforderungen der Mitarbeiter berücksichtigen, um eine optimale Lösung für das Büro zu finden.
 
 // Bild zur Lernsituation
+
+- [ ] Aufgabe
+- [ ] Aufgabe
 
 {{1-2}}
 *******************************************************************************
