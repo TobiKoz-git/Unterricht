@@ -147,6 +147,7 @@ In der „InnovationsPlan GmbH“ wurde kürzlich eine neue CAD-Software für da
 ### Arbeitsphase Informieren
 * Was ist das Ziel?
 * Was ist das Problem?
+* Welches Fachwissen ist nötig?
 
 ### Planung der Arbeitsschritte
 *Erweitertes Wasserfallmodell*
