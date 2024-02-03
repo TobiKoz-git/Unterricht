@@ -46,6 +46,7 @@ Schauen Sie das nachfolgende Video und füllen Sie dabei die Lücken des Arbeits
 ?[](https://www.youtube.com/watch?v=0Exik_Q3kDk)
 ---------------------------------------------------------------------
 Öffnen Sie den Komandointerpreter (cmd) im Windows-Startmenü. Geben Sie den Befehl `ipconfig /all` ein und notieren Sie zu Ihrem PC:
+|------|-------|
 | Hostname / Bezeichnung          |              |
 | physische Adresse (MAC-Adresse) |              |
 | IPv4-Adresse                    |              |
