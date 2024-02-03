@@ -1,7 +1,7 @@
 <!--
 
 author:   	Tobias Kozlowski
-email:    	tobias.kozlowski bsz-tw-freiberg.lernsax.de
+email:    	tobias.kozlowski[a]bsz-tw-freiberg.lernsax.de
 
 version:  	0.0.5
 
@@ -9,7 +9,7 @@ language: 	de
 narrator: 	Deutsch Female
 
 comment:  	Motivation der Lehrveranstaltung "Lernfeld 5" und Beschreibung der Organisation der Veranstaltung
-tags:     	LF5, MECH, Einführung
+tags:     	LF5, MECH, Einführung, Lernsituation, Arbeitsplan
 
 
 icon:  		https://www.bsz-freiberg.de/templates/bszjw/img/logo.svg
@@ -17,10 +17,6 @@ logo:		https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_1280.jpg
 
 import:
 
-@Unterrichtseinheit: 0
-@Unterricht.Gesamt: 12
-
-@lehrjahr: `1`
 @config.BSZ: `Berufliches Schulzentrum für Technik und Wirtschaft "Julius Weisbach"`
 
 -->
@@ -35,7 +31,6 @@ import:
 | **Veranstaltung:**       | Kommunizieren mit Hilfe von Datenverarbeitungssystemen                                      |
 | **Teil:**                |`1/12`                                                  |
 | **Inhalte:**             | @comment                                                                                    |
-| **Link auf den GitHub:** | https://github.com/TobiKoz-git/Unterricht/blob/main/Mechatroniker/Lernfeld_5/01_Einf%C3%BChrung.md |
 | **Autoren**              | @author                                                                                     |
 
 ![](https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif)
@@ -77,7 +72,7 @@ bla bla
 ### Lehrer
 | Name            | Email                                   |
 | :-------------  | :-------------------------------------- |
-| Tobias Kozlowski| @email 									|
+| Tobias Kozlowski| @email 									                |
 
 ### Übersicht der Unterrichtsinhalte
 
@@ -118,21 +113,23 @@ bla bla
 *******************************************************************************
 
 ## Werkzeuge der Veranstaltung
-* Computer
+* Der PC-Arbeitsplatz
 * [Lernsax](https://www.lernsax.de)
 
 
 ### Aufgabe
 - [ ] Melden Sie sich an Ihrem Rechner an.
 - [ ] Navigieren sie zum Ordner `Schüleraustausch` und öffnen sie die Datei `Vorstellung.doc`
-- [ ] Loggen sie sich mit Ihren Nutzerdaten auf Lernsax.de ein. 
-- [ ] Senden Sie eine E-Mail mit den Informationen aus `Vorstellung.doc` an meine E-Mail: *@email* 
+- [ ] Loggen sie sich mit Ihren Nutzerdaten auf Lernsax.de ein.
+- [ ] Senden Sie eine E-Mail mit den Informationen aus `Vorstellung.doc` an meine E-Mail: *@email*
 
 - [(Fertig)] Ich habe alle AUfgaben erledigt!
 
-## Lernsituation 
+## Lernsituation
 > Neuausstattung des Planungsbüros "InnovationsPlan GmbH"
 In der „InnovationsPlan GmbH“ wurde kürzlich eine neue CAD-Software für das Planungsbüro angeschafft. Die Einführung gestaltet sich jedoch als schwierig, da die Software auf den bereits vorhandenen PCs nicht ordnungsgemäß funktioniert. Die aktuelle Hardware ist veraltet und nicht mit der neuen Software kompatibel. Aufgrund dieser Herausforderung wurden Sie als Mitarbeiter beauftragt, ein Angebot für eine umfassende neue Ausstattung für das gesamte Büro zu erstellen. Ziel ist es, einen reibungslosen Betrieb der neuen CAD-Software sicherzustellen. Zusätzlich soll der neue 3D-Drucker in das Netzwerk integriert werden, um aktuelle Einstellungen am PC überwachen zu können. Ihre Aufgabe besteht darin, eine geeignete moderne Hardwareausstattung auszuwählen, die den Anforderungen der neuen Software entspricht und einen effizienten Arbeitsablauf für die technischen Systemplaner ermöglicht. Dabei müssen Sie sowohl die technischen Anforderungen der Software als auch die individuellen Bedürfnisse und Anforderungen der Mitarbeiter berücksichtigen, um eine optimale Lösung für das Büro zu finden.
+
+// Bild zur Lernsituation
 
 {{1-2}}
 *******************************************************************************
@@ -161,9 +158,9 @@ style="width: 100%; max-width: 760px; display: block; margin-left: auto; margin-
         Überprüfung                     Testen des Systems
          \
           Betrieb und Wartung           Installation, Anpassung                .
-``` 
+```
 
-
+\\
 
 {{1-2}}
 *******************************************************************************
@@ -256,4 +253,3 @@ style="width: 100%; max-width: 860px; display: block; margin-left: auto; margin-
 
 
 ### 5. Customization
-
