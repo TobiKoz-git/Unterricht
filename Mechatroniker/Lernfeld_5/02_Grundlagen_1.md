@@ -134,3 +134,5 @@ Ordnen Sie die folgenden Beispiele in das Schichtenmodell ein und geben Sie die 
 Erstellen Sie ein Schichtenmodell von einem selbst gewählten Gerät (z. B. Smartphone, Smartwatch, ...). Finden Sie pro Spezifikation ein Beispiel. (EA, 10 min)
 
 ## 1.4 Klassifizierung von Computern
+
+### Arbeitsauftrag
