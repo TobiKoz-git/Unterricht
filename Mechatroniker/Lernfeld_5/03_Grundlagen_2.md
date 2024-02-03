@@ -45,7 +45,7 @@ Quizz
 Schauen Sie das nachfolgende Video und füllen Sie dabei die Lücken des Arbeitsblattes "Bits und Bytes".
 
 !?[Bits und Bytes: Binärziffern 0 und 1 - Arithmetik in Computern 1](https://www.youtube.com/watch?v=0Exik_Q3kDk)
-!?[The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4)
+
 
 ----------------------------------------------------
 Öffnen Sie den Komandointerpreter (cmd) im Windows-Startmenü. Geben Sie den Befehl `ipconfig /all` ein und notieren Sie zu Ihrem PC:
