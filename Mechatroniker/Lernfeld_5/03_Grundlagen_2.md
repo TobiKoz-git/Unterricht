@@ -42,19 +42,22 @@ Quizz
 ## 1.5 Bits und Bytes
 
 ### Arbeitsauftrag
-Schauen Sie das nachfolgende Video und füllen Sie dabei die Lücken des Arbeitsblattes "Bits und Bytes".
+
+- [ ] Schauen Sie das nachfolgende Video und füllen Sie dabei die Lücken des Arbeitsblattes "Bits und Bytes".
 
 !?[Bits und Bytes: Binärziffern 0 und 1 - Arithmetik in Computern 1](https://www.youtube.com/watch?v=0Exik_Q3kDk)
 
-
+## Hexadezimalzahlen, Dezimalzahlen und Binärzahlen
+### Arbeitsauftrag
 ----------------------------------------------------
-Öffnen Sie den Komandointerpreter (cmd) im Windows-Startmenü. Geben Sie den Befehl `ipconfig /all` ein und notieren Sie zu Ihrem PC:
+- [ ] Öffnen Sie den Komandointerpreter (cmd) im Windows-Startmenü. Geben Sie den Befehl `ipconfig /all` ein und notieren Sie zu Ihrem PC:
 
-|      |      |
-|------|-------|
+|                                 |              |
+|:--------------------------------|--------------|
 | Hostname / Bezeichnung          |              |
 | physische Adresse (MAC-Adresse) |              |
 | IPv4-Adresse                    |              |
 | IPv6-Adresse                    |              |
 ---------------------------------------------------------------------
-Arbeiten sie die Inhalte der Internetseite [dualzahlen.de](http://www.dualzahlen.de/zahlensysteme.html) durch und füllen die die folgende Tabelle.
+
+- [ ] Arbeiten sie die Inhalte der Internetseite [dualzahlen.de](http://www.dualzahlen.de/zahlensysteme.html) durch und füllen die die folgende Tabelle.
