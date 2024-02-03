@@ -8,7 +8,7 @@ version:  	0.0.1
 language: 	de
 narrator: 	Deutsch Female
 
-comment:  	Bearbeiten des Arbeitsschrittes 1 der Lernsituation und Beginn der Arbeitsphase des "Informierens".
+comment:  	Fortsetzen der Arbeitsphase des "Informierens".
 tags:     	LF5, MECH, Zahlensysteme, Binärzahlen, Dezimalzahlen, Hexadezimalzahlen
 
 
@@ -24,7 +24,7 @@ import:
 [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/TobiKoz-git/Unterricht/blob/main/Mechatroniker/Lernfeld_5/03_Grundlagen_2.md)
 
 
-# LF5 - Einführung
+# LF5 - Grundlagen 2
 
 | Parameter                | Kursinformationen                                                                           |
 | ------------------------ | ------------------------------------------------------------------------------------------- |
@@ -34,6 +34,5 @@ import:
 | **Autoren**              | @author                                                                                     |
 
 ![](https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif)
-
 
 ---------------------------------------------------------------------
