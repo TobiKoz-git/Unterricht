@@ -144,6 +144,10 @@ In der „InnovationsPlan GmbH“ wurde kürzlich eine neue CAD-Software für da
 - [ ] Analysieren Sie die Skizze des IT-Systems und nennen Sie die Bestandteile (Komponenten), des Netzwerks im Büro.
 *******************************************************************************
 
+### Arbeitsphase Informieren
+* Was ist das Ziel?
+* Was ist das Problem?
+
 ### Planung der Arbeitsschritte
 *Erweitertes Wasserfallmodell*
 
@@ -187,5 +191,3 @@ Notwendige Arbeiten um den Auftrag zu erfüllen
 > Für den effektiven Einsatz der neuen CAD-Software müssen neue PCs angeschafft werden. Dazu müssen die Baugruppen der Computer ausgewählt werden. Die technischen Daten sind in den jeweiligen Datenblättern beschrieben. Grundlegende Kenntnisse sind erforderlich, um diese Informationen zu verstehen.
 
 > _Phase: Informieren_
-
-## Script

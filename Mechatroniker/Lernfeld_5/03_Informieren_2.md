@@ -21,7 +21,7 @@ import:
 
 -->
 
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/TobiKoz-git/Unterricht/blob/main/Mechatroniker/Lernfeld_5/03_Grundlagen_2.md)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/TobiKoz-git/Unterricht/blob/main/Mechatroniker/Lernfeld_5/03_Informieren.md)
 
 
 # LF5 - Grundlagen 2
