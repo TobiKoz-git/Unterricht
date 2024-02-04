@@ -179,7 +179,7 @@ style="width: 100%; max-width: 760px; display: block; margin-left: auto; margin-
 *******************************************************************************
 Notwendige Arbeiten um den Auftrag zu erfüllen
 
-1. Auswahl und Beschaffung neuer Computer (Angebotserstellung)
+1. Auswahl und Beschaffung neuer Computer
 2. Konfiguration der Computer
 
 {{3-4}}
