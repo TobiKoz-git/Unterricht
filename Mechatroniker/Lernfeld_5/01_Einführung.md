@@ -29,7 +29,7 @@ import:
 
 ![](https://github.com/TobiKoz-git/Unterricht/blob/main/Mechatroniker/Lernfeld_5/Grafiken/Nutzen_von_IT_Systemen__Tobias_Kozlowski_generated_with_Firefly.jpg?raw=true)
 
-                                    {{1-2}}
+                                    {{1}}
 *******************************************************************************
 <!--data-type="none"-->
 | Parameter                | Kursinformationen                                                                           |
@@ -42,10 +42,6 @@ import:
 ![](https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif)
 *******************************************************************************
 
-                                    {{2-3}}
-*******************************************************************************
-bla bla
-*******************************************************************************
 
 ## Zielstellung der Veranstaltung
 
