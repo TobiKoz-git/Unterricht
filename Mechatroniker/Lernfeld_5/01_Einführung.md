@@ -29,7 +29,9 @@ import:
 
                                     {{0-1}}
 *******************************************************************************
-![](https://github.com/TobiKoz-git/Unterricht/blob/main/Mechatroniker/Lernfeld_5/Grafiken/Nutzen_von_IT_Systemen__Tobias_Kozlowski_generated_with_Firefly.jpg?raw=true)
+![](https://github.com/TobiKoz-git/Unterricht/blob/main/Mechatroniker/Lernfeld_5/Grafiken/Nutzen_von_IT_Systemen__Tobias_Kozlowski_generated_with_Firefly.jpg?raw=true)<!--
+style="width: 100%; max-width: 760px; display: block; margin-left: auto; margin-right: auto;"
+-->
 *******************************************************************************
                                     {{1-2}}
 *******************************************************************************
@@ -139,8 +141,6 @@ In der „InnovationsPlan GmbH“ wurde kürzlich eine neue CAD-Software für da
 ![Blickwinkel_2](https://github.com/TobiKoz-git/Unterricht/blob/main/Mechatroniker/Lernfeld_5/Grafiken/Planungsb%C3%BCro_pic2_generated_withFirefly.jpg?raw=true)
 ![Blickwinkel_3](https://github.com/TobiKoz-git/Unterricht/blob/main/Mechatroniker/Lernfeld_5/Grafiken/Planungsb%C3%BCro_pic3_generated_withFirefly.jpg?raw=true)
 
-- [ ] Aufgabe
-- [ ] Aufgabe
 
 {{1-2}}
 *******************************************************************************
@@ -155,25 +155,27 @@ In der „InnovationsPlan GmbH“ wurde kürzlich eine neue CAD-Software für da
 ### Arbeitsphase Informieren
 * Was ist das Ziel?
 * Was ist das Problem?
-* Welches Fachwissen ist nötig?
+* Welche Informationen sind nötig?
 
 ### Planung der Arbeitsschritte
-*Erweitertes Wasserfallmodell*
+*Modell der vollständigen Handlung*
 
 <!--
 style="width: 100%; max-width: 760px; display: block; margin-left: auto; margin-right: auto;"
 -->
 ```ascii
 
- Informieren                          Problemanalyse, Systemspezifikation
+ Informieren                          Was soll getan werden? Systemspezifikation
    \
-    Planung                             Grobentwurf, Feinentwurf
+    Planen                             Wie kann der Auftrag umgesetzt werden?
      \
-      Umsetzung                         Implementierung, Integration
+      Entscheiden                         Welcher Lösungsweg wird gewählt?
        \
-        ...                               Testen des Systems
+        Ausführen                              
          \
-          ...                               Installation, Anpassung                .
+          Kontrollstufe                              Wurde wer Auftrag sach- und fachgerecht durchgeführt?   
+           \
+           Beurteilung                                    Was kann zukünftig verbessert werden?
 ```
 
 
