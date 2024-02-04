@@ -165,17 +165,18 @@ style="width: 100%; max-width: 760px; display: block; margin-left: auto; margin-
 -->
 ```ascii
 
- Informieren                          Was soll getan werden? Systemspezifikation
+  \  Informieren                            Was soll getan werden? Systemspezifikation
    \
-    Planen                             Wie kann der Auftrag umgesetzt werden?
+    \  Planen                               Wie kann der Auftrag umgesetzt werden?
      \
-      Entscheiden                         Welcher Lösungsweg wird gewählt?
+      \  Entscheiden                        Welcher Lösungsweg wird gewählt?
        \
-        Ausführen                              
+        \  Ausführen                              
          \
-          Kontrollstufe                              Wurde wer Auftrag sach- und fachgerecht durchgeführt?   
+          \  Kontrollstufe                  Wurde wer Auftrag sach- und fachgerecht durchgeführt?   
            \
-           Beurteilung                                    Was kann zukünftig verbessert werden?
+            \  Beurteilung                  Was kann zukünftig verbessert werden?
+              v
 ```
 
 
