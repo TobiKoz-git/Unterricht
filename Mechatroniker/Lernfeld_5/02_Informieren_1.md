@@ -13,7 +13,7 @@ tags:     	LF5, MECH, EVA-Prinzip, Schichtenmodell der Informatik, Klassen von C
 
 
 icon:  		https://www.bsz-freiberg.de/templates/bszjw/img/logo.svg
-logo:		https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_1280.jpg
+logo:		https://github.com/TobiKoz-git/Unterricht/blob/main/Mechatroniker/Lernfeld_5/Grafiken/Nutzen_von_IT_Systemen__Tobias_Kozlowski_generated_with_Firefly.jpg?raw=true
 
 mode:       Presentation
 import:
