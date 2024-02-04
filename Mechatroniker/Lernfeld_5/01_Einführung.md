@@ -25,7 +25,7 @@ import:
 
 
 # LF5 - Einführung
-
+<!--data-type="none"-->
 | Parameter                | Kursinformationen                                                                           |
 | ------------------------ | ------------------------------------------------------------------------------------------- |
 | **Veranstaltung:**       | Kommunizieren mit Hilfe von Datenverarbeitungssystemen                                      |
