@@ -157,18 +157,18 @@ style="width: 100%; max-width: 760px; display: block; margin-left: auto; margin-
 -->
 ```ascii
 
- Anforderungen                          Problemanalyse, Systemspezifikation
+ Informieren                          Problemanalyse, Systemspezifikation
    \
-    Entwurf                             Grobentwurf, Feinentwurf
+    Planung                             Grobentwurf, Feinentwurf
      \
       Umsetzung                         Implementierung, Integration
        \
-        Überprüfung                     Testen des Systems
+        ...                               Testen des Systems
          \
-          Betrieb und Wartung           Installation, Anpassung                .
+          ...                               Installation, Anpassung                .
 ```
 
-\\
+
 
 {{1-2}}
 *******************************************************************************
