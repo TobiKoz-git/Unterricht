@@ -175,7 +175,7 @@ style="width: 100%; max-width: 760px; display: block; margin-left: auto; margin-
 - [ ] *Aufgabe zur Planung der Arbeitsschritte*
 *******************************************************************************
 
-{{2-5}}
+{{2-6}}
 *******************************************************************************
 Notwendige Arbeiten um den Auftrag zu erfüllen
 
@@ -184,20 +184,20 @@ Notwendige Arbeiten um den Auftrag zu erfüllen
 
 {{3-4}}
 *******************************************************************************
-> Für den effektiven Einsatz der neuen CAD-Software müssen neue PCs angeschafft werden. Dazu müssen die Baugruppen der Computer ausgewählt werden. Die technischen Daten sind in den jeweiligen Datenblättern beschrieben. Grundlegende Kenntnisse sind erforderlich, um diese Informationen zu verstehen.
+> Arbeitsschritt 1: Für den effektiven Einsatz der neuen CAD-Software müssen neue PCs angeschafft werden. Dazu müssen die Baugruppen der Computer ausgewählt werden. Die technischen Daten sind in den jeweiligen Datenblättern beschrieben. Grundlegende Kenntnisse sind erforderlich, um diese Informationen zu verstehen.
 *******************************************************************************
 
 3. Installation von Betriebssystem und Software
 {{4-5}}
 *******************************************************************************
-> Für den effektiven Einsatz der neuen CAD-Software müssen neue PCs angeschafft werden. Dazu müssen die Baugruppen der Computer ausgewählt werden. Die technischen Daten sind in den jeweiligen Datenblättern beschrieben. Grundlegende Kenntnisse sind erforderlich, um diese Informationen zu verstehen.
+> Arbeitsschritt 1: Für den effektiven Einsatz der neuen CAD-Software müssen neue PCs angeschafft werden. Dazu müssen die Baugruppen der Computer ausgewählt werden. Die technischen Daten sind in den jeweiligen Datenblättern beschrieben. Grundlegende Kenntnisse sind erforderlich, um diese Informationen zu verstehen.
 *******************************************************************************
 
 4. Einbindung der Computer in das Firmennetz
 5. Testen der Datenleitung zum 3D-Ducker
 {{5-6}}
 *******************************************************************************
-> Für den effektiven Einsatz der neuen CAD-Software müssen neue PCs angeschafft werden. Dazu müssen die Baugruppen der Computer ausgewählt werden. Die technischen Daten sind in den jeweiligen Datenblättern beschrieben. Grundlegende Kenntnisse sind erforderlich, um diese Informationen zu verstehen.
+> Arbeitsschritt 1: Für den effektiven Einsatz der neuen CAD-Software müssen neue PCs angeschafft werden. Dazu müssen die Baugruppen der Computer ausgewählt werden. Die technischen Daten sind in den jeweiligen Datenblättern beschrieben. Grundlegende Kenntnisse sind erforderlich, um diese Informationen zu verstehen.
 *******************************************************************************
 
 *******************************************************************************
