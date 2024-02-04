@@ -15,6 +15,7 @@ tags:     	LF5, MECH, Zahlensysteme, Binärzahlen, Dezimalzahlen, Hexadezimalzah
 icon:  		https://www.bsz-freiberg.de/templates/bszjw/img/logo.svg
 logo:		https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_1280.jpg
 
+mode:       Presentation
 import:
 
 @config.BSZ: `Berufliches Schulzentrum für Technik und Wirtschaft "Julius Weisbach"`
