@@ -208,3 +208,5 @@ Notwendige Arbeiten um den Auftrag zu erfüllen
 > Für den effektiven Einsatz der neuen CAD-Software müssen neue PCs angeschafft werden. Dazu müssen die Baugruppen der Computer ausgewählt werden. Die technischen Daten sind in den jeweiligen Datenblättern beschrieben. Grundlegende Kenntnisse sind erforderlich, um diese Informationen zu verstehen.
 
 > _Phase: Informieren_
+
+.

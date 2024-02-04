@@ -29,7 +29,7 @@ import:
 | Parameter                | Kursinformationen                                                                           |
 | ------------------------ | ------------------------------------------------------------------------------------------- |
 | **Veranstaltung:**       | Kommunizieren mit Hilfe von Datenverarbeitungssystemen                                      |
-| **Teil:**                |`4/12`                                                  |
+| **Teil:**                |`4/12`                                                                                       |
 | **Inhalte:**             | @comment                                                                                    |
 | **Autoren**              | @author                                                                                     |
 
