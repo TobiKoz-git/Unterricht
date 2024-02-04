@@ -29,6 +29,7 @@ import:
 
 ![](https://github.com/TobiKoz-git/Unterricht/blob/main/Mechatroniker/Lernfeld_5/Grafiken/Nutzen_von_IT_Systemen__Tobias_Kozlowski_generated_with_Firefly.jpg?raw=true)
 
+{{1-2}}
 <!--data-type="none"-->
 | Parameter                | Kursinformationen                                                                           |
 | ------------------------ | ------------------------------------------------------------------------------------------- |
