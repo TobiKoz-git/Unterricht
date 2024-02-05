@@ -169,9 +169,9 @@ style="width: 100%; max-width: 760px; display: block; margin-left: auto; margin-
      \
       \  Entscheiden                        Welcher Lösungsweg wird gewählt?
        \
-        \  Ausführen                              
+        \  Ausführen                               
          \
-          \  Kontrollstufe                  Wurde wer Auftrag sach- und fachgerecht durchgeführt?   
+          \  Kontrollstufe                  Wurde der Auftrag sach- und fachgerecht durchgeführt?   
            \
             \  Beurteilung                  Was kann zukünftig verbessert werden?
               v
