@@ -176,7 +176,7 @@ style="width: 100%; max-width: 760px; display: block; margin-left: auto; margin-
           \  Kontrollstufe                  Wurde der Auftrag sach- und fachgerecht durchgeführt?   
            \
             \  Beurteilung                  Was kann zukünftig verbessert werden?
-              v
+            v
 ```
 
 
@@ -211,13 +211,9 @@ Notwendige Arbeiten um den Auftrag zu erfüllen
 > Arbeitsschritt 1: Für den effektiven Einsatz der neuen CAD-Software müssen neue PCs angeschafft werden. Dazu müssen die Baugruppen der Computer ausgewählt werden. Die technischen Daten sind in den jeweiligen Datenblättern beschrieben. Grundlegende Kenntnisse sind erforderlich, um diese Informationen zu verstehen.
 *******************************************************************************
 
-*******************************************************************************
-
 
 ### Arbeitsschritt 1
 
 > Für den effektiven Einsatz der neuen CAD-Software müssen neue PCs angeschafft werden. Dazu müssen die Baugruppen der Computer ausgewählt werden. Die technischen Daten sind in den jeweiligen Datenblättern beschrieben. Grundlegende Kenntnisse sind erforderlich, um diese Informationen zu verstehen.
 
 > _Phase: Informieren_
-
-.
