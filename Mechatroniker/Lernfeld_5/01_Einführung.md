@@ -181,7 +181,7 @@ style="width: 100%; max-width: 760px; display: block; margin-left: auto; margin-
 
 
 
-{{1-2}}
+{{1-6}}
 *******************************************************************************
 - [ ] *Aufgabe zur Planung der Arbeitsschritte*
 *******************************************************************************
@@ -192,7 +192,7 @@ Notwendige Arbeiten um den Auftrag zu erfüllen
 
 1. Auswahl und Beschaffung neuer Computer
 2. Konfiguration der Computer
-
+*******************************************************************************
 {{3-4}}
 *******************************************************************************
 > Arbeitsschritt 1: Für den effektiven Einsatz der neuen CAD-Software müssen neue PCs angeschafft werden. Dazu müssen die Baugruppen der Computer ausgewählt werden. Die technischen Daten sind in den jeweiligen Datenblättern beschrieben. Grundlegende Kenntnisse sind erforderlich, um diese Informationen zu verstehen.
