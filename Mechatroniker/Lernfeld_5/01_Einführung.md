@@ -145,6 +145,8 @@ In der „InnovationsPlan GmbH“ wurde kürzlich eine neue CAD-Software für da
                               {{1}}
 *******************************************************************************
 - [ ] Markieren Sie den Kundenauftrag der „InnovationsPlan GmbH“ im Text.
+*******************************************************************************
+
                               {{2}}
 *******************************************************************************
 - [ ] Analysieren Sie die Skizze des IT-Systems und nennen Sie die Bestandteile (Komponenten), des Netzwerks im Büro.
