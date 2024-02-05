@@ -185,13 +185,13 @@ style="width: 100%; max-width: 760px; display: block; margin-left: auto; margin-
 - [ ] *Aufgabe zur Planung der Arbeitsschritte*
 
 
-Notwendige Arbeiten um den Auftrag zu erfüllen
-
-1. Auswahl und Beschaffung neuer Computer
-2. Konfiguration der Computer
-3. Installation von Betriebssystem und Software
-4. Einbindung der Computer in das Firmennetz
-5. Testen der Datenleitung zum 3D-Ducker
+|Notwendige Arbeiten um den Auftrag zu erfüllen|:                        |
+|:---------------------------------------------|:------------------------|
+| 1. Auswahl und Beschaffung neuer Computer    |
+| 2. Konfiguration der Computer                |
+| 3. Installation von Betriebssystem und Software|
+| 4. Einbindung der Computer in das Firmennetz|
+| 5. Testen der Datenleitung zum 3D-Ducker|
 
 
 
