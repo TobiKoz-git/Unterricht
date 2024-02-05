@@ -142,12 +142,12 @@ In der „InnovationsPlan GmbH“ wurde kürzlich eine neue CAD-Software für da
 ![Blickwinkel_3](https://github.com/TobiKoz-git/Unterricht/blob/main/Mechatroniker/Lernfeld_5/Grafiken/Planungsb%C3%BCro_pic3_generated_withFirefly.jpg?raw=true)
 
 
-                              {{1-2}}
+                              {{1-3}}
 *******************************************************************************
 - [ ] Markieren Sie den Kundenauftrag der „InnovationsPlan GmbH“ im Text.
 *******************************************************************************
 
-                              {{2-2}}
+                              {{2-3}}
 *******************************************************************************
 - [ ] Analysieren Sie die Skizze des IT-Systems und nennen Sie die Bestandteile (Komponenten), des Netzwerks im Büro.
 *******************************************************************************
