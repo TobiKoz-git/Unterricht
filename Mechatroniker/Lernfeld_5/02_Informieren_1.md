@@ -103,6 +103,12 @@ style="width: 100%; max-width: 860px; display: block; margin-left: auto; margin-
                                        |                           |
                                        +---------------------------+
 ```
+
++ Eingabe: Dient dem Benutzer (User) zur Eingabe von Daten oder Befehlen.
++ Verarbeitung: Verarbeitung der eingegebenen Daten nach bestimmten Vorgaben (Programm & Algorithmen).
++ Speicher: Speichern des Programms und temporär auch der zu verarbeitenden Daten oder Zwischenergebnisse.
++ Ausgabe: Übermittlung der Ergebnisse an den Benutzer oder an andere Geräte.
+
 ## 1.2 Perepheriegeräte
 ******************************************************************************
 >`Definition:` Peripheriegeräte = Eingabe- und Ausgabegeräte
