@@ -6,7 +6,7 @@ email:    	tobias.kozlowski[a]bsz-tw-freiberg.lernsax.de
 version:  	0.0.5
 
 language: 	de
-narrator: 	Deutsch Female
+narrator: 	Deutsch Male
 
 comment:  	Motivation der Lehrveranstaltung "Lernfeld 5" und Beschreibung der Organisation der Veranstaltung
 tags:     	LF5, MECH, Einführung, Lernsituation, Arbeitsplan
