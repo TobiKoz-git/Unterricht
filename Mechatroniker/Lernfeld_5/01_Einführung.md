@@ -77,11 +77,6 @@ bla bla
 
 #### Ausstattung privater Haushalte mit Informations- und Kommunikationstechnik - Deutschland
 
-
-[^Statistisches Bundesamt]: Ergebnisse der Laufenden Wirtschaftsrechnungen (LWR). Ausstattung mit Gebrauchsgütern - Ausstattung privater Haushalte mit Informations- und Kommunikationstechnik - Deutschland Stand 27. Oktober 2022, [Link](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Einkommen-Konsum-Lebensbedingungen/Ausstattung-Gebrauchsgueter/Tabellen/liste-infotechnik-d.html#fussnote-2-115470)
-
-
-
 | Informations- und Kommunikations­technik | 2017   | 2019   | 2020   | 2021   | 2022    |
 | ---------------------------------------- | ------ | ------ | ------ | ------ | ------- |
 | Haushalte insgesammt (1000)              | 37 381 | 37 869 | 37 993 | 37 993 | 38 058  |
@@ -101,6 +96,11 @@ bla bla
 | Mobiltelefon, Handy                 | 95,5  | 97,0  | 97,5  | 97,6  | 98,1  |
 | darunter Smartphone                 | .     | 81,6  | 84,5  | 85,6  | 88,1  |
 | Navigationsgerät                    | 50,6  | 46,2  | 44,4  | 41,2  | 39,3  |
+
+
+Werte von [^Statistisches Bundesamt]: Ergebnisse der Laufenden Wirtschaftsrechnungen (LWR). Ausstattung mit Gebrauchsgütern - Ausstattung privater Haushalte mit Informations- und Kommunikationstechnik - Deutschland Stand 27. Oktober 2022, [Link](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Einkommen-Konsum-Lebensbedingungen/Ausstattung-Gebrauchsgueter/Tabellen/liste-infotechnik-d.html#fussnote-2-115470)
+
+
 
 ## Organisation
 
