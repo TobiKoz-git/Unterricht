@@ -78,13 +78,14 @@ bla bla
 #### Ausstattung privater Haushalte mit Informations- und Kommunikationstechnik - Deutschland
 Anteil der Haushalte in %
 
+
 | Informations- und Kommunikations­technik |  2019   | 2020   | 2021   | 2022    |
 | ---------------------------------------- | ------ | ------ | ------ | ------- |
-| Personalcomputer (PC)               |  91,6  | 91,9  | 92,3  | 92,0  |
-| stationär                           |  44,6  | 44,0  | 44,0  | 42,9  |
-| mobil                               |  82,4  | 83,4  | 84,8  | 85,2  |
-| Laptop/Notebook, Netbook            |  74,4  | 74,5  | 75,1  | 75,5  |
-| Tablet                              |  48,4  | 51,0  | 53,2  | 55,0  |
+| Personalcomputer (PC)               |  91.6  | 91.9  | 92.3  | 92.0  |
+| stationär                           |  44.6  | 44.0  | 44.0  | 42.9  |
+| mobil                               |  82.4  | 83.4  | 84.8  | 85.2  |
+| Laptop/Notebook, Netbook            |  74.4  | 74.5  | 75.1  | 75.5  |
+| Tablet                              |  48.4  | 51.0  | 53.2  | 55.0  |
 
 
 
