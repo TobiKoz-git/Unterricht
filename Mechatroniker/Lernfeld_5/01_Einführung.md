@@ -92,7 +92,7 @@ Anteil der Haushalte in %
 | Telefon                             | 100   | 99,9  | 99,9  | 99,9  | 99,9  |
 | Festnetztelefon                     | 90,9  | 86,4  | 85,3  | 84,3  | 82,9  |
 | Mobiltelefon, Handy                 | 95,5  | 97,0  | 97,5  | 97,6  | 98,1  |
-| darunter Smartphone                 | .     | 81,6  | 84,5  | 85,6  | 88,1  |
+| darunter Smartphone                 | -   | 81,6  | 84,5  | 85,6  | 88,1  |
 | Navigationsgerät                    | 50,6  | 46,2  | 44,4  | 41,2  | 39,3  |
 
 
