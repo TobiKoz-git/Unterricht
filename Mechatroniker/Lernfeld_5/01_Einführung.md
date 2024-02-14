@@ -76,12 +76,10 @@ Zielformulierungen aus [^RahmenlehrplanMechatroniker]
 bla bla
 
 #### Ausstattung privater Haushalte mit Informations- und Kommunikationstechnik - Deutschland
+Anteil der Haushalte in %
 
 | Informations- und Kommunikations­technik | 2017   | 2019   | 2020   | 2021   | 2022    |
 | ---------------------------------------- | ------ | ------ | ------ | ------ | ------- |
-| Haushalte insgesammt (1000)              | 37 381 | 37 869 | 37 993 | 37 993 | 38 058  |
-| Anteil der Haushalte in %           |       |       |       |       |       |
-| ----------------------------------- | ----- | ----- | ----- | ----- | ----- |
 | Personalcomputer (PC)               | 90,0  | 91,6  | 91,9  | 92,3  | 92,0  |
 | stationär                           | 48,6  | 44,6  | 44,0  | 44,0  | 42,9  |
 | mobil                               | 79,0  | 82,4  | 83,4  | 84,8  | 85,2  |
