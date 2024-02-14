@@ -85,15 +85,7 @@ Anteil der Haushalte in %
 | mobil                               |  82,4  | 83,4  | 84,8  | 85,2  |
 | Laptop/Notebook, Netbook            |  74,4  | 74,5  | 75,1  | 75,5  |
 | Tablet                              |  48,4  | 51,0  | 53,2  | 55,0  |
-| Drucker (auch in Kombigeräten)      | 76,7  | 77,0  | 76,7  | 76,1  |
-| Internet­zugang                      |  93,5  | 94,3  | 94,7  | 95,5  |
-| stationär (z. B. DSL oder Kabel)    |  87,1  | 87,6  | 88,7  | 88,7  |
-| mobil (z. B. Smartphone, Surfstick) |  61,6  | 63,7  | 64,4  | 63,4  |
-| Telefon                             |  99,9  | 99,9  | 99,9  | 99,9  |
-| Festnetztelefon                     |  86,4  | 85,3  | 84,3  | 82,9  |
-| Mobiltelefon, Handy                 |  97,0  | 97,5  | 97,6  | 98,1  |
-| darunter Smartphone                 |  81,6  | 84,5  | 85,6  | 88,1  |
-| Navigationsgerät                    |  46,2  | 44,4  | 41,2  | 39,3  |
+
 
 
 Werte von [^Statistisches Bundesamt]: Ergebnisse der Laufenden Wirtschaftsrechnungen (LWR). Ausstattung mit Gebrauchsgütern - Ausstattung privater Haushalte mit Informations- und Kommunikationstechnik - Deutschland Stand 27. Oktober 2022, [Link](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Einkommen-Konsum-Lebensbedingungen/Ausstattung-Gebrauchsgueter/Tabellen/liste-infotechnik-d.html#fussnote-2-115470)
