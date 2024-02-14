@@ -78,22 +78,22 @@ bla bla
 #### Ausstattung privater Haushalte mit Informations- und Kommunikationstechnik - Deutschland
 Anteil der Haushalte in %
 
-| Informations- und Kommunikations­technik | 2017   | 2019   | 2020   | 2021   | 2022    |
-| ---------------------------------------- | ------ | ------ | ------ | ------ | ------- |
-| Personalcomputer (PC)               | 90,0  | 91,6  | 91,9  | 92,3  | 92,0  |
-| stationär                           | 48,6  | 44,6  | 44,0  | 44,0  | 42,9  |
-| mobil                               | 79,0  | 82,4  | 83,4  | 84,8  | 85,2  |
-| Laptop/Notebook, Netbook            | 70,8  | 74,4  | 74,5  | 75,1  | 75,5  |
-| Tablet                              | 42,6  | 48,4  | 51,0  | 53,2  | 55,0  |
-| Drucker (auch in Kombigeräten)      | 76,9  | 76,7  | 77,0  | 76,7  | 76,1  |
-| Internet­zugang                      | 91,1  | 93,5  | 94,3  | 94,7  | 95,5  |
-| stationär (z. B. DSL oder Kabel)    | 85,9  | 87,1  | 87,6  | 88,7  | 88,7  |
-| mobil (z. B. Smartphone, Surfstick) | 53,1  | 61,6  | 63,7  | 64,4  | 63,4  |
-| Telefon                             | 100   | 99,9  | 99,9  | 99,9  | 99,9  |
-| Festnetztelefon                     | 90,9  | 86,4  | 85,3  | 84,3  | 82,9  |
-| Mobiltelefon, Handy                 | 95,5  | 97,0  | 97,5  | 97,6  | 98,1  |
-| darunter Smartphone                 | -   | 81,6  | 84,5  | 85,6  | 88,1  |
-| Navigationsgerät                    | 50,6  | 46,2  | 44,4  | 41,2  | 39,3  |
+| Informations- und Kommunikations­technik |  2019   | 2020   | 2021   | 2022    |
+| ---------------------------------------- | ------ | ------ | ------ | ------- |
+| Personalcomputer (PC)               |  91,6  | 91,9  | 92,3  | 92,0  |
+| stationär                           |  44,6  | 44,0  | 44,0  | 42,9  |
+| mobil                               |  82,4  | 83,4  | 84,8  | 85,2  |
+| Laptop/Notebook, Netbook            |  74,4  | 74,5  | 75,1  | 75,5  |
+| Tablet                              |  48,4  | 51,0  | 53,2  | 55,0  |
+| Drucker (auch in Kombigeräten)      | 76,7  | 77,0  | 76,7  | 76,1  |
+| Internet­zugang                      |  93,5  | 94,3  | 94,7  | 95,5  |
+| stationär (z. B. DSL oder Kabel)    |  87,1  | 87,6  | 88,7  | 88,7  |
+| mobil (z. B. Smartphone, Surfstick) |  61,6  | 63,7  | 64,4  | 63,4  |
+| Telefon                             |  99,9  | 99,9  | 99,9  | 99,9  |
+| Festnetztelefon                     |  86,4  | 85,3  | 84,3  | 82,9  |
+| Mobiltelefon, Handy                 |  97,0  | 97,5  | 97,6  | 98,1  |
+| darunter Smartphone                 |  81,6  | 84,5  | 85,6  | 88,1  |
+| Navigationsgerät                    |  46,2  | 44,4  | 41,2  | 39,3  |
 
 
 Werte von [^Statistisches Bundesamt]: Ergebnisse der Laufenden Wirtschaftsrechnungen (LWR). Ausstattung mit Gebrauchsgütern - Ausstattung privater Haushalte mit Informations- und Kommunikationstechnik - Deutschland Stand 27. Oktober 2022, [Link](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Einkommen-Konsum-Lebensbedingungen/Ausstattung-Gebrauchsgueter/Tabellen/liste-infotechnik-d.html#fussnote-2-115470)
