@@ -76,7 +76,11 @@ Zielformulierungen aus [^RahmenlehrplanMechatroniker]
 bla bla
 
 #### Ausstattung privater Haushalte mit Informations- und Kommunikationstechnik - Deutschland
+
+
 [^Statistisches Bundesamt]: Ergebnisse der Laufenden Wirtschaftsrechnungen (LWR). Ausstattung mit Gebrauchsgütern - Ausstattung privater Haushalte mit Informations- und Kommunikationstechnik - Deutschland Stand 27. Oktober 2022, [Link](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Einkommen-Konsum-Lebensbedingungen/Ausstattung-Gebrauchsgueter/Tabellen/liste-infotechnik-d.html#fussnote-2-115470)
+
+
 
 | Informations- und Kommunikations­technik | 2017   | 2019   | 2020   | 2021   | 2022    |
 | ---------------------------------------- | ------ | ------ | ------ | ------ | ------- |
