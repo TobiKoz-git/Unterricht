@@ -149,7 +149,7 @@ Werte von:
 - [ ] Loggen sie sich mit Ihren Nutzerdaten auf Lernsax.de ein.
 - [ ] Senden Sie eine E-Mail mit den Informationen aus `Vorstellung.doc` an meine E-Mail: *@email*
 
-- [(Fertig)] Ich habe alle AUfgaben erledigt!
+- [(Fertig)] Ich habe alle Aufgaben erledigt!
 
 ## Lernsituation
 {{|>}}
@@ -167,12 +167,12 @@ In der „InnovationsPlan GmbH“ wurde kürzlich eine neue CAD-Software für da
 
                               {{1-3}}
 *******************************************************************************
-- [ ] Markieren Sie den Kundenauftrag der „InnovationsPlan GmbH“ im Text.
+- [ ] ✎ Markieren Sie den Kundenauftrag der „InnovationsPlan GmbH“ im Text.
 *******************************************************************************
 
                               {{2-3}}
 *******************************************************************************
-- [ ] Analysieren Sie die Skizze des IT-Systems und nennen Sie die Bestandteile (Komponenten), des Netzwerks im Büro.
+- [ ] ✎ Analysieren Sie die Skizze des IT-Systems und nennen Sie die Bestandteile (Komponenten), des Netzwerks im Büro.
 *******************************************************************************
 
 ### Arbeitsphase Informieren
@@ -205,7 +205,7 @@ style="width: 100%; max-width: 760px; display: block; margin-left: auto; margin-
 
 
 
-- [ ] *Aufgabe zur Planung der Arbeitsschritte*
+- [ ] 👥 *Aufgabe zur Planung der Arbeitsschritte*
 
 
 |Notwendige Arbeiten um den Auftrag zu erfüllen|:                        |
