@@ -1,4 +1,4 @@
-#LS4 Neuausstattung des Planungsbüros "InnovationsPlan GmbH"
+#LS5 Neuausstattung des Planungsbüros "InnovationsPlan GmbH"
 
 
 In der „InnovationsPlan GmbH“ wurde kürzlich eine neue CAD-Software für das Planungsbüro angeschafft. Die Einführung gestaltet sich jedoch als schwierig, da die Software auf den bereits vorhandenen PCs nicht ordnungsgemäß funktioniert. Die aktuelle Hardware ist veraltet und nicht mit der neuen Software kompatibel. Aufgrund dieser Herausforderung wurden Sie als Mitarbeiter beauftragt, ein Angebot für eine umfassende neue Ausstattung für das gesamte Büro zu erstellen. Ziel ist es, einen reibungslosen Betrieb der neuen CAD-Software sicherzustellen. Zusätzlich soll der neue 3D-Drucker in das Netzwerk integriert werden, um aktuelle Einstellungen am PC überwachen zu können. Ihre Aufgabe besteht darin, eine geeignete moderne Hardwareausstattung auszuwählen, die den Anforderungen der neuen Software entspricht und einen effizienten Arbeitsablauf für die technischen Systemplaner ermöglicht. Dabei müssen Sie sowohl die technischen Anforderungen der Software als auch die individuellen Bedürfnisse und Anforderungen der Mitarbeiter berücksichtigen, um eine optimale Lösung für das Büro zu finden.
@@ -12,7 +12,7 @@ In der „InnovationsPlan GmbH“ wurde kürzlich eine neue CAD-Software für da
 
 ## Skizze des Netzwerks
 
-## LS4.1 Ein Computersystem auswählen
-## LS4.2 Ein Computersystem anhand von PC-Komponenten zusammenstellen
-## LS4.3 Einrichten eines Netzwerkes
-## LS4.4 Büroarbeitsplätze ergonomisch einrichten
+## LS5.1 Ein Computersystem auswählen
+## LS5.2 Ein Computersystem anhand von PC-Komponenten zusammenstellen
+## LS5.3 Einrichten eines Netzwerkes
+## LS5.4 Büroarbeitsplätze ergonomisch einrichten
