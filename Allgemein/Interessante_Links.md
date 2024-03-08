@@ -1,6 +1,6 @@
 # Links
 
-## Physik
+## 🔍 Physik
 
 |  Titel            | Link                           |
 |-------------------|--------------------------------|
@@ -11,7 +11,7 @@
 |Kostenlose Unterrichtsbaterialien für Physik und Sport | https://www.physikdigital.de/ |
 
 
-## Elekro- und Informationstechnik
+## 💡 Elekro- und 💾 Informationstechnik
 
 |  Titel            | Link                           |
 |-------------------|--------------------------------|
