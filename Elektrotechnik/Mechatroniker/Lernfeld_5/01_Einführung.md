@@ -155,9 +155,9 @@ In der „InnovationsPlan GmbH“ wurde kürzlich eine neue CAD-Software für da
 
 
 
-![Blickwinkel_1](https://github.com/TobiKoz-git/Unterricht/blob/main/Mechatroniker/Lernfeld_5/Grafiken/Planungsb%C3%BCro_pic1_generated_withFirefly.jpg?raw=true)
-![Blickwinkel_2](https://github.com/TobiKoz-git/Unterricht/blob/main/Mechatroniker/Lernfeld_5/Grafiken/Planungsb%C3%BCro_pic2_generated_withFirefly.jpg?raw=true)
-![Blickwinkel_3](https://github.com/TobiKoz-git/Unterricht/blob/main/Mechatroniker/Lernfeld_5/Grafiken/Planungsb%C3%BCro_pic3_generated_withFirefly.jpg?raw=true)
+![Blickwinkel_1](https://github.com/TobiKoz-git/Unterricht/blob/main/Elektrotechnik/Mechatroniker/Lernfeld_5/Grafiken/Planungsb%C3%BCro_pic1_generated_withFirefly.jpg?raw=true)
+![Blickwinkel_2](https://github.com/TobiKoz-git/Unterricht/blob/main/Elektrotechnik/Mechatroniker/Lernfeld_5/Grafiken/Planungsb%C3%BCro_pic2_generated_withFirefly.jpg?raw=true)
+![Blickwinkel_3](https://github.com/TobiKoz-git/Unterricht/blob/main/Elektrotechnik/Mechatroniker/Lernfeld_5/Grafiken/Planungsb%C3%BCro_pic3_generated_withFirefly.jpg?raw=true)
 
 
                               {{1-3}}
