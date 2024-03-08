@@ -1,25 +1,4 @@
-<!--
 
-author:   	Tobias Kozlowski
-email:    	tobias.kozlowski[a]bsz-tw-freiberg.lernsax.de
-
-version:  	0.0.5
-
-language: 	de
-narrator: 	Deutsch Male
-
-comment:  	Motivation der Lehrveranstaltung "Lernfeld 5" und Beschreibung der Organisation der Veranstaltung
-tags:     	LF5, MECH, Einführung, Lernsituation, Arbeitsplan
-
-
-icon:  	 	  https://www.bsz-freiberg.de/templates/bszjw/img/logo.svg
-logo:		    https://github.com/TobiKoz-git/Unterricht/blob/main/Mechatroniker/Lernfeld_5/Grafiken/Nutzen_von_IT_Systemen__Tobias_Kozlowski_generated_with_Firefly.jpg?raw=true
-
-mode:       Presentation
-import:
-
-
--->
 
 [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/TobiKoz-git/Unterricht/blob/main/Mechatroniker/Lernfeld_5/01_Einf%C3%BChrung.md)
 
