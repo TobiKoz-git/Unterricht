@@ -5,9 +5,9 @@ In der „InnovationsPlan GmbH“ wurde kürzlich eine neue CAD-Software für da
 
 __Bilder des Planungsbüros__
 
-![Blickwinkel_1](https://github.com/TobiKoz-git/Unterricht/blob/main/Mechatroniker/Lernfeld_5/Grafiken/Planungsb%C3%BCro_pic1_generated_withFirefly.jpg?raw=true)
-![Blickwinkel_2](https://github.com/TobiKoz-git/Unterricht/blob/main/Mechatroniker/Lernfeld_5/Grafiken/Planungsb%C3%BCro_pic2_generated_withFirefly.jpg?raw=true)
-![Blickwinkel_3](https://github.com/TobiKoz-git/Unterricht/blob/main/Mechatroniker/Lernfeld_5/Grafiken/Planungsb%C3%BCro_pic3_generated_withFirefly.jpg?raw=true)
+![Blickwinkel_1](https://github.com/TobiKoz-git/Unterricht/blob/main/Elektrotechnik/Mechatroniker/Lernfeld_5/Grafiken/Planungsb%C3%BCro_pic1_generated_withFirefly.jpg?raw=true)
+![Blickwinkel_2](https://github.com/TobiKoz-git/Unterricht/blob/main/Elektrotechnik/Mechatroniker/Lernfeld_5/Grafiken/Planungsb%C3%BCro_pic2_generated_withFirefly.jpg?raw=true)
+![Blickwinkel_3](https://github.com/TobiKoz-git/Unterricht/blob/main/Elektrotechnik/Mechatroniker/Lernfeld_5/Grafiken/Planungsb%C3%BCro_pic3_generated_withFirefly.jpg?raw=true)
 
 __Grundriss__
 
@@ -28,7 +28,31 @@ __Skizze des Netzwerks__
 
 
 ### 🎯 Ziel
- Die Schüler sollen Kriterien für die Auswahl von Computern und Peripheriegeräten erarbeiten, indem sie aktuelle Anzeigen von Komplettsystemen verschiedener Anbieter vergleichen und einen Computer mit Monitor und Drucker für einen Büroarbeitsplatz begründet auswählen.
+ Die Lernenden sollen Kriterien für die Auswahl von Computern und Peripheriegeräten erarbeiten, indem sie aktuelle Anzeigen von Komplettsystemen verschiedener Anbieter vergleichen und einen Computer mit Monitor und Drucker für einen Büroarbeitsplatz begründet auswählen.
+
+### Kompetenzentwicklung
+
+__Berufsbezogener Bereich__
+- Fachkompetenz
+    - Lasten-/Pflichtenheft
+    - Bedarfsorientiertes Auswählen von Computersystemen
+    - Kalkulation erstellen
+- Methodenkompetenz
+    - Informationen rechachieren
+    - Arbeit dokumentieren
+- Personal-/Sozialkompetenz
+    - Teamfähigkeit fördern
+    - verschiedene Lösungsvorschläge diskutieren
+
+__Berufsübergreifender Bereich__
+ - Deutsch/Kommunikations
+    - in diskussionen auf andere eingehen und den eigenen Standpunkt vertreten
+    - Fachtexte erfassen und wiedegeben
+    - Arbeitsergebnisse dokumentieren und präsentieren
+    - Präsentationstechniken nutzen
+ - Wirtschafts- und Betriebslehre
+    - Kalkulationen erstellen
+
 
 ### Handlungsphasen
 
@@ -52,7 +76,21 @@ __Skizze des Netzwerks__
 | __Vertiefen__                              |  |     |
 |                                            | LS Neuausstattung des Planungsbüros                                                                         | LS5.2                                                 |
 
+### Situationsbeschreibung
 
+
+
+### Handlungsschritte
+
+1. Sie arbeiten zur Lösung dieser Aufgabe in Partnerarbeit. ...
+2. Sie wählen für diese Aufgabe die pc-Systeme ....
+  - ...
+  - ...
+  - ...
+3. ....
+4. ....
+5. ....
+6. ....
 
 ## LS5.2 Ein Computersystem anhand von PC-Komponenten zusammenstellen
 
