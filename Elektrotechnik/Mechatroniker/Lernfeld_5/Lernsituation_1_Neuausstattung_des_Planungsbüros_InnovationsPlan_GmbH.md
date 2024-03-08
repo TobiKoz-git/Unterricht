@@ -92,14 +92,64 @@ __Berufsübergreifender Bereich__
 5. ....
 6. ....
 
-## LS5.2 Ein Computersystem anhand von PC-Komponenten zusammenstellen
+## LS5.2 Computersysteme anhand von PC-Komponenten zusammenstellen
+### Übersicht
 
-__🎯 Ziel:__
+| Lernsituation     | Computersysteme anhand von PC-Komponenten zusammenstellen |     |
+| ----------------- | ---------------------------- | --- |
+| __Zeitrichtwert__ |                           |     |
+| __Beschreibung__  |                              |     |
+| __Inhalte__       |  ||
+
+
+### 🎯 Ziel
+
+### Kompetenzentwicklung
+
+### Handlungsphasen
+
+### Situationsbeschreibung
+
+### Handlungsschritte
 
 ## LS5.3 Einrichten eines Netzwerkes
 
-__🎯 Ziel:__
+### Übersicht
+
+| Lernsituation     | Einrichten eines Netzwerkes |     |
+| ----------------- | ---------------------------- | --- |
+| __Zeitrichtwert__ |                           |     |
+| __Beschreibung__  |                              |     |
+| __Inhalte__       |  ||
+
+
+### 🎯 Ziel
+
+### Kompetenzentwicklung
+
+### Handlungsphasen
+
+### Situationsbeschreibung
+
+### Handlungsschritte
 
 ## LS5.4 Büroarbeitsplätze ergonomisch einrichten
 
-__🎯 Ziel:__
+### Übersicht
+
+| Lernsituation     | Büroarbeitsplätze ergonomisch einrichten |     |
+| ----------------- | ---------------------------- | --- |
+| __Zeitrichtwert__ |                           |     |
+| __Beschreibung__  |                              |     |
+| __Inhalte__       |  ||
+
+
+### 🎯 Ziel
+
+### Kompetenzentwicklung
+
+### Handlungsphasen
+
+### Situationsbeschreibung
+
+### Handlungsschritte
