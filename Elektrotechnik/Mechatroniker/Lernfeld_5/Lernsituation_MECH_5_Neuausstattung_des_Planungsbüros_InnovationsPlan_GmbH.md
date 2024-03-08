@@ -19,13 +19,12 @@ __Skizze des Netzwerks__
 
 ### Übersicht
 
-| Lernsituation     | Ein Computersystem auswählen |     |
-| ----------------- | ---------------------------- | --- |
-| __Zeitrichtwert__ |                           |     |
-| __Beschreibung__  |                              |     |
-| __Inhalte__       | Dokumentation: Pflichtenheft, Kalkulation ||
-|| Hardware: PC-Komplettsysteme, Peripheriegeräte eines PCs                            |     |
-
+| Lernsituation     | Ein Computersystem auswählen 			  	   | 
+| ----------------- | ------------------------------------------------------------ |
+| __Zeitrichtwert__ |                          	   			  	   | 
+| __Beschreibung__  |                              			 	   | 
+| __Inhalte__       | Dokumentation: Pflichtenheft, Kalkulation 		   |
+|		    | Hardware: PC-Komplettsysteme, Peripheriegeräte eines PCs     |
 
 ### 🎯 Ziel
  Die Lernenden sollen Kriterien für die Auswahl von Computern und Peripheriegeräten erarbeiten, indem sie aktuelle Anzeigen von Komplettsystemen verschiedener Anbieter vergleichen und einen Computer mit Monitor und Drucker für einen Büroarbeitsplatz begründet auswählen.
@@ -56,24 +55,24 @@ __Berufsübergreifender Bereich__
 
 ### Handlungsphasen
 
-| 🔀 Handlungsphasen | 📃 Arbeitsaufträge                                                                                             | Methoden, Medien, Sozialformen               |
-|:-------------------------------------------:|:----------------------------------------------------------------------------------------------------------- |:----------------------------------------------------- |
+| 🔀 Handlungsphasen 						  | 📃 Arbeitsaufträge                                                                                         | Methoden, Medien, Sozialformen                       |
+|:-------------------------------------------:|:---------------------------------------------------------------------------------------------------------- |:----------------------------------------------------- |
 |                                            |                                                                                                             |                                                       |
-| __Analysieren__                            | Darstellung der Aufgabenstellung in einem Lastenheft                                                        |                            |
+| __Analysieren__                            | Darstellung der Aufgabenstellung in einem Lastenheft                                                        |                            			   |
 |                                            |                                                                                                             |                                                       |
-| __Planen__                                 | Erstellen von Kriterien zur Auswahl von Einzelplatzsystemen und deren Peripherie                            |   |
-|                                            | Austausch der Ergebnisse                                                                                    |                     |
-|                                            | Erstellen eines Pflichtenheftes                                                                             |                               |
+| __Planen__                                 | Erstellen von Kriterien zur Auswahl von Einzelplatzsystemen und deren Peripherie                            |   						           |
+|                                            | Austausch der Ergebnisse                                                                                    |                     				   |
+|                                            | Erstellen eines Pflichtenheftes                                                                             |                               			   |
 |                                            |                                                                                                             |                                                       |
-| __Ausführen__                              | Auswahl eines Computers anhand verschiedener Angebote                                                                |  |
-|                                            | Erstellen einer Kalkulation                                                                                 |                               |
+| __Ausführen__                              | Auswahl eines Computers anhand verschiedener Angebote                                                       |							   |
+|                                            | Erstellen einer Kalkulation                                                                                 |                               			   |
 |                                            |                                                                                                             |                                                       |
-| __Bewerten__                               | Beurteilen der verschiedenen Ergebnisse                                                                     |   |
-|                                            | Bewertung der eigenen Arbeit                                                                                |               |
-||||
-| __Reflektieren__                           | Nachbetrachtung der Vorgehensweise, Festhalten der Ergebnisse                                               |                  |
+| __Bewerten__                               | Beurteilen der verschiedenen Ergebnisse                                                                     |   							   |
+|                                            | Bewertung der eigenen Arbeit                                                                                |               					   |
+|					     |														   |							   |
+| __Reflektieren__                           | Nachbetrachtung der Vorgehensweise, Festhalten der Ergebnisse                                               |                  					   |
 |                                            |                                                                                                             |                                                       |
-| __Vertiefen__                              |  |     |
+| __Vertiefen__                              |  													   |						           |
 |                                            | LS Neuausstattung des Planungsbüros                                                                         | LS5.2                                                 |
 
 ### Situationsbeschreibung
@@ -95,11 +94,11 @@ __Berufsübergreifender Bereich__
 ## LS5.2 Computersysteme anhand von PC-Komponenten zusammenstellen
 ### Übersicht
 
-| Lernsituation     | Computersysteme anhand von PC-Komponenten zusammenstellen |     |
-| ----------------- | ---------------------------- | --- |
-| __Zeitrichtwert__ |                           |     |
-| __Beschreibung__  |                              |     |
-| __Inhalte__       |  ||
+| Lernsituation     | Computersysteme anhand von PC-Komponenten zusammenstellen |
+| ----------------- | --------------------------------------------------------- | 
+| __Zeitrichtwert__ |                         				        |
+| __Beschreibung__  |                              				|
+| __Inhalte__       |  								|
 
 
 ### 🎯 Ziel
@@ -116,11 +115,11 @@ __Berufsübergreifender Bereich__
 
 ### Übersicht
 
-| Lernsituation     | Einrichten eines Netzwerkes |     |
-| ----------------- | ---------------------------- | --- |
-| __Zeitrichtwert__ |                           |     |
-| __Beschreibung__  |                              |     |
-| __Inhalte__       |  ||
+| Lernsituation     | Computersysteme anhand von PC-Komponenten zusammenstellen |
+| ----------------- | --------------------------------------------------------- | 
+| __Zeitrichtwert__ |                         				        |
+| __Beschreibung__  |                              				|
+| __Inhalte__       |  								|
 
 
 ### 🎯 Ziel
@@ -137,11 +136,11 @@ __Berufsübergreifender Bereich__
 
 ### Übersicht
 
-| Lernsituation     | Büroarbeitsplätze ergonomisch einrichten |     |
-| ----------------- | ---------------------------- | --- |
-| __Zeitrichtwert__ |                           |     |
-| __Beschreibung__  |                              |     |
-| __Inhalte__       |  ||
+| Lernsituation     | Computersysteme anhand von PC-Komponenten zusammenstellen |
+| ----------------- | --------------------------------------------------------- | 
+| __Zeitrichtwert__ |                         				        |
+| __Beschreibung__  |                              				|
+| __Inhalte__       |  								|
 
 
 ### 🎯 Ziel
