@@ -13,7 +13,8 @@
 
 ## 💡 Elekro- und 💾 Informationstechnik
 
-|  Titel            | Link                           |
-|-------------------|--------------------------------|
-| Dokumentation zum Informatikunterricht am Gymnasium Kirchenfeld | https://informatik.mygymer.ch/m23c/009.hardware/#vorwissen |
-| Unterrichtsmaterialien und Sequenzen von Andreas Fey | https://andreasfey.de/index.html |
+|  Titel            								| Link                           				|
+|-------------------------------------------------------------------------------|---------------------------------------------------------------|
+| Dokumentation zum Informatikunterricht am Gymnasium Kirchenfeld 		| https://informatik.mygymer.ch/m23c/009.hardware/#vorwissen 	|
+| Unterrichtsmaterialien und Sequenzen von Andreas Fey 				| https://andreasfey.de/index.html 				|
+| Arbeitsblätter und Materialien (hauptsächlich für den Informatik- und Mathematikunterricht)| https://github.com/jneug/schule/tree/main			|
