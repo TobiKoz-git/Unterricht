@@ -18,7 +18,6 @@ logo:		    https://github.com/TobiKoz-git/Unterricht/blob/main/Mechatroniker/Ler
 mode:       Presentation
 import:
 
-@config.BSZ: `Berufliches Schulzentrum für Technik und Wirtschaft "Julius Weisbach"`
 
 -->
 
