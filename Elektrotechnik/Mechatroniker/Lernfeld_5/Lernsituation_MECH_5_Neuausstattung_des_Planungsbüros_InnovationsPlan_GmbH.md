@@ -19,15 +19,15 @@ __Skizze des Netzwerks__
 
 ### Übersicht
 
-| Lernsituation     | Ein Computersystem auswählen 			  	   | 
+| Lernsituation     | Ein Computersystem auswählen 			  	   |
 | ----------------- | ------------------------------------------------------------ |
-| __Zeitrichtwert__ |                          	   			  	   | 
-| __Beschreibung__  |                              			 	   | 
+| __Zeitrichtwert__ |                          	   			  	   |
+| __Beschreibung__  |                              			 	   |
 | __Inhalte__       | Dokumentation: Pflichtenheft, Kalkulation 		   |
 |		    | Hardware: PC-Komplettsysteme, Peripheriegeräte eines PCs     |
 
 ### 🎯 Ziel
- Die Lernenden sollen Kriterien für die Auswahl von Computern und Peripheriegeräten erarbeiten, indem sie aktuelle Anzeigen von Komplettsystemen verschiedener Anbieter vergleichen und einen Computer mit Monitor und Drucker für einen Büroarbeitsplatz begründet auswählen.
+ Die Lernenden erarbeiten Kriterien für die Auswahl von Computern und Peripheriegeräten, indem sie aktuelle Anzeigen von Komplettsystemen verschiedener Anbieter vergleichen und einen Computer mit Monitor und Drucker für einen Büroarbeitsplatz begründet auswählen.
 
 ### Kompetenzentwicklung
 
@@ -95,7 +95,7 @@ __Berufsübergreifender Bereich__
 ### Übersicht
 
 | Lernsituation     | Computersysteme anhand von PC-Komponenten zusammenstellen |
-| ----------------- | --------------------------------------------------------- | 
+| ----------------- | --------------------------------------------------------- |
 | __Zeitrichtwert__ |                         				        |
 | __Beschreibung__  |                              				|
 | __Inhalte__       |  								|
@@ -116,7 +116,7 @@ __Berufsübergreifender Bereich__
 ### Übersicht
 
 | Lernsituation     | Computersysteme anhand von PC-Komponenten zusammenstellen |
-| ----------------- | --------------------------------------------------------- | 
+| ----------------- | --------------------------------------------------------- |
 | __Zeitrichtwert__ |                         				        |
 | __Beschreibung__  |                              				|
 | __Inhalte__       |  								|
@@ -137,7 +137,7 @@ __Berufsübergreifender Bereich__
 ### Übersicht
 
 | Lernsituation     | Computersysteme anhand von PC-Komponenten zusammenstellen |
-| ----------------- | --------------------------------------------------------- | 
+| ----------------- | --------------------------------------------------------- |
 | __Zeitrichtwert__ |                         				        |
 | __Beschreibung__  |                              				|
 | __Inhalte__       |  								|
