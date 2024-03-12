@@ -90,18 +90,18 @@ Werte von:
 
 Welche PC-Systeme haben Sie im Einsatz?
 
-- [] Desktop-PC
-- [] Notebook (2-in-1, Convertible)
-- [] Smartphone
-- [] Keins von diesen
+- [ ] Desktop-PC
+- [ ] Notebook (2-in-1, Convertible)
+- [ ] Smartphone
+- [ ] Keins von diesen
 
 Wofür nutzen sie Ihren Computer maßgeblich?
 
-- [] Spielen
-- [] Arbeiten
-- [] 500 bis 999 Euro
-- [] 1.000 Bis 1.999 Euro
-- [] 2.000 Euro und mehr
+- [ ] Spielen
+- [ ] Arbeiten
+- [ ] 500 bis 999 Euro
+- [ ] 1.000 Bis 1.999 Euro
+- [ ] 2.000 Euro und mehr
 
 
 
