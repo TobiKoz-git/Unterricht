@@ -218,3 +218,7 @@ style="width: 100%; max-width: 760px; display: block; margin-left: auto; margin-
 > Für den effektiven Einsatz der neuen CAD-Software müssen neue PCs angeschafft werden. Dazu müssen die Baugruppen der Computer ausgewählt werden. Die technischen Daten sind in den jeweiligen Datenblättern beschrieben. Grundlegende Kenntnisse sind erforderlich, um diese Informationen zu verstehen.
 
 > _Phase: Informieren_
+
+
+
+Bearbeiten Sie das Arbeitsblatt 1.1 EVA-Prinzip. (PA 15´)

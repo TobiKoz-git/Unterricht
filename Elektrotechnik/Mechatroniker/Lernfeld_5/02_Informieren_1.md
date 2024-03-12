@@ -11,14 +11,10 @@ narrator: 	Deutsch Female
 comment:  	Bearbeiten des Arbeitsschrittes 1 der Lernsituation und Beginn der Arbeitsphase des "Informierens".
 tags:     	LF5, MECH, EVA-Prinzip, Schichtenmodell der Informatik, Klassen von Computern, Bits und Bytes
 
-
-icon:  		https://www.bsz-freiberg.de/templates/bszjw/img/logo.svg
-logo:		https://github.com/TobiKoz-git/Unterricht/blob/main/Mechatroniker/Lernfeld_5/Grafiken/Nutzen_von_IT_Systemen__Tobias_Kozlowski_generated_with_Firefly.jpg?raw=true
+icon:  	 	  https://www.bsz-freiberg.de/templates/bszjw/img/logo.svg
+logo:		    https://github.com/TobiKoz-git/Unterricht/blob/main/Elektrotechnik/Mechatroniker/Lernfeld_5/Grafiken/Nutzen_von_IT_Systemen__Tobias_Kozlowski_generated_with_Firefly.jpg?raw=true
 
 mode:       Presentation
-import:
-
-@config.BSZ: `Berufliches Schulzentrum für Technik und Wirtschaft "Julius Weisbach"`
 
 -->
 
@@ -40,14 +36,18 @@ import:
 ---------------------------------------------------------------------
 
 # 1 Der Computer
-{{0-4}}
+![Kinder am Computer, Image by StartupStockPhotos from Pixabay](https://cdn.pixabay.com/photo/2015/01/08/18/24/children-593313_1280.jpg)
+
+                            {{0-4}}
 *******************************************************************************
 Diskutieren Sie die folgenden Punkte mit Ihrem Nachbarn. Notiert, wo ihr übereinstimmt und wo ihr unterschiedlicher Meinung seid.
 
-- [ ] a) Was ist ein Computer?
-- [ ] b) Was ist Hardware?
-- [ ] c) Wie viele Computer befinden sich imn diesem Zimmer?
+- [ ] a) 👥 Was ist ein Computer? Finden sie eine Definition.
+- [ ] b) 👥 Was ist Hardware? Finden sie eine Beschreibung.
+- [ ] c) 👥 Wie viele Computer befinden sich in diesem Zimmer?
 *******************************************************************************
+
+- [(Fertig)] Ich habe alle Aufgaben erledigt!
 
 {{1-4}}
 *******************************************************************************
@@ -74,10 +74,14 @@ c) >20 Datenverarbeitungsanlagen (18 Computer im Raum, 20 Smartphones, ...)
 ## 1.1 EVA-Prinzip
 Die Grundstruktur jedes Computers kann durch das EVA(S)-Prinzip dargestellt werden.
 
+Bearbeiten Sie das Arbeitsblatt 1.1 EVA-Prinzip. (PA 15´)
+
+- [ ] 👥 Die Grunstrucktur jedes Computers kann durch das EVA(S)-Prinzip dargestellt werden. Vervollständigen Sie das Modell zum EVA(S)-Prinzip:
 
 <!--
 style="width: 100%; max-width: 860px; display: block; margin-left: auto; margin-right: auto;"
 -->
+
 ```ascii
 
 
@@ -104,12 +108,14 @@ style="width: 100%; max-width: 860px; display: block; margin-left: auto; margin-
                                        +---------------------------+
 ```
 
+
 + Eingabe: Dient dem Benutzer (User) zur Eingabe von Daten oder Befehlen.
 + Verarbeitung: Verarbeitung der eingegebenen Daten nach bestimmten Vorgaben (Programm & Algorithmen).
 + Speicher: Speichern des Programms und temporär auch der zu verarbeitenden Daten oder Zwischenergebnisse.
 + Ausgabe: Übermittlung der Ergebnisse an den Benutzer oder an andere Geräte.
 
 ## 1.2 Perepheriegeräte
+
 ******************************************************************************
 >`Definition:` Peripheriegeräte = Eingabe- und Ausgabegeräte
 
