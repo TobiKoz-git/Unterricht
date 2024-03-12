@@ -86,25 +86,6 @@ Anteil der Haushalte in %
 Werte von:
 [^Statistisches Bundesamt]: Ergebnisse der Laufenden Wirtschaftsrechnungen (LWR). Ausstattung mit Gebrauchsgütern - Ausstattung privater Haushalte mit Informations- und Kommunikationstechnik - Deutschland Stand 27. Oktober 2022, [Link](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Einkommen-Konsum-Lebensbedingungen/Ausstattung-Gebrauchsgueter/Tabellen/liste-infotechnik-d.html#fussnote-2-115470)
 
-### Welche Hardware und IT-Produkte nutzen Sie?
-
-Welche PC-Systeme haben Sie im Einsatz?
-
-- [(1)] Desktop-PC
-- [(2)] Notebook (2-in-1, Convertible)
-- [(3)] Smartphone
-- [(4)] Keins von diesen
-
-Wofür nutzen sie Ihren Computer maßgeblich?
-
-- [(1)] Spielen
-- [(2)] Arbeiten
-- [(3)] 500 bis 999 Euro
-- [(4)] 1.000 Bis 1.999 Euro
-- [(5)] 2.000 Euro und mehr
-
-
-
 ## Organisation
 
 ### Lehrer
@@ -149,6 +130,83 @@ Wofür nutzen sie Ihren Computer maßgeblich?
 1. Aufbau eines Computerarbeitsplatzes
 2. ergonomische Gesichtspunkte
 *******************************************************************************
+
+
+### Checkliste
+
+#### Wie nutzen Sie IT-Systeme?
+
+Welche PC-Systeme haben Sie im Einsatz?
+
+- [(1)] Desktop-PC
+- [(2)] Notebook (2-in-1, Convertible)
+- [(3)] Smartphone
+- [(4)] Keins von diesen
+
+Wofür nutzen Sie Ihren Computer hauptsächlich?
+
+- [(1)] Fast nur zum Spielen.
+- [(2)] Ich habe ihn vor allem für Schularbeiten und zum Lesen von Nachrichten gekauft.
+- [(3)] Am liebsten schaue ich mir Filme damit an.
+
+Wie eignen Sie sich Computer-Kenntnisse an?
+
+- [(1)] Durch Ausprobieren.
+- [(2)] Durch Berichte von Magazinen.
+- [(3)] Durch Freunde und Bekannte.
+- [(4)] Durch Internetrecherche, Youtube, Foren, ....
+
+
+#### Wie schätzen Sie Ihre Kenntnisse ein?
+
+Das EVA Prinzip
+
+- [(1)] kann ich beschreiben / erklären
+- [(2)] hab ich schon einmal gehört
+- [(3)] ist mir neu / noch nie gehört
+
+Peripheriegerät
+
+- [(1)] kann ich beschreiben / erklären
+- [(2)] hab ich schon einmal gehört
+- [(3)] ist mir neu / noch nie gehört
+
+Binär-, Dezimal-, Hexadezimalzahlen
+
+- [(1)] kann ich beschreiben / erklären
+- [(2)] hab ich schon einmal gehört
+- [(3)] ist mir neu / noch nie gehört
+
+Die Bestandteile eines Computers.
+
+- [(1)] kann ich beschreiben / erklären
+- [(2)] hab ich schon einmal gehört
+- [(3)] ist mir neu / noch nie gehört
+
+IP-Adresse, MAC- Adresse
+
+- [(1)] kann ich beschreiben / erklären
+- [(2)] hab ich schon einmal gehört
+- [(3)] ist mir neu / noch nie gehört
+
+Aufbau eines Netzwerkes
+
+- [(1)] kann ich beschreiben / erklären
+- [(2)] hab ich schon einmal gehört
+- [(3)] ist mir neu / noch nie gehört
+
+Maßnahmen zur IT-Sicherheit
+
+- [(1)] kann ich beschreiben / erklären
+- [(2)] hab ich schon einmal gehört
+- [(3)] ist mir neu / noch nie gehört
+
+ein ergonomischer PC-Arbeitsplatz
+
+- [(1)] kann ich beschreiben / erklären
+- [(2)] hab ich schon einmal gehört
+- [(3)] ist mir neu / noch nie gehört
+
 
 ## Werkzeuge der Veranstaltung
 * Der PC-Arbeitsplatz
