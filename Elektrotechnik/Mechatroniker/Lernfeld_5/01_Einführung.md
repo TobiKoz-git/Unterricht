@@ -68,7 +68,7 @@ Zielformulierungen aus [^RahmenlehrplanMechatroniker]
 
 ### Wozu brauche ich das?
 
-bla bla
+
 
 #### Ausstattung privater Haushalte mit Informations- und Kommunikationstechnik - Deutschland
 Anteil der Haushalte in %
@@ -85,6 +85,23 @@ Anteil der Haushalte in %
 
 Werte von:
 [^Statistisches Bundesamt]: Ergebnisse der Laufenden Wirtschaftsrechnungen (LWR). Ausstattung mit Gebrauchsgütern - Ausstattung privater Haushalte mit Informations- und Kommunikationstechnik - Deutschland Stand 27. Oktober 2022, [Link](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Einkommen-Konsum-Lebensbedingungen/Ausstattung-Gebrauchsgueter/Tabellen/liste-infotechnik-d.html#fussnote-2-115470)
+
+### Welche Hardware und IT-Produkte nutzen Sie?
+
+Welche PC-Systeme haben Sie im Einsatz?
+
+- [] Desktop-PC
+- [] Notebook (2-in-1, Convertible)
+- [] Smartphone
+- [] Keins von diesen
+
+Wofür nutzen sie Ihren Computer maßgeblich?
+
+- [] Spielen
+- [] Arbeiten
+- [] 500 bis 999 Euro
+- [] 1.000 Bis 1.999 Euro
+- [] 2.000 Euro und mehr
 
 
 
