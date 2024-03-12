@@ -134,7 +134,7 @@ Werte von:
 
 ### Checkliste
 
-![Checkliste](https://cdn.pixabay.com/photo/2017/08/06/06/18/checklist-2589418_1280.jpg)
+![](https://cdn.pixabay.com/photo/2017/08/06/06/18/checklist-2589418_1280.jpg)
 
 #### Wie nutzen Sie IT-Systeme?
 
