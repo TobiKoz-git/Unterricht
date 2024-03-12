@@ -236,7 +236,7 @@ ein ergonomischer PC-Arbeitsplatz
 
 ### Aufgabe
 - [ ] Melden Sie sich an Ihrem Rechner an.
-- [ ] Navigieren sie zum Ordner `Schüleraustausch` und öffnen sie die Datei `Vorstellung.doc`
+- [ ] Navigieren sie zum Ordner `Datenaustauch Schüler/Kozlowski/Klassenname` und öffnen sie die Datei `Vorstellung.doc`
 - [ ] Loggen sie sich mit Ihren Nutzerdaten auf Lernsax.de ein.
 - [ ] Senden Sie eine E-Mail mit den Informationen aus `Vorstellung.doc` an meine E-Mail: *@email*
 
@@ -290,7 +290,7 @@ style="width: 100%; max-width: 760px; display: block; margin-left: auto; margin-
           \  Kontrollstufe                  Wurde der Auftrag sach- und fachgerecht durchgeführt?   
            \
             \  Beurteilung                  Was kann zukünftig verbessert werden?
-            v
+             v
 ```
 
 
