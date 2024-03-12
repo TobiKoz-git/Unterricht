@@ -146,8 +146,9 @@ Welche PC-Systeme haben Sie im Einsatz?
 Wofür nutzen Sie Ihren Computer hauptsächlich?
 
 - [(1)] Fast nur zum Spielen.
-- [(2)] Ich habe ihn vor allem für Schularbeiten und zum Lesen von Nachrichten gekauft.
+- [(2)] Ich habe ihn vor allem für die Schule / Arbeit gekauft.
 - [(3)] Am liebsten schaue ich mir Filme damit an.
+- [(4)] Eigentlich nur für Youtube, Instagram, Twitch, TikTok, ...
 
 Wie eignen Sie sich Computer-Kenntnisse an?
 
