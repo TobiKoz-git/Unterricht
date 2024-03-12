@@ -192,7 +192,25 @@ IP-Adresse, MAC- Adresse
 - [(2)] hab ich schon einmal gehört
 - [(3)] ist mir neu / noch nie gehört
 
+Kenngrößen Bit, Byte, Gigahertz, Megabyte pro Sekunde, ...
+
+- [(1)] kann ich beschreiben / erklären
+- [(2)] hab ich schon einmal gehört
+- [(3)] ist mir neu / noch nie gehört
+
 Aufbau eines Netzwerkes
+
+- [(1)] kann ich beschreiben / erklären
+- [(2)] hab ich schon einmal gehört
+- [(3)] ist mir neu / noch nie gehört
+
+Betriebssysteme (Windows, Linux, MacOS)
+
+- [(1)] kann ich beschreiben / erklären
+- [(2)] hab ich schon einmal gehört
+- [(3)] ist mir neu / noch nie gehört
+
+Von-Neumann-Architektur
 
 - [(1)] kann ich beschreiben / erklären
 - [(2)] hab ich schon einmal gehört
