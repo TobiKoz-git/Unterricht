@@ -114,14 +114,14 @@ style="width: 100%; max-width: 860px; display: block; margin-left: auto; margin-
 + Speicher: Speichern des Programms und temporär auch der zu verarbeitenden Daten oder Zwischenergebnisse.
 + Ausgabe: Übermittlung der Ergebnisse an den Benutzer oder an andere Geräte.
 
-## 1.2 Perepheriegeräte
+## 1.2 Peripheriegeräte
 
-******************************************************************************
+
 >`Definition:` Peripheriegeräte = Eingabe- und Ausgabegeräte
 
 > Ein Peripheriegerät ist eine Komponente oder ein Gerät, das sich außerhalb der Zentraleinheit eines Computers befindet und als Zubehör dient.
 
-*******************************************************************************
+
 
 ### Arbeitsauftrag
 
