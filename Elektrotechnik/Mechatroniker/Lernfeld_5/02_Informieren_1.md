@@ -504,6 +504,44 @@ style="width: 100%; max-width: 200px; display: block; margin-left: auto; margin-
 |Server | Netzwerkserver|
 |Großrechner / Supercomputer | Zahlungsverarbeitung in einer Bank, Wettervorhersage |
 
-
-
 *******************************************************************************
+
+## 1.5 Bits und Bytes
+
+- [ ] Schauen Sie das nachfolgende Video und füllen Sie dabei die Lücken des Arbeitsblattes "Bits und Bytes".
+
+!?[Bits und Bytes: Binärziffern 0 und 1 - Arithmetik in Computern 1](https://www.youtube.com/watch?v=0Exik_Q3kDk)
+
+## 1.6 Hexadezimalzahlen, Dezimalzahlen und Binärzahlen
+### Arbeitsauftrag
+----------------------------------------------------
+- [ ] Öffnen Sie den Komandointerpreter (cmd) im Windows-Startmenü. Geben Sie den Befehl `ipconfig /all` ein und notieren Sie zu Ihrem PC:
+
+|                                 |              |
+|:--------------------------------|--------------|
+| Hostname / Bezeichnung          |              |
+| physische Adresse (MAC-Adresse) |              |
+| IPv4-Adresse                    |              |
+| IPv6-Adresse                    |              |
+---------------------------------------------------------------------
+
+- [ ] Arbeiten sie die Inhalte der Internetseite [dualzahlen.de](http://www.dualzahlen.de/zahlensysteme.html) durch und füllen die die folgende Tabelle.
+
+- [ ] Wandeln Sie ausführlich schriftlich um:
+
+- $1011101_2$ in Dezimalzahl und Hexadezimalzahl
+- $1101010001_2$ in Dezimalzahl und Hexadezimalzahl
+- $5439_10$ in Dualzahl und Hexadezimalzahl
+- $842_10$ in Dualzahl und Hexadezimalzahl
+- $BC4F1_16$ in Dezimalzahl und Dualzahl
+- $12DC_16$ in Dezimalzahl und Dualzahl
+
+####  
+
+- [ ] Welche Zahlenbasis liegt den Adressen Ihres PCs im Schulnetz zugrunde? Übersetzen Sie Ihre PC-Adressen ins Dualsystem.
+
+|              |Zahlensystem/ Basis | Duale Notation |
+|:--------------------------------|--------------|-----|
+| MAC-Adresse          |              |$90-1B-0E-68-C5-C1$=$(144-27-14-104-197-193)_{10} $= $10010000-00011011-00001110-01101000-11000101-11000001$ |
+| IPv4-Adresse |              |$11000000.10101000.01110001.00001011$ |
+| IPv6-Adresse                    |              |
