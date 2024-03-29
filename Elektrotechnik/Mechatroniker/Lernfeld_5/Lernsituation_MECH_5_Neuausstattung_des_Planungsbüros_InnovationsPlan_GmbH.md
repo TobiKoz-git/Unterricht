@@ -96,7 +96,7 @@ __Berufsübergreifender Bereich__
 
 | Lernsituation     | Computersysteme anhand von PC-Komponenten zusammenstellen |
 | ----------------- | --------------------------------------------------------- |
-| __Zeitrichtwert__ |                         				        |
+| __Zeitrichtwert__ |   ⏱️                      				        |
 | __Beschreibung__  |                              				|
 | __Inhalte__       |  								|
 
