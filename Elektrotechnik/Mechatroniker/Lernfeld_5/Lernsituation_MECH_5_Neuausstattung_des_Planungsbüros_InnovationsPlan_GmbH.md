@@ -27,7 +27,7 @@ __Skizze des Netzwerks__
 |		    | Hardware: PC-Komplettsysteme, Peripheriegeräte eines PCs     |
 
 ### 🎯 Ziel
- Die Lernenden erarbeiten Kriterien für die Auswahl von Computern und Peripheriegerätenm, indem sie aktuelle Anzeigen von Komplettsystemen verschiedener Anbieter vergleichen und einen Computer mit Monitor und Drucker für einen Büroarbeitsplatz begründet auswählen.
+ Die Lernenden erarbeiten Kriterien für die Auswahl von Computern und Peripheriegeräten, indem sie aktuelle Anzeigen von Komplettsystemen verschiedener Anbieter vergleichen und einen Computer mit Monitor und Drucker für einen Büroarbeitsplatz begründet auswählen.
 
 ### Kompetenzentwicklung
 
