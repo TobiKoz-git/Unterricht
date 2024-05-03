@@ -40,7 +40,7 @@ mode:       Presentation
 
                             {{0-4}}
 *******************************************************************************
-Diskutieren Sie die folgenden Punkte mit Ihrem Nachbarn. Notiert, wo ihr übereinstimmt und wo ihr unterschiedlicher Meinung seid.
+Diskutieren Sie die folgenden Punkte mit Ihrem Nachbarn. Notieren Sie, wo Sie mit ihm übereinstimmen und wo Sie unterschiedlicher Meinung sind.
 
 - [ ] a) 👥 Was ist ein Computer? Finden sie eine Definition.
 - [ ] b) 👥 Was ist Hardware? Finden sie eine Beschreibung.
@@ -476,6 +476,7 @@ style="width: 100%; max-width: 200px; display: block; margin-left: auto; margin-
 
 
 ### Arbeitsauftrag
+Bearbeiten Sie das Arbeitsblatt "Schichtenmodell".
 
 - [ ] 👥 Ordnen Sie die folgenden Beispiele in das Schichtenmodell ein und geben Sie die Spezifikation zur Schicht mit an. (EA 5 min, PA 5 min)
 
@@ -514,6 +515,9 @@ style="width: 100%; max-width: 200px; display: block; margin-left: auto; margin-
 
 ## 1.6 Hexadezimalzahlen, Dezimalzahlen und Binärzahlen
 ### Arbeitsauftrag
+
+Bearbeiten Sie das Arbeitsblatt Zahlensysteme.
+
 ----------------------------------------------------
 - [ ] Öffnen Sie den Komandointerpreter (cmd) im Windows-Startmenü. Geben Sie den Befehl `ipconfig /all` ein und notieren Sie zu Ihrem PC:
 
@@ -525,7 +529,7 @@ style="width: 100%; max-width: 200px; display: block; margin-left: auto; margin-
 | IPv6-Adresse                    |              |
 ---------------------------------------------------------------------
 
-- [ ] Arbeiten sie die Inhalte der Internetseite [dualzahlen.de](http://www.dualzahlen.de/zahlensysteme.html) durch und füllen die die folgende Tabelle.
+- [ ] Arbeiten Sie die Inhalte der Internetseite [dualzahlen.de](http://www.dualzahlen.de/zahlensysteme.html) durch und füllen die die folgende Tabelle.
 
 - [ ] Wandeln Sie ausführlich schriftlich um:
 
