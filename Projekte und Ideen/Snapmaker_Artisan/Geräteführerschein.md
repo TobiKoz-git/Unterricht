@@ -22,12 +22,21 @@ mode:       Presentation
 [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/TobiKoz-git/Unterricht/blob/main/Projekte%20und%20Ideen/Snapmaker_Artisan/Ger%C3%A4tef%C3%BChrerschein.md)
 
 
-# Geräteführerschein - Einführung
+# Geräteführerschein
+
+### Aufbau der Tutorials
+
+###  Snapmaker Artisan
+
+## GF - Lasercutter
+### Tutorial
+
+
+### Wissenstest
+### Erstes Projekt
 
 
 
-## Geräteführerschein - Lasercutter
+## GF - CNC-Fräse
 
-## Geräteführerschein - CNC-Fräse
-
-## Geräteführerschein - 3D-Drucker
+## GF - 3D-Drucker
