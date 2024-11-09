@@ -3,12 +3,12 @@
 author:   	Tobias Kozlowski
 email:    	tobias.kozlowski[a]bsz-tw-freiberg.lernsax.de
 
-version:  	0.0.5
+version:  	0.0.1
 
 language: 	de
 narrator: 	Deutsch Male
 
-comment:  	Motivation der Lehrveranstaltung "Physik" und Beschreibung der Organisation der Veranstaltung
+comment:  	Motivation der Lehrveranstaltung "Physik" und Beschreibung der Organisation der Veranstaltung und Vorstellen der Inhalte der Klassenstude 12.
 tags:     	Physik, BGy, Einführung, Organisation, Belehrung
 
 
@@ -23,7 +23,25 @@ mode:       Presentation
 
 
 # 📖 UE 01 - Organisation und Belehrung
+{{1-2}}
+*******************************************************************************
+<!--data-type="none"-->
+| Parameter                | Kursinformationen                                                                           |
+| ------------------------ | ------------------------------------------------------------------------------------------- |
+| **Veranstaltung:**       | Physik 12                                      |
+| **Teil:**                |`1/40`                                                  |
+| **Inhalte:**             | @comment                                                                                    |
+| **Autoren**              | @author                                                                                     |
 
+![](https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif)
+*******************************************************************************
 ## 📝Struktur der Stunde:
+1. Einstimmung
+2. Organisatorisches
+3. Belehrung
+4. Ausblick
 
 ## 🎯Stundenziele:
+Ich beschreibe min. 5 physikalische Begriffe mit eigenen Worten.
+
+# Einstimmung
