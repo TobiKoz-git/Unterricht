@@ -33,7 +33,7 @@ mode:       Presentation
 | **Inhalte:**             | @comment                                                                                    |
 | **Autoren**              | @author                                                                                     |
 
-![](https://giphy.com/embed/69lT9rl8YOZPBAIJD7)
+![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDI3YngxamNrcDhheHhqeTA3OGdrb2IzNXE0emx5ZW9tcWo5eDVraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/69lT9rl8YOZPBAIJD7/giphy.webp)
 *******************************************************************************
 ## 📝Struktur der Stunde:
 1. Einstimmung
