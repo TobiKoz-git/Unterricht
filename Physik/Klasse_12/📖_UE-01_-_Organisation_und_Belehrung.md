@@ -23,7 +23,7 @@ mode:       Presentation
 
 
 # 📖 UE 01 - Organisation und Belehrung
-{{1-2}}
+
 *******************************************************************************
 <!--data-type="none"-->
 | Parameter                | Kursinformationen                                                                           |
