@@ -13,7 +13,7 @@ tags:     	Physik, BGy, Einführung, Organisation, Belehrung
 
 
 icon:  	 	  https://www.bsz-freiberg.de/templates/bszjw/img/logo.svg
-logo:		    https://github.com/TobiKoz-git/Unterricht/blob/main/Elektrotechnik/Mechatroniker/Lernfeld_5/Grafiken/Nutzen_von_IT_Systemen__Tobias_Kozlowski_generated_with_Firefly.jpg?raw=true
+logo:		    https://cdn.pixabay.com/photo/2016/01/14/22/19/iron-lotus-1140876_1280.jpg
 
 mode:       Presentation
 
