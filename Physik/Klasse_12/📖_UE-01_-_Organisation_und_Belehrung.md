@@ -19,7 +19,11 @@ mode:       Presentation
 
 -->
 
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/TobiKoz-git/Unterricht/blob/main/Physik/Klasse 12/📖_UE-01_-_Organisation_und_Belehrung.md)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/TobiKoz-git/Unterricht/blob/main/Physik/Klasse_12/📖_UE-01_-_Organisation_und_Belehrung.md)
 
 
-# LF5 - Einführung
+# 📖 UE 01 - Organisation und Belehrung
+
+## 📝Struktur der Stunde:
+
+## 🎯Stundenziele:
