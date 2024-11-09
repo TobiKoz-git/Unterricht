@@ -13,7 +13,7 @@ tags:     	Physik, BGy, Einführung, Organisation, Belehrung
 
 
 icon:  	 	  https://www.bsz-freiberg.de/templates/bszjw/img/logo.svg
-logo:		    https://pixabay.com/illustrations/iron-lotus-liquid-iron-1140876/
+logo:		    https://pixabay.com/illustrations/iron-lotus-liquid-iron-1140876.jpg
 
 mode:       Presentation
 
