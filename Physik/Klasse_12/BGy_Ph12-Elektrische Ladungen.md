@@ -8,7 +8,7 @@ version:  	0.0.1
 language: 	de
 narrator: 	Deutsch Male
 
-comment:  	Kurs Physik Grundkurs BGy Klasse 12 
+comment:  	Kurs Physik Grundkurs BGy Klasse 12
 tags:     	Physik, BGy, Klasse 12, Elekktrische und Magnetische Felder, Ladungen
 
 
@@ -28,7 +28,7 @@ version:  	0.0.1
 language: 	de
 narrator: 	Deutsch Male
 
-comment:  	Kurs Physik Grundkurs BGy Klasse 12 
+comment:  	Kurs Physik Grundkurs BGy Klasse 12
 tags:     	Physik, BGy, Klasse 12, Elekktrische und Magnetische Felder, Ladungen
 
 
@@ -39,8 +39,9 @@ mode:       Presentation
 
 -->
 
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/TobiKoz-git/Unterricht/blob/main/Physik/Klasse_12/BGy_Ph12-Elektrische Ladungen.md)
 
-# 📖 Elektrische Ladungen 
+# 📖 Elektrische Ladungen
 
 {{0-1}}
 *******************************************************************************
@@ -68,7 +69,7 @@ mode:       Presentation
 > - Nachweis elektrischer Ladungen
 >
 >Bearbeiten Sie hierzu die nachfolgenden Seiten selbstständig.
-> Ihre Ergebnisse und Eintragungen werden anschließend im Plenum zusammengetragen und verglichen. 
+> Ihre Ergebnisse und Eintragungen werden anschließend im Plenum zusammengetragen und verglichen.
 >
 > ![](https://cdn.pixabay.com/photo/2018/09/25/11/45/pixel-cells-3702059_1280.png)
 
@@ -79,7 +80,7 @@ mode:       Presentation
 
 > __Aufgabe:__ Schauen Sie sich das oben stehende YouTube-Video an. Füllen Sie wären der Betrachtung die Notierhilfe.
 
-> __Notierhilfe:__ 
+> __Notierhilfe:__
 >
 > Nennen Sie die zu beobachtenden Effekte im Video.
 >
@@ -136,7 +137,7 @@ In einem Atom sind Protonen und Elektronen immer in gleicher Anzahl vertreten, e
 
 - [(X)] Elektronen
 - [( )] Protonen
-- [( )] Neutronen 
+- [( )] Neutronen
 
 > __Aufgabe:__ Beschreiben sie das Verhalten von Ladungen hinsichtlich Anziehung und Abstoßung, bei gleichartigen und ungleichartigen Ladungen.
 
@@ -162,7 +163,7 @@ Baue dein eigenes Elektroskop, lege dir dafür die folgenden Materialien bereit:
 
 {{1-2}}
 *******************************************************************************
-> __Aufgabe:__ Betrachte das folgende Video und verbinde die einzelnen Materialien zu einem Elektroskop. 
+> __Aufgabe:__ Betrachte das folgende Video und verbinde die einzelnen Materialien zu einem Elektroskop.
 
 !?[](https://www.youtube.com/watch?v=OEwfKpm9V74)
 
@@ -170,13 +171,13 @@ Baue dein eigenes Elektroskop, lege dir dafür die folgenden Materialien bereit:
 
 {{2-3}}
 *******************************************************************************
-> Überprüfen Sie verschiedene Materialien auf das Vorhandensein elektrischer Ladungen und notieren Sie Ihre Beobachtungen. 
+> Überprüfen Sie verschiedene Materialien auf das Vorhandensein elektrischer Ladungen und notieren Sie Ihre Beobachtungen.
 >
 >    [[___]]
 
 
 
-> Geben Sie die Materialien an bei denen eine Reaktion am Elektroskop auftrat. 
+> Geben Sie die Materialien an bei denen eine Reaktion am Elektroskop auftrat.
 >
 >    [[___]]
 
@@ -231,4 +232,3 @@ Sie haben alle Seiten bearbeitet.
 - [(X)] Ja ich bin fertig.
 
 *******************************************************************************
-
