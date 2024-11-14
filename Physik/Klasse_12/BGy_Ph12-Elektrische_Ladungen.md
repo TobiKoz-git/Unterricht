@@ -39,7 +39,7 @@ mode:       Presentation
 
 -->
 
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/TobiKoz-git/Unterricht/blob/main/Physik/Klasse_12/BGy_Ph12-Elektrische Ladungen.md)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/TobiKoz-git/Unterricht/blob/main/Physik/Klasse_12/BGy_Ph12-Elektrische_Ladungen.md)
 
 # 📖 Elektrische Ladungen
 
