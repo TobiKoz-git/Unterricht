@@ -33,8 +33,8 @@ mode:       Presentation
 <!--data-type="none"-->
 | Parameter                | Kursinformationen                                                                           |
 | ------------------------ | ------------------------------------------------------------------------------------------- |
-| **Veranstaltung:**       | Kommunizieren mit Hilfe von Datenverarbeitungssystemen                                      |
-| **Schwerpunkt:**                |`1/4`                                                  |
+| **Veranstaltung:**       |                                       |
+| **Schwerpunkt:**                |`4/4`                                                  |
 | **Lernsituation**         |       blabla          |
 | **Inhalte:**             | @comment                                                                                    |
 | **Autoren**              | @author                                                                                     |

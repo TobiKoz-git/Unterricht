@@ -33,8 +33,8 @@ mode:       Presentation
 <!--data-type="none"-->
 | Parameter                | Kursinformationen                                                                           |
 | ------------------------ | ------------------------------------------------------------------------------------------- |
-| **Veranstaltung:**       | Kommunizieren mit Hilfe von Datenverarbeitungssystemen                                      |
-| **Schwerpunkt:**                |`1/4`                                                  |
+| **Veranstaltung:**       |                                      |
+| **Schwerpunkt:**                |`3/4`                                                  |
 | **Lernsituation**         |       blabla          |
 | **Inhalte:**             | @comment                                                                                    |
 | **Autoren**              | @author                                                                                     |
@@ -43,7 +43,7 @@ mode:       Presentation
 *******************************************************************************
 
 
-## Zielstellung der Veranstaltung
+### Zielstellung der Veranstaltung
 
 ![Gif einer Fahrradtour über einen Berg](https://media.giphy.com/media/3oKIP9M5hm5YxsG58I/giphy.gif)<!--style="width: 100%; max-width: 80vh;"-->
 
