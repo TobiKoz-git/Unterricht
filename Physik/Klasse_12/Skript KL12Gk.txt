@@ -1,0 +1,628 @@
+<!--
+
+author:   	Tobias Kozlowski
+email:    	tobias.kozlowski[a]bsz-tw-freiberg.lernsax.de
+
+version:  	0.0.1
+
+language: 	de
+narrator: 	Deutsch Male
+
+comment:  	Skript Kurs Physik Grundkurs BGy Klasse 12 
+tags:     	Physik, BGy, Klasse 12, Elekktrische und Magnetische Felder, Ladungen
+
+
+icon:  	 	  https://www.bsz-freiberg.de/templates/bszjw/img/logo.svg
+logo:		    https://cdn.pixabay.com/photo/2016/01/14/22/19/iron-lotus-1140876_1280.jpg
+
+mode:       Presentation
+
+-->
+
+
+# Grundlagen
+![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGcycWpjZ2NsMzVzMHRwc240bDVrMXZicjA1bzZldjNmN2NobzBmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MJXyZFr2cf8vm/giphy.gif)
+## Elektrische Stromstärke
+![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTFiMjNldmRtMzd2dGZoamUwZ3l5ejI4anI2ZW91amR3ZDBvdjhoNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SsBz0oSJ1botYaLqAR/giphy.gif)
+
+~~__Definition__~~
+
+>$$
+I=\frac{\Delta Q}{\Delta t}=\frac{\text{geflossene Ladung}}{\text{dafür benötigte Zeit}}
+$$
+>$$
+[I]=1\frac{C}{s}=1A \text{   (Ampere)}
+$$
+☠ Gleichung gilt nur wenn die Stromstärke bekannt ist!!!
+
+
+~~__Diagramme (dies gilt immer)__~~
+
+- Die Steigung im t-Q-Diagramm ist die Stromstärke
+- Die überstrichene Fläche im t-I-Diagramm ist die geflossene Ladung.
+> Dieser Zusammenhang gilt ganz allgemein. Wenn $A=\frac{\Delta B}{\Delta C}$ ist ist, dann ist A die Steigung im C-B-Diagramm und $\Delta B$ ist die überstrichene Fläche im C-A-Diagramm.
+
+
+Die Überlegung für die Fläche ist hier nur für den Fall, dass A konstant ist dargestellt.
+
+
+
+
+<script run-once style="display: inline-block; width: 100%">
+
+function lineData() {
+  let data = [];
+  for (let B = 0; B <= 5; B += 0.1) {
+    data.push([B, @input(`A`) * B + 1]);
+  }
+  return data;
+}
+
+// Fixpunkt für Dreieck: Start bei B=1
+const x1 = 1;
+const x2 = 3; // x1 + deltaB = 2
+const y1 = @input(`A`) * x1 + 1;
+const y2 = @input(`A`) * x2 + 1;
+
+const deltaB = [
+  [x1, y1],
+  [x2, y1]
+];
+const deltaBmark = [
+  [(x1 + x2)/2, y1],
+  [(x1+x2)/2, y1]
+];
+const deltaC = [
+  [x2, y1],
+  [x2, y2]
+];
+const deltaCmark = [
+  [x2, (y1+y2)/2],
+  [x2, (y1+y2)/2]
+];
+const deltaCArea =[
+  [x2, y1],
+  [x2, y2]
+];
+
+let option = {
+  grid: { top: 40, left: 60, right: 40, bottom: 60 },
+  xAxis: {
+    name: 'C',
+    nameLocation: 'middle',
+    nameGap: 30,
+    min: 0, max: 5,
+    axisLabel: { show: false },
+    axisTick: { show: false },
+    splitLine: { show: true },
+  },
+  yAxis: {
+    name: 'B',
+    nameLocation: 'middle',
+    nameGap: 40,
+    min: 0, max: 15,
+    nameRotate: 0,
+    axisLabel: { show: false },
+    axisTick: { show: false },
+    splitLine: { show: true },
+  },
+  series: [
+    {
+      name: 'Gerade: C = A·B + n',
+      type: 'line',
+      data: lineData(),
+      lineStyle: { color: 'orange', width: 2 },
+      showSymbol: false
+    },
+    {
+      name: 'ΔB',
+      type: 'line',
+      data: deltaB,
+      lineStyle: { color: 'green', width: 3 },      
+    },
+    {
+    name: 'ΔB',
+      type: 'line',
+      data: deltaBmark,
+      lineStyle: { color: 'green', width: 3 },
+      label: {
+        show: true,
+        position: 'top',
+        formatter: 'ΔC',}
+    },
+    {
+      name: 'ΔC',
+      type: 'line',
+      data: deltaC,
+      lineStyle: { 
+          color: 'blue',
+          width: 3, 
+          },
+      symbol: 'circle', 
+      showSymbol: false,
+    },
+    {
+    name: 'ΔC',
+      type: 'line',
+      data: deltaCmark,
+      lineStyle: { color: 'blue', width: 3 },
+      label: {
+        show: true,
+        position: 'right',
+        formatter: 'ΔB',}
+    },
+  ],
+  tooltip: { show: true },
+  legend: { show: true }
+};
+
+"HTML: <lia-chart option='" + JSON.stringify(option) + "'></lia-chart>"
+
+</script>
+
+__Werkzeug zur Visualisierung der Steigung  $A =$__
+<script modify="false" input="range" step="0.2" min="0.5" max="4.5" value="2" output="A">@input</script>
+
+<script run-once style="display: inline-block; width: 100%">
+
+function lineData() {
+  let data = [];
+  for (let A = 0; A <= 5; A += 0.1) {
+    data.push([A, @input(`A`) ]);
+  }
+  return data;
+}
+
+// Fixpunkt 
+const x1 = 1;
+const x2 = 4; // x1 + deltaB = 2
+const y1 = @input(`A`);
+const y2 = @input(`A`);
+
+const deltaB = [
+  [x1, y1],
+  [x2, y1]
+];
+const C1 = [
+  [x1, 0],
+  [x1, 0]
+];
+const C2 = [
+  [x2, 0],
+  [x2, 0]
+];
+const A0 = [
+  [0, y2],
+  [0, y2]
+];
+const deltaBmark = [
+  [(x1+x2)/2, (y1+y2)/4],
+  [(x1+x2)/2, (y1+y2)/4]
+];
+
+
+let option = {
+  grid: { top: 40, left: 60, right: 40, bottom: 60 },
+  xAxis: {
+    name: 'C',
+    nameLocation: 'middle',
+    nameGap: 30,
+    min: 0, max: 5,
+    axisLabel: { show: false },
+    axisTick: { show: false },
+    splitLine: { show: true },
+  },
+  yAxis: {
+    name: 'A',
+    nameLocation: 'middle',
+    nameGap: 40,
+    min: 0, max: 5,
+    nameRotate: 0,
+    axisLabel: { show: false },
+    axisTick: { show: false },
+    splitLine: { show: true },
+  },
+  series: [
+    {
+      name: 'Gerade:A',
+      type: 'line',
+      data: lineData(),
+      lineStyle: { color: 'red', width: 2 },
+      showSymbol: false
+    },
+    {
+      name: 'ΔB',
+      type: 'line',
+      data: deltaB,
+      lineStyle: { color: 'green', width: 0 },
+      areaStyle: { color: 'blue'},      
+    },
+    {
+      name: 'ΔB',
+      type: 'line',
+      data: A0,
+      lineStyle: { color: 'green', width: 3 },
+      label: {
+        show: true,
+        position: 'left',
+        formatter: 'A0',}
+    },
+    {
+      name: 'ΔB',
+      type: 'line',
+      data: C1,
+      lineStyle: { color: 'green', width: 3 },
+      label: {
+        show: true,
+        position: 'left',
+        formatter: 'C1',}
+    },
+    {
+      name: 'ΔB',
+      type: 'line',
+      data: C2,
+      lineStyle: { color: 'green', width: 3 },
+      label: {
+        show: true,
+        position: 'right',
+        formatter: 'C2',}
+    },
+    {
+      name: 'ΔB',
+      type: 'line',
+      data: deltaBmark,
+      lineStyle: { color: 'blue', width: 0 },
+      label: {
+        show: true,
+        position: 'right',
+        formatter: 'ΔB',}
+    },
+  ],
+  tooltip: { show: false },
+  legend: { show: true }
+};
+
+"HTML: <lia-chart option='" + JSON.stringify(option) + "'></lia-chart>"
+
+</script>
+
+>Steigung=$\frac{ΔY}{ΔX}=\frac{ΔC}{ΔB}=A \rightarrow ΔB=A_0\cdot ΔC=A_0 \cdot (C_1-C_2)$ 
+
+## Aufgaben
+1. Das Diagramm zeigt die Stromstärke während eines Blitzeinschlags. Bestimme die insgesamt geflossene Ladung.
+
+<script run-once style="display: inline-block; width: 60%">
+
+// Fixpunkt 
+const x1 = 0;
+const x2 = 1; 
+const y1 = 0;
+const y2 = 5;
+const x3 = 3;
+const x4 = 5; 
+
+const a = [
+  [x1, y1],
+  [x2, y2]
+];
+const b = [
+  [x2, y2],
+  [x3, y2]
+];
+const c = [
+  [x3, y2],
+  [x4, y1]
+];
+
+let option = {
+  grid: { top: 40, left: 60, right: 60, bottom: 60 },
+  xAxis: {
+    name: 't in ms',
+    nameLocation: 'end',
+    nameGap: 10,
+    min: 0, max: 6,
+    axisLabel: { show: true },
+    axisTick: { show: false },
+    splitLine: { show: true },
+  },
+  yAxis: {
+    name: 'I in kA',
+    nameLocation: 'end',
+    nameGap: 10,
+    min: 0, max: 5,
+    nameRotate: 0,
+    axisLabel: { show: true },
+    axisTick: { show: false },
+    splitLine: { show: true },
+  },
+  series: [
+    {
+      name: 'Stromstärke',
+      type: 'line',
+      data: a,
+      lineStyle: { color: 'green', width: 3 },
+    },
+    {
+      name: 'Stromstärke',
+      type: 'line',
+      data: b,
+      lineStyle: { color: 'green', width: 3 },
+    },
+    {
+      name: 'Stromstärke',
+      type: 'line',
+      data: c,
+      lineStyle: { color: 'green', width: 3 },
+    },
+  ],
+  tooltip: { show: false },
+  legend: { show: true }
+};
+
+"HTML: <lia-chart option='" + JSON.stringify(option) + "'></lia-chart>"
+
+</script>
+
+2. Das Diagramm zeigt die Stromstärke beim Auflfladen eines Kondensators. Bestimme die Größe der Ladung auf dem geladenen Kondensator.
+
+<script run-once style="display: inline-block; width: 60%">
+
+// Fixpunkt 
+const x1 = 0;
+const x2 = 1; 
+const y1 = 6;
+const y2 = 1;
+const x3 = 2;
+const y3 = 0.5;
+const y4 = 0;
+const x4 = 6;
+
+const a = [
+  [x1, y1],
+  [x2, y2]
+];
+const b = [
+  [x2, y2],
+  [x3, y3]
+];
+const c = [
+  [x3, y3],
+  [x4, y4]
+];
+
+let option = {
+  grid: { top: 40, left: 60, right: 60, bottom: 60 },
+  xAxis: {
+    name: 't in ms',
+    nameLocation: 'end',
+    nameGap: 10,
+    min: 0, max: 7,
+    axisLabel: { show: true },
+    axisTick: { show: false },
+    splitLine: { show: true },
+  },
+  yAxis: {
+    name: 'I in kA',
+    nameLocation: 'end',
+    nameGap: 10,
+    min: 0, max: 7,
+    nameRotate: 0,
+    axisLabel: { show: true },
+    axisTick: { show: false },
+    splitLine: { show: true },
+  },
+  series: [
+    {
+      name: 'Ladekurve',
+      type: 'line',
+      data: a,
+      lineStyle: { color: 'green', width: 3 },
+    },
+    {
+      name: 'Ladekurve',
+      type: 'line',
+      data: b,
+      lineStyle: { color: 'green', width: 3 },
+    },
+    {
+      name: 'Ladekurve',
+      type: 'line',
+      data: c,
+      lineStyle: { color: 'green', width: 3 },
+    },
+  ],
+  tooltip: { show: false },
+  legend: { show: true }
+};
+
+"HTML: <lia-chart option='" + JSON.stringify(option) + "'></lia-chart>"
+
+</script>
+
+3. Bestimme für die Diagramme a) und b) jeweils die mittleren Stromstärken zwischen
+ - 0,2s und 0,6s
+ - 0,8s und 1,4s
+ - 1,8s und 2,4s
+
+
+ <script run-once style="display: inline-block; width: 60%">
+
+// Fixpunkt 
+const x1 = 0;
+const x2 = 1; 
+const y1 = 6;
+const y2 = 1;
+const x3 = 2;
+const y3 = 0.5;
+const y4 = 0;
+const x4 = 6;
+
+const a = [
+  [x1, y1],
+  [x2, y2]
+];
+const b = [
+  [x2, y2],
+  [x3, y3]
+];
+const c = [
+  [x3, y3],
+  [x4, y4]
+];
+
+let option = {
+  grid: { top: 40, left: 60, right: 60, bottom: 60 },
+  xAxis: {
+    name: 't in ms',
+    nameLocation: 'end',
+    nameGap: 10,
+    min: 0, max: 7,
+    axisLabel: { show: true },
+    axisTick: { show: false },
+    splitLine: { show: true },
+  },
+  yAxis: {
+    name: 'I in kA',
+    nameLocation: 'end',
+    nameGap: 10,
+    min: 0, max: 7,
+    nameRotate: 0,
+    axisLabel: { show: true },
+    axisTick: { show: false },
+    splitLine: { show: true },
+  },
+  series: [
+    {
+      name: 'Ladekurve',
+      type: 'line',
+      data: a,
+      lineStyle: { color: 'green', width: 3 },
+    },
+    {
+      name: 'Ladekurve',
+      type: 'line',
+      data: b,
+      lineStyle: { color: 'green', width: 3 },
+    },
+    {
+      name: 'Ladekurve',
+      type: 'line',
+      data: c,
+      lineStyle: { color: 'green', width: 3 },
+    },
+  ],
+  tooltip: { show: false },
+  legend: { show: true }
+};
+
+"HTML: <lia-chart option='" + JSON.stringify(option) + "'></lia-chart>"
+
+</script>
+
+<script run-once style="display: inline-block; width: 60%">
+
+// Fixpunkt 
+const x1 = 0;
+const x2 = 1; 
+const y1 = 6;
+const y2 = 1;
+const x3 = 2;
+const y3 = 0.5;
+const y4 = 0;
+const x4 = 6;
+
+const a = [
+  [x1, y1],
+  [x2, y2]
+];
+const b = [
+  [x2, y2],
+  [x3, y3]
+];
+const c = [
+  [x3, y3],
+  [x4, y4]
+];
+
+let option = {
+  grid: { top: 40, left: 60, right: 60, bottom: 60 },
+  xAxis: {
+    name: 't in ms',
+    nameLocation: 'end',
+    nameGap: 10,
+    min: 0, max: 7,
+    axisLabel: { show: true },
+    axisTick: { show: false },
+    splitLine: { show: true },
+  },
+  yAxis: {
+    name: 'I in kA',
+    nameLocation: 'end',
+    nameGap: 10,
+    min: 0, max: 7,
+    nameRotate: 0,
+    axisLabel: { show: true },
+    axisTick: { show: false },
+    splitLine: { show: true },
+  },
+  series: [
+    {
+      name: 'Ladekurve',
+      type: 'line',
+      data: a,
+      lineStyle: { color: 'green', width: 3 },
+    },
+    {
+      name: 'Ladekurve',
+      type: 'line',
+      data: b,
+      lineStyle: { color: 'green', width: 3 },
+    },
+    {
+      name: 'Ladekurve',
+      type: 'line',
+      data: c,
+      lineStyle: { color: 'green', width: 3 },
+    },
+  ],
+  tooltip: { show: false },
+  legend: { show: true }
+};
+
+"HTML: <lia-chart option='" + JSON.stringify(option) + "'></lia-chart>"
+
+</script>
+
+## Widerstand, R
+~~__Definition__~~
+
+>$$
+R=\frac{U}{I}
+$$
+>$$
+[R]=1\frac{V}{A}=1\Omega \text{   (Ohm)}
+$$
+
+Die Gleichung aufgelöst nach U gibt:
+$$
+U=R\cdot I
+$$
+Die am Widerstand abfallende Spannung ist also proportional zur Größe des Wi‐derstandes und zur Stromstärke im Widerstand.
+
+## Aufgaben
+
+## Arbeit und Energie
+
+__Arbeit als Fläche:__
+
+Die Gleichung $W=\vec{F} \cdot s$ gilt nur wenn die Kraft $\vec{F}$ parallel zum Weg $s$ ist und wenn die Kraft konstant ist.
+
+Falls die Kraft nicht konstant ist, müssen wir eine andere Möglichkeit fi nden die Arbeit zu bestimmen.
+
+Wenn die Kraft konstant ist, dann ist die verrichtete Arbeit offensichtlich gleich der überstrichenen Fläche im x- F- Diagramm (Flächenformel für Rechtecke).
+
+## Anschließen von Messgeräten
+
+## Aufgaben
+
+# Elektrische Ladung, Q
