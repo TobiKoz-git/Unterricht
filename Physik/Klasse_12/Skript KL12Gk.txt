@@ -654,4 +654,66 @@ Wenn die Kraft konstant ist, dann ist die verrichtete Arbeit offensichtlich glei
 
 
 ## 3 Elektromagnetismus
- 
+
+## 4 Physikalisches Praktikum
+
+### 3.1 Zielstellung
+Im physikalischen Praktikum sollen die Lernenden die im Unterricht erworbenen Kenntnisse durch eigene experimentelle Arbeiten vertiefen. Dabei werden der Versuchsaufbau,
+die Handhabung der Messgeräte, die Auswertung der Messergebnisse sowie deren kritische Analyse hinsichtlich der Genauigkeit und das wissenschaftliche Protokollieren am
+praktischen Beispiel erlernt.
+
+### 3.2 Protokollführung
+Das Protokoll muss alle für den Versuch notwendigen Informationen enthalten, die es ermöglichen, die Lösung der Aufgabe später vollständig zu rekonstruieren oder zu wiederholen oder die Ergebnisse weiter zu verwerten. Jeder Schüler muss sein eigenes Protokoll
+führen.
+
+Das anzufertigende Protokoll soll in der Regel folgenden Aufbau besitzen:
+
+1. Titel 
+Kennzeichen und Thema der Aufgabe, Datum, Namen und Name der Mitarbeiter,
+Name des Lehrers.
+
+2. Einleitung 
+Angabe des Versuchsziels. Vom Lehrer gestellte Aufgaben. Kurze Beschreibung des
+Messprinzips, der Apparatur (evtl. schematische Skizze). Für die Auswertung benötigte Formeln. Sehr kurze Darstellung zur Physik des Versuches, z.B. über die in der
+Anleitung umrissenen Fragenkomplexe.
+
+3. Messungen 
+Alle im Verlauf der Experimente gemessenen physikalischen Großen sind sofort übersichtlich (z.B. in Tabellen) einzutragen, nicht erst die daraus berechneten Mittelwerte
+oder Zwischenresultate (Beispiel: Notieren der bei einer Wägung verwendeten Wagestücke).
+
+4. Auswertung 
+Berechnen der geforderten Endergebnisse. Alle Zwischenrechnungen gehören in das
+Protokoll. Graphische Darstellungen, die auf Spezialpapier (z.B. Millimeterpapier)
+angefertigt werden, sind in das Protokollheft fest einzubringen.
+Messunsicherheiten Untersuchung möglicher Messunsicherheiten. (Systematische und Statistische Messunsicherheiten)
+
+5. Diskussion 
+z.B. Übereinstimmung mit den theoretisch vorausgesagten Zusammenhängen, mögliche Ursachen für Abweichungen, Maßnahmen zur Verringerung von Störeinflüssen,
+Kritik am Messverfahren und an der Apparatur, Vergleich verschiedener Messverfahren, Anteile der einzelnen Messunsicherheiten an der Gesamtmessunsicherheit,
+Gründe, weshalb Teilaufgaben nicht gelöst werden konnten (falls zutreffend).
+
+### 3.3 Messunsicherheiten
+
+__Systematische Messunsicherheiten__
+Messunsicherheiten entstehen durch
+
+- Unvollkommenheit der verwendeten Messgeräte und Messverfahren (Auflösungsgrenze),
+- Unvollkommenheit des Messgegenstandes (z.B. Inhomogenitäten)
+- Subjektive Einflüsse des Beobachters und Einflüsse der Umgebung, die messtechnisch
+
+oder rechnerisch erfasst werden können.
+Systematische Messunsicherheiten treten bei jeder Wiederholung der Messung in der gleichen Weise wieder auf. Daher könnten sie im Prinzip korrigiert werden.
+
+__Statistische Messunsicherheiten__ 
+Diese zufälligen Messunsicherheiten haben eine Vielzahl von Ursachen und sind ihrem
+Charakter nach völlig unregelmäßig. Sie beruhen auf
+
+- Messtechnisch und rechnerisch nicht zu erfassenden und nicht zu beeinflussenden Änderungen der Messanordnung, der Messgeräte oder des Messgegenstandes.
+- Der begrenzten Schärfe der menschlichen Sinne (Ableseunsicherheit, Reaktionszeiten, ...).
+- Unkontrollierbare Veränderungen der Umwelt (Temperaturveränderungen, Druckänderungen, etc.).
+
+Sie schwanken regellos nach Betrag und Vorzeichen. So wird Beispielsweise eine Strecke
+zu kurz oder zu lang gemessen, da man den Nullstrich des Maßstabes und den Anfang
+der zu messenden Strecke nie exakt zur Deckung bringen kann und da beim Schätzen der
+Zwischenwerte am Ende der Strecke Unsicherheiten entstehen.
+
