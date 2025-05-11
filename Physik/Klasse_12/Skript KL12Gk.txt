@@ -20,9 +20,9 @@ mode:       Presentation
 -->
 
 
-# Grundlagen
+# I Grundlagen
 ![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGcycWpjZ2NsMzVzMHRwc240bDVrMXZicjA1bzZldjNmN2NobzBmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MJXyZFr2cf8vm/giphy.gif)
-## Elektrische Stromstärke
+### 0.1 Elektrische Stromstärke
 ![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTFiMjNldmRtMzd2dGZoamUwZ3l5ejI4anI2ZW91amR3ZDBvdjhoNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SsBz0oSJ1botYaLqAR/giphy.gif)
 
 ~~__Definition__~~
@@ -288,10 +288,10 @@ let option = {
 
 >Steigung=$\frac{ΔY}{ΔX}=\frac{ΔC}{ΔB}=A \rightarrow ΔB=A_0\cdot ΔC=A_0 \cdot (C_1-C_2)$ 
 
-## Aufgaben
+### Aufgaben
 1. Das Diagramm zeigt die Stromstärke während eines Blitzeinschlags. Bestimme die insgesamt geflossene Ladung.
 
-<script run-once style="display: inline-block; width: 60%">
+<script run-once style="display: inline-block; width: 100%">
 
 // Fixpunkt 
 const x1 = 0;
@@ -365,7 +365,7 @@ let option = {
 
 2. Das Diagramm zeigt die Stromstärke beim Auflfladen eines Kondensators. Bestimme die Größe der Ladung auf dem geladenen Kondensator.
 
-<script run-once style="display: inline-block; width: 60%">
+<script run-once style="display: inline-block; width: 100%">
 
 // Fixpunkt 
 const x1 = 0;
@@ -593,7 +593,7 @@ let option = {
 
 </script>
 
-## Widerstand, R
+### 0.2 Widerstand, R
 ~~__Definition__~~
 
 >$$
@@ -609,9 +609,9 @@ U=R\cdot I
 $$
 Die am Widerstand abfallende Spannung ist also proportional zur Größe des Wi‐derstandes und zur Stromstärke im Widerstand.
 
-## Aufgaben
+### Aufgaben
 
-## Arbeit und Energie
+### 0.3 Arbeit und Energie
 
 __Arbeit als Fläche:__
 
@@ -621,8 +621,37 @@ Falls die Kraft nicht konstant ist, müssen wir eine andere Möglichkeit fi nden
 
 Wenn die Kraft konstant ist, dann ist die verrichtete Arbeit offensichtlich gleich der überstrichenen Fläche im x- F- Diagramm (Flächenformel für Rechtecke).
 
-## Anschließen von Messgeräten
+### 0.4 Anschließen von Messgeräten
 
-## Aufgaben
+### Aufgaben
 
-# Elektrische Ladung, Q
+# II Lernbereich
+
+## 1 Elektrische Felder
+
+### 1.1 Elektrische Ladung Q
+### 1.2 Das Coulombsche Gesetz
+### 1.3 Das elektrische Feld
+### 1.4 Die elektrische Feldstärke $\vec{E}$
+### 1.5 Der Plattenkondensator
+### 1.6 Bewegung einer Probeladung im homogenen elektrischen Feld
+### 1.7 Millikan-Versuch
+
+## 2 Magnetische Felder
+
+### 2.1 Eigenschaften magnetischer Felder
+### 2.2 Nachweis des magnetischen Feldes
+### 2.3 Feldlinienbilder als Modelle
+### 2.4 Superposition von Feldern
+### 2.5 Kraft auf stromdurchflossene Leiter im Magnetfeld
+### 2.6 magnetische Flussdichte
+### 2.7 Messung von Flussdichten bei Elektromagneten
+### 2.8 Magnetfeld einer langen dünnen Spule
+### 2.9 Lorentzkraft
+### 2.10 Naturphänomene
+### 2.11 Wirkungsweise von technischen Geräten
+### 2.12 Körper in homogenen magnetischen Feldern
+
+
+## 3 Elektromagnetismus
+ 
