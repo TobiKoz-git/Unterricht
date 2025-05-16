@@ -8,7 +8,7 @@ version:  	0.0.1
 language: 	de
 narrator: 	Deutsch Male
 
-comment:  	Skript Kurs Physik Grundkurs BGy Klasse 12 
+comment:  	Skript Kurs Physik Grundkurs BGy Klasse 12
 tags:     	Physik, BGy, Klasse 12, Elekktrische und Magnetische Felder, Ladungen
 
 
@@ -118,7 +118,7 @@ let option = {
       name: 'ΔB',
       type: 'line',
       data: deltaB,
-      lineStyle: { color: 'green', width: 3 },      
+      lineStyle: { color: 'green', width: 3 },
     },
     {
     name: 'ΔB',
@@ -134,11 +134,11 @@ let option = {
       name: 'ΔC',
       type: 'line',
       data: deltaC,
-      lineStyle: { 
+      lineStyle: {
           color: 'blue',
-          width: 3, 
+          width: 3,
           },
-      symbol: 'circle', 
+      symbol: 'circle',
       showSymbol: false,
     },
     {
@@ -173,7 +173,7 @@ function lineData() {
   return data;
 }
 
-// Fixpunkt 
+// Fixpunkt
 const x1 = 1;
 const x2 = 4; // x1 + deltaB = 2
 const y1 = @input(`A`);
@@ -235,7 +235,7 @@ let option = {
       type: 'line',
       data: deltaB,
       lineStyle: { color: 'green', width: 0 },
-      areaStyle: { color: 'blue'},      
+      areaStyle: { color: 'blue'},
     },
     {
       name: 'ΔB',
@@ -286,20 +286,20 @@ let option = {
 
 </script>
 
->Steigung=$\frac{ΔY}{ΔX}=\frac{ΔC}{ΔB}=A \rightarrow ΔB=A_0\cdot ΔC=A_0 \cdot (C_1-C_2)$ 
+>Steigung=$\frac{ΔY}{ΔX}=\frac{ΔC}{ΔB}=A \rightarrow ΔB=A_0\cdot ΔC=A_0 \cdot (C_1-C_2)$
 
 ### Aufgaben
 1. Das Diagramm zeigt die Stromstärke während eines Blitzeinschlags. Bestimme die insgesamt geflossene Ladung.
 
 <script run-once style="display: inline-block; width: 100%">
 
-// Fixpunkt 
+// Fixpunkt
 const x1 = 0;
-const x2 = 1; 
+const x2 = 1;
 const y1 = 0;
 const y2 = 5;
 const x3 = 3;
-const x4 = 5; 
+const x4 = 5;
 
 const a = [
   [x1, y1],
@@ -367,9 +367,9 @@ let option = {
 
 <script run-once style="display: inline-block; width: 100%">
 
-// Fixpunkt 
+// Fixpunkt
 const x1 = 0;
-const x2 = 1; 
+const x2 = 1;
 const y1 = 6;
 const y2 = 1;
 const x3 = 2;
@@ -447,9 +447,9 @@ let option = {
 
  <script run-once style="display: inline-block; width: 60%">
 
-// Fixpunkt 
+// Fixpunkt
 const x1 = 0;
-const x2 = 1; 
+const x2 = 1;
 const y1 = 6;
 const y2 = 1;
 const x3 = 2;
@@ -521,9 +521,9 @@ let option = {
 
 <script run-once style="display: inline-block; width: 60%">
 
-// Fixpunkt 
+// Fixpunkt
 const x1 = 0;
-const x2 = 1; 
+const x2 = 1;
 const y1 = 6;
 const y2 = 1;
 const x3 = 2;
@@ -629,6 +629,10 @@ Wenn die Kraft konstant ist, dann ist die verrichtete Arbeit offensichtlich glei
 
 ## 1 Elektrische Felder
 
+Ziele
+
+Schwerpunkte
+
 ### 1.1 Elektrische Ladung Q
 ### 1.2 Das Coulombsche Gesetz
 ### 1.3 Das elektrische Feld
@@ -668,26 +672,26 @@ führen.
 
 Das anzufertigende Protokoll soll in der Regel folgenden Aufbau besitzen:
 
-1. Titel 
+1. Titel
 Kennzeichen und Thema der Aufgabe, Datum, Namen und Name der Mitarbeiter,
 Name des Lehrers.
 
-2. Einleitung 
+2. Einleitung
 Angabe des Versuchsziels. Vom Lehrer gestellte Aufgaben. Kurze Beschreibung des
 Messprinzips, der Apparatur (evtl. schematische Skizze). Für die Auswertung benötigte Formeln. Sehr kurze Darstellung zur Physik des Versuches, z.B. über die in der
 Anleitung umrissenen Fragenkomplexe.
 
-3. Messungen 
+3. Messungen
 Alle im Verlauf der Experimente gemessenen physikalischen Großen sind sofort übersichtlich (z.B. in Tabellen) einzutragen, nicht erst die daraus berechneten Mittelwerte
 oder Zwischenresultate (Beispiel: Notieren der bei einer Wägung verwendeten Wagestücke).
 
-4. Auswertung 
+4. Auswertung
 Berechnen der geforderten Endergebnisse. Alle Zwischenrechnungen gehören in das
 Protokoll. Graphische Darstellungen, die auf Spezialpapier (z.B. Millimeterpapier)
 angefertigt werden, sind in das Protokollheft fest einzubringen.
 Messunsicherheiten Untersuchung möglicher Messunsicherheiten. (Systematische und Statistische Messunsicherheiten)
 
-5. Diskussion 
+5. Diskussion
 z.B. Übereinstimmung mit den theoretisch vorausgesagten Zusammenhängen, mögliche Ursachen für Abweichungen, Maßnahmen zur Verringerung von Störeinflüssen,
 Kritik am Messverfahren und an der Apparatur, Vergleich verschiedener Messverfahren, Anteile der einzelnen Messunsicherheiten an der Gesamtmessunsicherheit,
 Gründe, weshalb Teilaufgaben nicht gelöst werden konnten (falls zutreffend).
@@ -704,7 +708,7 @@ Messunsicherheiten entstehen durch
 oder rechnerisch erfasst werden können.
 Systematische Messunsicherheiten treten bei jeder Wiederholung der Messung in der gleichen Weise wieder auf. Daher könnten sie im Prinzip korrigiert werden.
 
-__Statistische Messunsicherheiten__ 
+__Statistische Messunsicherheiten__
 Diese zufälligen Messunsicherheiten haben eine Vielzahl von Ursachen und sind ihrem
 Charakter nach völlig unregelmäßig. Sie beruhen auf
 
@@ -716,4 +720,3 @@ Sie schwanken regellos nach Betrag und Vorzeichen. So wird Beispielsweise eine S
 zu kurz oder zu lang gemessen, da man den Nullstrich des Maßstabes und den Anfang
 der zu messenden Strecke nie exakt zur Deckung bringen kann und da beim Schätzen der
 Zwischenwerte am Ende der Strecke Unsicherheiten entstehen.
-
