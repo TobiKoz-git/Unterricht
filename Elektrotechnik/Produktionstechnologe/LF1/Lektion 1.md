@@ -19,7 +19,7 @@ mode:       Presentation
 
 -->
 
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/TobiKoz-git/Unterricht/blob/main/Elektrotechnik/Produktionstechnologe/LF1/Lektion 1.md)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/TobiKoz-git/Unterricht/blob/main/Elektrotechnik/Produktionstechnologe/LF1/Lektion%201.md)
 
 # ⚙️ Lektion 1: Mechatronische Systemanalyse & Strukturierung
 
