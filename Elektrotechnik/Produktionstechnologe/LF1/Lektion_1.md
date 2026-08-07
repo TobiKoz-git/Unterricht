@@ -13,7 +13,7 @@ tags:     	LF1, MECH,PT, Einführung, Lernsituation, Arbeitsplan, LOL
 
 
 icon:  	 	  https://www.bsz-freiberg.de/templates/bszjw/img/logo.svg
-logo:		    https://github.com/TobiKoz-git/Unterricht/blob/main/Elektrotechnik/Mechatroniker/Lernfeld_5/Grafiken/Nutzen_von_IT_Systemen__Tobias_Kozlowski_generated_with_Firefly.jpg?raw=true
+logo:		  https://github.com/TobiKoz-git/Unterricht/blob/main/Elektrotechnik/Mechatroniker/Lernfeld_5/Grafiken/Nutzen_von_IT_Systemen__Tobias_Kozlowski_generated_with_Firefly.jpg?raw=true
 
 mode:       Presentation
 
@@ -27,7 +27,7 @@ import: https://raw.githubusercontent.com/MINT-the-GAP/lia-board-mode/main/READM
 # ⚙️ Lektion 1: Mechatronische Systemanalyse & Strukturierung
 
 Willkommen in **Lektion 1** des Lernfelds 1! In diesem Modul erarbeitest du dir das Fundament der Mechatronik: Wie zerlegt man ein komplexes Gesamtsystem in seine Bestandteile, wie zieht man Systemgrenzen und wie unterscheidet man die Informations- und Energieströme?
-    
+    bla
 ---
 
 ## 🎯 Lernziele dieser Lektion
