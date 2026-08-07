@@ -11,13 +11,14 @@ narrator: 	Deutsch Male
 comment:  	Ausführliches interaktives Lernmodul zu Lektion 1 im Lernfeld 1 (Mechatronik & Produktionstechnologen).
 tags:     	LF1, MECH,PT, Einführung, Lernsituation, Arbeitsplan, LOL
 
+import: https://raw.githubusercontent.com/MINT-the-GAP/lia-annotation/main/README.md
 
 icon:  	 	  https://www.bsz-freiberg.de/templates/bszjw/img/logo.svg
 logo:		    https://github.com/TobiKoz-git/Unterricht/blob/main/Elektrotechnik/Mechatroniker/Lernfeld_5/Grafiken/Nutzen_von_IT_Systemen__Tobias_Kozlowski_generated_with_Firefly.jpg?raw=true
 
 mode:       Presentation
 
-import: https://raw.githubusercontent.com/MINT-the-GAP/lia-annotation/main/README.md
+
 
 -->
 
