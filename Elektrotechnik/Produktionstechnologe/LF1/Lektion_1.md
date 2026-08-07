@@ -222,7 +222,60 @@ Erklärt kurz in eigenen Worten: Warum reicht ein Lastenheft alleine nicht aus, 
 
 ---
 
-## 7. LERNRAUM: Musterlösung (Beispiel A)
+## 7. LERNRAUM: 🔍 Ausklappbare Hilfen & Musterlösungen zur Selbstkontrolle
+
+
+<details>
+<summary>📌 **Musterlösung für System A (Garagentor)** anzeigen</summary>
+
+* **Systemgrenze:** Gehäuse der Steuerung, Elektromotor, Schneckengetriebe, Führungsschiene mit Laufkette, Lichtschrankensender/-empfänger, Funkempfänger-Platine.
+* **Umwelt:** 230V-Netzspannung, Umgebungstemperatur/Regen, Garageneinfahrt, Handsender, Bediener.
+* **Schnittstellen:**
+  1. *Elektrisch:* Steckdose 230 V AC.
+  2. *Informatorisch:* Funk-Signal (868 MHz) vom Handsender.
+  3. *Mechanisch:* Befestigungswinkel an Garagendecke und Torblatt.
+* **Komponenten:**
+  * *Sensorik:* Lichtschranke (`-B1`), Hall-Sensor für Drehzahl (`-B2`).
+  * *Verarbeitung:* Mikrocontroller-Steuerplatine (`-K1`).
+  * *Aktorik:* 24V DC-Motor (`-M1`), Relais für Richtungswechsel (`-Q1`), Warn-LED (`-P1`).
+* **Flussbeispiel:**  
+  *Signalfluss:* Handsender $\rightarrow$ Funkempfänger $\rightarrow$ Mikrokontroller-Eingang $\rightarrow$ Relais-Ansteuerung.  
+  *Energiefluss:* 230V AC Netz $\rightarrow$ Trafo/Netzteil (24V DC) $\rightarrow$ Motor $\rightarrow$ Getriebe $\rightarrow$ Kette $\rightarrow$ Bewegung Torblatt.
+</details>
+
+<details>
+<summary>📌 **Musterlösung für System B (Desinfektionsspender)** anzeigen</summary>
+
+* **Systemgrenze:** Kunststoffgehäuse, Infrarot-Sensorik, Steuerplatine, Batteriefach/Akku, Membranpumpe, Schlauchsystem, Auslassdüse.
+* **Umwelt:** Hand des Nutzers, Raumlicht, Desinfektionsmittel-Nachfüllflasche.
+* **Schnittstellen:**
+  1. *Stofflich:* Einlassstutzen für Nachfüllflasche, Sprühdüse.
+  2. *Informatorisch:* IR-Reflexionsstrahl zur Handerkennung.
+  3. *Elektrisch:* USB-C Ladebuchse für Akku.
+* **Komponenten:**
+  * *Sensorik:* IR-Reflexionssensor (`-B1`), Füllstandssensor (`-B2`).
+  * *Verarbeitung:* Low-Power Mikrocontroller (`-K1`).
+  * *Aktorik:* 6V DC-Pumpenmotor (`-M1`), Status-LED (`-P1`).
+</details>
+
+<details>
+<summary>📌 **Musterlösung für System C (Parkhausschranke)** anzeigen</summary>
+
+* **Systemgrenze:** Schrankengehäuse, Frequenzumrichter, Drehstrommotor, Planetengehirre, Schrankenbaum, Induktionsschleifen-Auswertegerät.
+* **Umwelt:** Pkw/Lkw, Fahrbahn, Regen/Frost, Kassenautomat/Parkhaus-Server.
+* **Schnittstellen:**
+  1. *Elektrisch:* 230V/400V Festanschluss.
+  2. *Informatorisch:* Potentialfreier Kontakt vom Ticketleser / Kennzeichenscanner.
+  3. *Mechanisch:* Fundamentverankerung im Boden.
+* **Komponenten:**
+  * *Sensorik:* Induktionsschleife im Boden (`-B1`), Endlagenschalter Oben/Unten (`-B2`, `-B3`).
+  * *Verarbeitung:* Industrie-SPS (`-K1`).
+  * *Aktorik:* 230V-Drehstrommotor (`-M1`), Frequenzumrichter (`-Q1`), Ampel Rot/Grün (`-P1`, `-P2`).
+</details>
+
+---
+
+
 Hier findet ihr eine mögliche Lösung, falls ihr Beispiel A (Garagentor) gewählt habt. Gleicht eure Ergebnisse ab.
 
 **Aufgabe 1: Ist-Analyse & Lastenheft**
