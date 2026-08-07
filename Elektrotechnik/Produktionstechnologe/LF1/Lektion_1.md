@@ -11,7 +11,6 @@ narrator: 	Deutsch Male
 comment:  	Ausführliches interaktives Lernmodul zu Lektion 1 im Lernfeld 1 (Mechatronik & Produktionstechnologen).
 tags:     	LF1, MECH,PT, Einführung, Lernsituation, Arbeitsplan, LOL
 
-import: https://raw.githubusercontent.com/MINT-the-GAP/lia-annotation/main/README.md
 
 icon:  	 	  https://www.bsz-freiberg.de/templates/bszjw/img/logo.svg
 logo:		    https://github.com/TobiKoz-git/Unterricht/blob/main/Elektrotechnik/Mechatroniker/Lernfeld_5/Grafiken/Nutzen_von_IT_Systemen__Tobias_Kozlowski_generated_with_Firefly.jpg?raw=true
@@ -19,15 +18,18 @@ logo:		    https://github.com/TobiKoz-git/Unterricht/blob/main/Elektrotechnik/Me
 mode:       Presentation
 
 
+import: https://raw.githubusercontent.com/MINT-the-GAP/lia-annotation/main/README.md
+
 
 -->
 
 [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/TobiKoz-git/Unterricht/blob/main/Elektrotechnik/Produktionstechnologe/LF1/Lektion_1.md)
 
+
 # ⚙️ Lektion 1: Mechatronische Systemanalyse & Strukturierung
 
 Willkommen in **Lektion 1** des Lernfelds 1! In diesem Modul erarbeitest du dir das Fundament der Mechatronik: Wie zerlegt man ein komplexes Gesamtsystem in seine Bestandteile, wie zieht man Systemgrenzen und wie unterscheidet man die Informations- und Energieströme?
-
+    
 ---
 
 ## 🎯 Lernziele dieser Lektion
@@ -269,3 +271,5 @@ Wähle **eines** der folgenden Systeme aus:
 - [    ( )                ( )              ( )                     ( )         ] Ich kann Komponenten in Sensorik, Verarbeitung und Aktorik einteilen.
 - [    ( )                ( )              ( )                     ( )         ] Ich kann Signal-, Stoff- und Energiefluss im System beschreiben.
 - [    ( )                ( )              ( )                     ( )         ] Ich kann Lasten- und Pflichtenheft voneinander abgrenzen.
+
+
