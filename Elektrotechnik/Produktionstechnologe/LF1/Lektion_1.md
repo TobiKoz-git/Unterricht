@@ -18,6 +18,7 @@ logo:		  https://github.com/TobiKoz-git/Unterricht/blob/main/Elektrotechnik/Mech
 mode:       Presentation
 
 import: https://raw.githubusercontent.com/MINT-the-GAP/lia-board-mode/main/README.md
+import: https://raw.githubusercontent.com/MINT-the-GAP/lia-annotation/main/README.md
 
 -->
 
