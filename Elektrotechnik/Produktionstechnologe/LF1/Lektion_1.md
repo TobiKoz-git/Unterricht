@@ -28,7 +28,7 @@ import: https://raw.githubusercontent.com/MINT-the-GAP/lia-annotation/main/READM
 # ⚙️ Lektion 1: Mechatronische Systemanalyse & Strukturierung
 
 Willkommen in **Lektion 1** des Lernfelds 1! In diesem Modul erarbeitest du dir das Fundament der Mechatronik: Wie zerlegt man ein komplexes Gesamtsystem in seine Bestandteile, wie zieht man Systemgrenzen und wie unterscheidet man die Informations- und Energieströme?
-    bla
+    blabla
 ---
 
 ## 🎯 Lernziele dieser Lektion
