@@ -17,6 +17,8 @@ logo:		    https://github.com/TobiKoz-git/Unterricht/blob/main/Elektrotechnik/Me
 
 mode:       Presentation
 
+import:   https://raw.githubusercontent.com/LiaTemplates/lia-annotation/main/README.md
+
 -->
 
 [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/TobiKoz-git/Unterricht/blob/main/Elektrotechnik/Produktionstechnologe/LF1/Lektion_1.md)
