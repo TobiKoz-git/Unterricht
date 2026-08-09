@@ -54,13 +54,21 @@ import: https://raw.githubusercontent.com/liaTemplates/Speech-Recognition-Quiz/r
 
 Willkommen zur Lektion 1! In dieser Lektion erarbeiten wir uns die grundlegende Methodik, um technische Projekte systematisch zu planen und umzusetzen.
 
+Ein Auswahl-Quiz erscheint als Auswahlliste im Text. Runde Klammern markieren die richtige Option.
+
+Wie viele Bundesländer hat Deutschland?
+
+Deutschland hat [[ 15 | (16) | 17 ]] Bundesländer.
+
+@resetter
+
 ## 1. Start: Problemstellung
 
 **Impuls: Warum scheitern technische Projekte oft?**
 
 Stell dir vor, ein Kunde bestellt bei einem Ingenieurbüro eine Anlage. Monate später wird geliefert – und der Kunde ist entsetzt. Die Maschine ist zu groß, zu laut und viel zu kompliziert zu bedienen. Der Ingenieur wehrt sich: *"Wir haben genau das gebaut, was technisch besprochen wurde!"*
 
-> **Diskussion:** Woran liegt das? Oft scheitert es an Missverständnissen zwischen **Kundenwünschen** (Alltagssprache) und **technischer Umsetzung** (Fachsprache). 
+> **Diskussion:** Woran liegt das? Oft scheitert es an Missverständnissen zwischen **Kundenwünschen** (Alltagssprache) und **technischer Umsetzung** (Fachsprache).
 
 In den folgenden Schritten (Selbststudium) erarbeitest du dir das Rüstzeug, um solche Fehler zu vermeiden.
 
@@ -135,34 +143,34 @@ Definition: Das Pflichtenheft beschreibt detailliert, WIE und WOMIT die Kundenw�
 
 Überprüfe dein Wissen aus den Infotexten, bevor wir in die Arbeitsphase starten.
 
-1. Wer ist in erster Linie für das Verfassen des Lastenhefts verantwortlich? 
+1. Wer ist in erster Linie für das Verfassen des Lastenhefts verantwortlich?
 
-[(X)] Der Kunde / Auftraggeber 
-[( )] Der Entwickler 
+[(X)] Der Kunde / Auftraggeber
+[( )] Der Entwickler
 [( )] Die Montageabteilung
 
-2. Was wird durch die Systemgrenze abgetrennt? 
+2. Was wird durch die Systemgrenze abgetrennt?
 
-[( )] Der mechanische vom elektrischen Teil der Anlage. 
-[(X)] Das technische System von seiner Umwelt. 
+[( )] Der mechanische vom elektrischen Teil der Anlage.
+[(X)] Das technische System von seiner Umwelt.
 [( )] Das Lastenheft vom Pflichtenheft.
 
-3. Eine Taste wird gedrückt, um einen Motor zu starten. Was ist das Tastensignal in diesem System? 
+3. Eine Taste wird gedrückt, um einen Motor zu starten. Was ist das Tastensignal in diesem System?
 
-[(X)] Eine Eingangsgröße 
-[( )] Eine Störgröße 
+[(X)] Eine Eingangsgröße
+[( )] Eine Störgröße
 [( )] Eine Ausgangsgröße
 
-4. Welches Dokument beantwortet die Frage "WIE und WOMIT wird etwas technisch umgesetzt?" 
+4. Welches Dokument beantwortet die Frage "WIE und WOMIT wird etwas technisch umgesetzt?"
 
-[( )] Das Lastenheft 
-[( )] Das Handbuch 
+[( )] Das Lastenheft
+[( )] Das Handbuch
 [(X)] Das Pflichtenheft
 
-5. Staub und Reibung sind klassische Beispiele für... 
+5. Staub und Reibung sind klassische Beispiele für...
 
-[( )] Ausgangsgrößen 
-[( )] Eingangsgrößen 
+[( )] Ausgangsgrößen
+[( )] Eingangsgrößen
 [(X)] Störgrößen
 
 ---
@@ -171,24 +179,24 @@ Definition: Das Pflichtenheft beschreibt detailliert, WIE und WOMIT die Kundenw�
 
 Ordne die folgenden Aussagen korrekt dem Lastenheft (Kundensicht) oder dem Pflichtenheft (Entwicklersicht) zu.
 
-"Die maximale Leistungsaufnahme darf 400 W bei 230 V AC nicht überschreiten." 
+"Die maximale Leistungsaufnahme darf 400 W bei 230 V AC nicht überschreiten."
 
-[( )] Lastenheft 
+[( )] Lastenheft
 [(X)] Pflichtenheft
 
-"Der Desinfektionsmittelspender muss kontaktlos funktionieren, um die Hygiene zu verbessern." 
+"Der Desinfektionsmittelspender muss kontaktlos funktionieren, um die Hygiene zu verbessern."
 
-[(X)] Lastenheft 
+[(X)] Lastenheft
 [( )] Pflichtenheft
 
-"Der Schalldruckpegel der Anlage darf in 1 m Entfernung maximal 55 dB(A) betragen." 
+"Der Schalldruckpegel der Anlage darf in 1 m Entfernung maximal 55 dB(A) betragen."
 
-[( )] Lastenheft 
+[( )] Lastenheft
 [(X)] Pflichtenheft
 
-"Die Schranke darf keine Autos einklemmen oder beschädigen." 
+"Die Schranke darf keine Autos einklemmen oder beschädigen."
 
-[(X)] Lastenheft 
+[(X)] Lastenheft
 [( )] Pflichtenheft
 
 Team-Austausch: Setzt euch nun in euren 3–4er Teams zusammen (Peer-Review). Gleicht eure Ergebnisse ab und klärt eventuelle Begriffsfragen im Team, bevor ihr in den Lernraum wechselt.
@@ -280,8 +288,8 @@ Hier findet ihr eine mögliche Lösung, falls ihr Beispiel A (Garagentor) gewäh
 
 **Aufgabe 1: Ist-Analyse & Lastenheft**
 
-Ist-Zustand: 
-1. Anheben erfordert Kraftaufwand. 
+Ist-Zustand:
+1. Anheben erfordert Kraftaufwand.
 2. Auto muss bei schlechtem Wetter verlassen werden.
 
 Lastenheft (Funktional):
@@ -336,7 +344,7 @@ L_p ≤ 55 dB(A) in 1 m
 ---
 
 ## 8. BEWERTUNGSRAUM: Arbeitsauftrag Frässtation
-**Arbeitsauftrag für dein Projektteam:** 
+**Arbeitsauftrag für dein Projektteam:**
 Übertragt die nun geübte Methodik auf eure reale Lernsituation (Vollautomatisierung der Frässtation) und legt die Ergebnisse strukturiert auf eurem Collaboard ab.
 
 Eure Abgabe-Aufgaben im Collaboard:
