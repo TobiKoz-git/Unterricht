@@ -59,7 +59,8 @@ Willkommen zur Lektion 1! In dieser Lektion erarbeiten wir uns die grundlegende 
 
 **Impuls: Warum scheitern technische Projekte oft?**
 
-
+![Produktkonfiguration](https://upload.wikimedia.org/wikipedia/commons/thumb/.../Product_configuration.png)
+*Quelle: [Product Configuration](https://commons.wikimedia.org/wiki/File:Product_configuration.png) von [Autor], Lizenz: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)*
 
 Stell dir vor, ein Kunde bestellt bei einem Ingenieurbüro eine Anlage. Monate später wird geliefert – und der Kunde ist entsetzt. Die Maschine ist zu groß, zu laut und viel zu kompliziert zu bedienen. Der Ingenieur wehrt sich: *"Wir haben genau das gebaut, was technisch besprochen wurde!"*
 
