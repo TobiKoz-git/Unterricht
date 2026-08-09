@@ -59,7 +59,7 @@ Willkommen zur Lektion 1! In dieser Lektion erarbeiten wir uns die grundlegende 
 
 **Impuls: Warum scheitern technische Projekte oft?**
 
-  ![Online-Konfigurator](https://www.cloud-science.de/wp-content/uploads/2018/09/online-konfigurator-cartoon.png) 
+
 
 Stell dir vor, ein Kunde bestellt bei einem Ingenieurbüro eine Anlage. Monate später wird geliefert – und der Kunde ist entsetzt. Die Maschine ist zu groß, zu laut und viel zu kompliziert zu bedienen. Der Ingenieur wehrt sich: *"Wir haben genau das gebaut, was technisch besprochen wurde!"*
 
