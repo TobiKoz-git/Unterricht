@@ -1,0 +1,40 @@
+# 📖 Infotext 1: Grundbegriffe der Systemtechnik
+
+## Was ist ein technisches System?
+Stell dir eine einfache Taschenlampe vor: Sie besteht aus einem Gehäuse, einem Schalter, einer Batterie und einer LED. Jedes dieser Teile für sich allein bringt dir im Dunkeln wenig. Erst wenn sie zusammenarbeiten, erfüllen sie eine gemeinsame Aufgabe: Licht erzeugen.
+
+> **Definition:**
+> Ein **technisches System** ist eine Ansammlung von Bauteilen, die miteinander verbunden sind und zusammenarbeiten, um eine bestimmte Aufgabe (Funktion) zu erfüllen.
+
+## Die Systemgrenze – Wo fängt das System an, wo hört es auf?
+
+Um ein technisches System zu verstehen oder zu planen, muss man genau festlegen, was zum System gehört und was außerhalb in der Umwelt liegt. Dafür zieht man eine Systemgrenze.
+
+* **Innerhalb der Systemgrenze:** Alle Bauteile, die wir direkt betrachten, steuern oder bauen.
+* **Außerhalb der Systemgrenze (Umwelt):** Alles, was das System umgibt (z. B. der Raum, der Benutzer, das Stromnetz oder das Wetter).
+
+> **Definition:**
+> Die **Systemgrenze** ist eine gedankliche (oder reale) Trennlinie. Sie grenzt das technische System eindeutig von seiner Umgebung ab. In Zeichnungen wird sie als gestrichelte Linie dargestellt.
+
+## Ein- und Ausgangsgrößen – Was geht rein, was kommt raus?
+Kein technisches System arbeitet völlig isoliert. Es steht immer im Austausch mit seiner Umwelt:
+
+* **Eingangsgrößen (Input):** Alles, was von außen in das System hineingeht, damit es arbeiten kann (z. B. elektrische Spannung aus der Steckdose, Druck auf einen Start-Knopf, Kaffeebohnen).
+* **Ausgangsgrößen (Output):** Alles, was das System an die Umwelt abgibt (z. B. eine Bewegung, Licht, fertiger Kaffee, Abwärme).
+* **Störgrößen:** Unerwünschte Einflüsse aus der Umgebung, die das System beeinträchtigen (z. B. Kälte, Staub, Reibung).
+
+```ascii
+                     [ STÖRGRÖSSEN ]
+               (z. B. Kälte, Staub, Reibung)
+                          │
+                          ▼
+┌ - - - - - - - - - - - - - - - - - - - - - - - - - ┐
+¦ SYSTEMGRENZE                                      ¦
+¦                                                   ¦
+¦   Eingangsgrößen ──►   TECHNISCHES   ──► Ausgangsgrößen
+¦ (z. B. Strom, Taste)    SYSTEM        (z. B. Bewegung)
+¦                       (z. B. Motor)               ¦
+¦                                                   ¦
+└ - - - - - - - - - - - - - - - - - - - - - - - - - ┘
+```
+---

@@ -52,7 +52,16 @@ import: https://raw.githubusercontent.com/liaTemplates/Speech-Recognition-Quiz/r
 
 # Lektion 1: Systemdenken & Anforderungsanalyse
 
-Willkommen zur Lektion 1! In dieser Lektion erarbeiten wir uns die grundlegende Methodik, um technische Projekte systematisch zu analysieren, zu planen und umzusetzen.
+_Willkommen zur Lektion 1!_ In dieser Lektion erarbeiten wir uns die grundlegende Methodik, um technische Projekte systematisch zu analysieren, zu planen und umzusetzen.
+
+Nach Bearbeitung dieser Lektion kannst du:
+
+Die Ein- und Ausgangsgrößen eines technischen Systems benennen.
+
+Signal-, Stoff- und Energieflüsse im System identifizieren und unterscheiden.
+
+Den Unterschied zwischen Lastenheft und Pflichtenheft fachgerecht erklären und kennst deren Bedeutung
+als Kommunikationsmittel zwischen Auftraggeber und Auftragnehmer.
 
 
 ## 1. Start: Problemstellung
@@ -60,7 +69,7 @@ Willkommen zur Lektion 1! In dieser Lektion erarbeiten wir uns die grundlegende 
 **Impuls: Warum scheitern technische Projekte oft?**
 
 ![Produktkonfiguration](https://github.com/TobiKoz-git/Unterricht/blob/main/Produktionstechnologe/LF1/Gemini_Generated_Image_ugmf28ugmf28ugmf.png)
-*Quelle: [Product Configuration](https://github.com/TobiKoz-git/Unterricht/blob/main/Produktionstechnologe/LF1/Gemini_Generated_Image_ugmf28ugmf28ugmf.png) *Chaotisches Konfigurations-Ergebnis in Werkshalle. Generiert mittels künstlicher Intelligenz (Google Gemini).*
+*Quelle: [Product Configuration](https://github.com/TobiKoz-git/Unterricht/blob/main/Produktionstechnologe/LF1/Gemini_Generated_Image_ugmf28ugmf28ugmf.png) *Chaotisches Konfigurations-Ergebnis in Werkshalle. Generiert mittels Google Gemini (Ai).*
 
 Stell dir vor, ein Kunde bestellt bei einem Ingenieurbüro eine Anlage. Monate später wird geliefert – und der Kunde ist entsetzt. Die Maschine ist zu groß, zu laut und viel zu kompliziert zu bedienen. Der Ingenieur wehrt sich: *"Wir haben genau das gebaut, was technisch besprochen wurde!"*
 
@@ -68,72 +77,15 @@ Stell dir vor, ein Kunde bestellt bei einem Ingenieurbüro eine Anlage. Monate s
 
 In den folgenden Schritten (Selbststudium) erarbeitest du dir das Rüstzeug, um solche Fehler zu vermeiden.
 
-## 2. Infotext 1: Grundbegriffe der Systemtechnik
-
-### Was ist ein technisches System?
-Stell dir eine einfache Taschenlampe vor: Sie besteht aus einem Gehäuse, einem Schalter, einer Batterie und einer LED. Jedes dieser Teile für sich allein bringt dir im Dunkeln wenig. Erst wenn sie zusammenarbeiten, erfüllen sie eine gemeinsame Aufgabe: Licht erzeugen.
-
-> **Definition:** Ein **technisches System** ist eine Ansammlung von Bauteilen, die miteinander verbunden sind und zusammenarbeiten, um eine bestimmte Aufgabe (Funktion) zu erfüllen.
-
-### Die Systemgrenze – Wo fängt das System an, wo hört es auf?
-Um ein technisches System zu verstehen oder zu planen, muss man genau festlegen, was zum System gehört und was außerhalb in der Umwelt liegt. Dafür zieht man eine Systemgrenze.
-
-* **Innerhalb der Systemgrenze:** Alle Bauteile, die wir direkt betrachten, steuern oder bauen.
-* **Außerhalb der Systemgrenze (Umwelt):** Alles, was das System umgibt (z. B. der Raum, der Benutzer, das Stromnetz oder das Wetter).
-
-> **Definition:** Die **Systemgrenze** ist eine gedankliche (oder reale) Trennlinie. Sie grenzt das technische System eindeutig von seiner Umgebung ab. In Zeichnungen wird sie als gestrichelte Linie dargestellt.
-
-### Ein- und Ausgangsgrößen – Was geht rein, was kommt raus?
-Kein technisches System arbeitet völlig isoliert. Es steht immer im Austausch mit seiner Umwelt:
-
-* **Eingangsgrößen (Input):** Alles, was von außen in das System hineingeht, damit es arbeiten kann (z. B. elektrische Spannung aus der Steckdose, Druck auf einen Start-Knopf, Kaffeebohnen).
-* **Ausgangsgrößen (Output):** Alles, was das System an die Umwelt abgibt (z. B. eine Bewegung, Licht, fertiger Kaffee, Abwärme).
-* **Störgrößen:** Unerwünschte Einflüsse aus der Umgebung, die das System beeinträchtigen (z. B. Kälte, Staub, Reibung).
-
-```ascii
-                     [ STÖRGRÖSSEN ]
-               (z. B. Kälte, Staub, Reibung)
-                          │
-                          ▼
-┌ - - - - - - - - - - - - - - - - - - - - - - - - - ┐
-¦ SYSTEMGRENZE                                      ¦
-¦                                                   ¦
-¦   Eingangsgrößen ──►   TECHNISCHES   ──► Ausgangsgrößen
-¦ (z. B. Strom, Taste)    SYSTEM        (z. B. Bewegung)
-¦                       (z. B. Motor)               ¦
-¦                                                   ¦
-└ - - - - - - - - - - - - - - - - - - - - - - - - - ┘
-```
----
-
-## 3. Infotext 2: Lastenheft und Pflichtenheft
-
-Das Grundproblem: Wünsche treffen auf Technik
-
-Stell dir vor, ein Kunde sagt zum Entwickler: "Ich brauche ein Förderband, das extrem schnell und super stark ist!" Der Entwickler baut ein riesiges Band mit Industriemotor. Bei der Übergabe ist der Kunde schockiert: Die Bauteile fliegen vom Band und die Anlage war viel zu teuer.
-Warum passiert das? Kunden sprechen die Sprache des Alltags (Wünsche, Ziele). Entwickler benötigen die Sprache der Technik (Zahlen, Maße, elektrische Spannungen). Um Fehler zu vermeiden, nutzt man in der Industrie zwei Dokumente.
-
-Das Lastenheft (Kundensicht)
-
-Das Lastenheft wird vom Auftraggeber (Kunden) geschrieben. Es beschreibt, was er haben möchte, ohne sich in technischen Details zu verlieren.
-Definition: Das Lastenheft beschreibt, WAS das System leisten soll und WARUM es gebraucht wird. Beispiel: „Das Garagentor soll sich per Funk aus dem Auto öffnen lassen und niemanden einklemmen.“
-
-Das Pflichtenheft (Entwicklersicht)
-
-Das Pflichtenheft ist die technische Antwort des Entwicklers. Er übersetzt die Wünsche des Kunden in exakte technische Vorgaben.
-
-Definition: Das Pflichtenheft beschreibt detailliert, WIE und WOMIT die Kundenwünsche technisch umgesetzt werden. Beispiel: „Funkfrequenz f = 868 MHz, Abschaltkraft bei Hindernis F ≤ 150 N, Auslösezeit t < 0,5 s.“
 
 
-Übersicht & Vergleich
+Dir stehen folgende Materialien zur verfügung:
 
-| Kriterium | Lastenheft (Kundensicht) | Pflichtenheft (Entwicklersicht) |
-| -------- | :------: | -------: |
-| Wer schreibt es?     |   Kunde / Auftraggeber   |     Entwickler / Projektteam |
-| Kernfrage | WAS soll gemacht werden und WARUM? | WIE und WOMIT wird es umgesetzt? |
-| Sprache     |   Umgangssprache, Wünsche, Ziele   |     Fachsprache, Maße, Parameter |
+- Text 1
+- Text 2
+- Videos
 
----
+
 
 ## 4. Formativer Wissenstest
 
