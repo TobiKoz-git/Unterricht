@@ -59,8 +59,8 @@ Willkommen zur Lektion 1! In dieser Lektion erarbeiten wir uns die grundlegende 
 
 **Impuls: Warum scheitern technische Projekte oft?**
 
-![Produktkonfiguration](https://upload.wikimedia.org/wikipedia/commons/thumb/.../Product_configuration.png)
-*Quelle: [Product Configuration](https://commons.wikimedia.org/wiki/File:Product_configuration.png) von [Autor], Lizenz: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)*
+![Produktkonfiguration](https://github.com/TobiKoz-git/Unterricht/blob/main/Produktionstechnologe/LF1/Gemini_Generated_Image_ugmf28ugmf28ugmf.png)
+*Quelle: [Product Configuration](https://github.com/TobiKoz-git/Unterricht/blob/main/Produktionstechnologe/LF1/Gemini_Generated_Image_ugmf28ugmf28ugmf.png) *Chaotisches Konfigurations-Ergebnis in Werkshalle. Generiert mittels künstlicher Intelligenz (Google Gemini).*
 
 Stell dir vor, ein Kunde bestellt bei einem Ingenieurbüro eine Anlage. Monate später wird geliefert – und der Kunde ist entsetzt. Die Maschine ist zu groß, zu laut und viel zu kompliziert zu bedienen. Der Ingenieur wehrt sich: *"Wir haben genau das gebaut, was technisch besprochen wurde!"*
 
