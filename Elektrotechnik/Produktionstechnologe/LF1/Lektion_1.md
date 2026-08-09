@@ -52,19 +52,14 @@ import: https://raw.githubusercontent.com/liaTemplates/Speech-Recognition-Quiz/r
 
 # Lektion 1: Systemdenken & Anforderungsanalyse
 
-Willkommen zur Lektion 1! In dieser Lektion erarbeiten wir uns die grundlegende Methodik, um technische Projekte systematisch zu planen und umzusetzen.
+Willkommen zur Lektion 1! In dieser Lektion erarbeiten wir uns die grundlegende Methodik, um technische Projekte systematisch zu analysieren, zu planen und umzusetzen.
 
-Ein Auswahl-Quiz erscheint als Auswahlliste im Text. Runde Klammern markieren die richtige Option.
-
-Wie viele Bundesländer hat Deutschland?
-
-Deutschland hat [[ 15 | (16) | 17 ]] Bundesländer.
-
-@resetter
 
 ## 1. Start: Problemstellung
 
 **Impuls: Warum scheitern technische Projekte oft?**
+
+  ![Online-Konfigurator](https://www.cloud-science.de/wp-content/uploads/2018/09/online-konfigurator-cartoon.png) 
 
 Stell dir vor, ein Kunde bestellt bei einem Ingenieurbüro eine Anlage. Monate später wird geliefert – und der Kunde ist entsetzt. Die Maschine ist zu groß, zu laut und viel zu kompliziert zu bedienen. Der Ingenieur wehrt sich: *"Wir haben genau das gebaut, was technisch besprochen wurde!"*
 
@@ -207,6 +202,8 @@ Team-Austausch: Setzt euch nun in euren 3–4er Teams zusammen (Peer-Review). Gl
 Thema: Vom Kundenwunsch zum technischen System
 
 Hinweis: Wählt in eurem Team eines der drei folgenden Übungsbeispiele aus und bearbeitet alle Aufgaben exakt für dieses System. Nutzt dafür Papier oder ein digitales Board.
+
+
 
 Beispiel-Pool zur Auswahl:
 
