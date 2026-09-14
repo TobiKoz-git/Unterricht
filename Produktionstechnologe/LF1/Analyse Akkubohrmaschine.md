@@ -52,133 +52,134 @@ import: https://raw.githubusercontent.com/liaTemplates/Speech-Recognition-Quiz/r
 
 
 
-# Modul: Systembeschreibung & Funktionseinheiten
+# Modul: Systembeschreibung & Funktionseinheiten (Akkubohrmaschine)
 
-> **Lernziel:** Du verstehst den Aufbau komplexer mechatronischer Systeme, kannst die Hierarchie von Gesamtsystemen über Teilsysteme bis zu den Bauelementen aufschlüsseln und kennst die sechs zentralen Funktionseinheiten.
+> **Lernziel:** Du verstehst den mechatronischen Aufbau einer Akkubohrmaschine, kannst das Gesamtsystem in Teilsysteme und Teilfunktionen zerlegen und die Bauteile den sechs zentralen Funktionseinheiten zuordnen.
 
 ---
 
 ## 1. Systembeschreibung und Hierarchie
 
-Mechatronische Systeme setzen sich aus mechanischen, elektrischen, pneumatischen und hydraulischen Komponenten sowie integrierter Software zusammen. Das geordnete Zusammenwirken aller Teile ergibt die Funktionsweise des Gesamtsystems.
+Eine Akkubohrmaschine (Akkuschrauber) ist ein hochintegriertes mechatronisches System. Sie verknüpft moderne Akkutechnologie und Leistungselektronik mit kompakter Feinmechanik (Planetengetriebe) und Ergonomie.
 
-Um komplexe Anlagen zu verstehen, führen wir die Analyse gemeinsam am Beispiel einer Standbohrmaschine durch.
-
-Eine Standbohrmaschine ist ein klassisches mechatronisches System. Sie kombiniert elektrische Komponenten (Motor, Schalter), mechanische Bauteile (Riemengetriebe, Spindel, Hebel) und moderne Sicherheitstechnik.
+Wir gliedern das Gesamtsystem systematisch in seine Ebenen:
 
 
-### Die Hierarchie-Ebenen der Bohrmaschine:
-
-1. **Gesamtsystem:** Standbohrmaschine.
-2. **Teilsysteme:** 
-   * *Antriebssystem* (Elektromotor, Kondensator, Ansteuerung)
-   * *Übertragungssystem* (Keilriementrieb, Riemenscheiben)
-   * *Arbeits- und Vorschubeinheit* (Bohrspindel, Pinole, Bohrfutter, Handkreuz)
-   * *Tragstruktur* (Maschinenfuß, Säule, Führung, Bohrtisch)
-3. **Funktionen:**
-   * **Hauptfunktion:** Spanende Formgebung durch Bohren (Erzeugen von kreiszylindrischen Senkungen oder Bohrungen in Werkstücken).
-   * **Teilfunktionen:** Elektrische Energie in Rotation wandeln, Drehzahl/Drehmoment anpassen, Schnittbewegung auf das Werkzeug übertragen, Vorschubbewegung ausführen, Werkstück halten und stützen.
-
-```ASCII
-
-                [ Gesamtsystem: Standbohrmaschine ]
-                               │
-  ┌────────────────────────────┼────────────────────────────┐
-  ▼                            ▼                            ▼
-[ Teilsystem: Antrieb ]   [ Teilsystem: Getriebe ]   [ Teilsystem: Gestell & Tisch ]
-│                            │                            │
-▼                            ▼                            ▼
-• Elektromotor             • Keilriemen / Scheiben      • Maschinenfuß & Säule
-• Schaltelektronik         • Bohrspindel                • Bohrtisch & Führung
-
+``` ascii
+                            [ Gesamtsystem: Akkubohrmaschine ]
+                                           │
+              ┌────────────────────────────┼────────────────────────────┐
+              ▼                            ▼                            ▼
+[ Teilsystem: Energiesystem ]  [ Teilsystem: Antrieb/Getriebe ] [ Teilsystem: Werkzeugaufnahme ]
+                │                            │                            │
+                ▼                            ▼                            ▼
+        • Li-Ion-Akkupack            • BLDC-Motor                 • Schnellspannbohrfutter
+        • Schnittstelle/Kontakte     • 2-Gang-Planetengetriebe    • Werkzeug (Bit / Bohrer)
 ```
 
----
 
-### Quiz: Systemhierarchie der Standbohrmaschine
 
-* Prüfe dein Verständnis zur Zerlegung der Bohrmaschine:
+### Die Hierarchie-Ebenen der Akkubohrmaschine:
 
-1. Was beschreibt die *Hauptfunktion* einer Standbohrmaschine?
-
-[(x)] Erzeugen von kreisförmigen Bohrungen im Werkstück
-[( )] Das Wandeln von Wechselstrom in Gleichstrom
-[( )] Das automatische Transportieren von Werkstücken zur nächsten Station
-
-2. Welche Komponenten gehören direkt zum Teilsystem *Übertragungssystem*?
-
-[[x]] Getriebe
-[[x]] Keilriemen
-[[ ]] Maschinenfuß
-[[ ]] Not-Aus-Schalter
-
-3. Welche Teilfunktion übernimmt die *Bohrspindel mit der Pinole*?
-
-[( )] Sie wandelt Netzspannung in Magnetismus um.
-[(x)] Sie überträgt die Drehbewegung auf das Bohrfutter und ermöglicht die vertikale Vorschubbewegung.
-[( )] Sie entsorgt die Späne automatisch aus dem Arbeitsraum.
-
+1. **Gesamtsystem:** Akkubohrmaschine.
+2. **Teilsysteme:** 
+   * *Energiesystem* (Li-Ion-Akku, BMS-Schutzelektronik, Kontakte)
+   * *Antriebs- und Steuerungssystem* (Bürstenloser Motor, Drückschalter, Elektronik, Rechts-/Linkslauf-Umschalter)
+   * *Übertragungssystem* (Getriebe, Drehmomentkupplung, Spindel)
+   * *Werkzeugaufnahmesystem* (Bohrfutter, Bithalter)
+   * *Gehäusesystem* (Gehäuse, Handgriff, Gürtelclip)
+3. **Funktionen:**
+   * **Hauptfunktion:** Ortunabhängiges Fügen (Schrauben) und Bohren.
+   * **Teilfunktionen:** Chemische Energie speichern und bereitstellen, elektrische Energie in Rotation wandeln, Drehmoment und Drehzahl anpassen, Drehmoment begrenzen.
 
 ---
 
-## 2. Die sechs Funktionseinheiten der Bohrmaschine
+### Quiz: Systemhierarchie der Akkubohrmaschine
 
-Nach **DIN EN 61346** teilen wir die Bauteile der Bohrmaschine in sechs genormte Funktionseinheiten ein:
+
+1. Was beschreibt die *Hauptfunktion* einer Akkubohrmaschine?
+
+  [(x)] Mobiles, netzunabhängiges Eindrehen von Schrauben und Bohren von Löchern
+  [( )] Das Umwandeln von 230V Wechselspannung in Druckluft
+  [( )] Das automatische Abmessen von Bauteildicken
+
+2. Welche Komponenten gehören zum Teilsystem *Energiesystem*?
+
+  [[x]] Lithium-Ionen-Akkupack
+  [[x]] Steckkontakte zur Leistungsübertragung
+  [[ ]] Schnellspannbohrfutter
+  [[ ]] Planetengetriebe
+
+3. Welche Teilfunktion übernimmt das *mehrstufige getriebe* im Akkuschrauber?
+
+  [( )] Es schützt den Akku vor Tiefentladung.
+  [(x)] Es wandelt die hohe Motordrehzahl in ein größeres Drehmoment um und ermöglicht die Gangumschaltung.
+  [( )] Es hält die Bohrmaschine am Gürtel des Benutzers.
+
+---
+
+## 2. Die sechs Funktionseinheiten der Akkubohrmaschine
+
+Auch der kompakte Akkuschrauber lässt sich nach **DIN EN 61346** in die sechs Funktionseinheiten unterteilen:
 
 ### 1. Antriebseinheit
-* **Funktion:** Stellt die notwendige mechanische Energie bereit.
-* **Bauteile an der Bohrmaschine:** Elektromotor.
+* **Funktion:** Wandelt elektrische Energie aus dem Akku in mechanische Rotationsenergie um.
+* **Bauteile an der Akkubohrmaschine:** Elektromotor (z. B. Bürstenloser Gleichstrommotor (BLDC-Motor)) und Getriebe.
 
 ### 2. Energieübertragungseinheit
-* **Funktion:** Leitet die Bewegung weiter, passt die Drehzahl an oder wandelt Bewegung Formen um.
-* **Bauteile an der Bohrmaschine:** Keilriemen, Riemenscheiben, Bohrspindel, Verzahnung der Pinole für den Vorschub.
+* **Funktion:** Passt Drehzahl und Drehmoment an und überträgt die Bewegung auf die Spindel.
+* **Bauteile an der Akkubohrmaschine:** Mehrstufiges Getriebe, Gangwahlschalter (1. Gang / 2. Gang), Bohrspindel.
 
 ### 3. Stütz- und Trageinheit
-* **Funktion:** Nimmt Gewichtskräfte sowie Schnitt- und Vorschubkräfte auf und führt bewegliche Teile.
-* **Bauteile an der Bohrmaschine:** Schwerer Maschinenfuß, vertikale Säule, höhenverstellbarer Bohrtisch, Motorgehäuse.
+* **Funktion:** Nimmt Reaktionskräfte (Drehmoment) auf, schützt die Innenbauteile und ermöglicht die Handhabung.
+* **Bauteile an der Akkubohrmaschine:** Ergonomisches Kunststoffgehäuse mit Softgrip, Getriebegehäuse, Kugellager der Spindel.
 
 ### 4. Arbeitseinheit
-* **Funktion:** Führt die eigentliche technologische Aufgabe (das Bohren) am Werkstück aus.
-* **Bauteile an der Bohrmaschine:** Bohrfutter (Spannzeug), Spiralbohrer (Werkzeug), Maschinenschraubstock (Werkstückspannung).
+* **Funktion:** Hält das Werkzeug und führt die eigentliche Bearbeitung/Fügeoperation aus.
+* **Bauteile an der Akkubohrmaschine:** Schnellspannbohrfutter, eingesetzter Spiralbohrer oder Schrauberbit.
 
 ### 5. Steuerungs- und Regelungseinheit
-* **Funktion:** Verarbeitet Befehle/Signale zur Überwachung und Beeinflussung des Prozesses.
-* **Bauteile an der Bohrmaschine:** EIN/AUS-Schalter, Not-Aus-Taster, Mikroschalter an der Riemenabdeckung (Sicherheitsschaltung), Handkreuz für den manuellen Vorschub.
+* **Funktion:** Dosiert die Leistung, bestimmt die Drehrichtung und begrenzt das Drehmoment zum Schutz der Schraube.
+* **Bauteile an der Akkubohrmaschine:** Drückerschalter (Elektronikschalter für stufenlose Drehzahl), Rechts-/Linkslauf-Umschalter, Einstellring für die Drehmomentkupplung, Motorsteuerungselektronik.
 
 ### 6. Ver- und Entsorgungseinheit
-* **Funktion:** Versorgt die Maschine mit Energie oder Betriebsstoffen und leitet Abfälle ab.
-* **Bauteile an der Bohrmaschine:** Netzanschlusskabel mit Schukostecker, Klemmenkasten am Motor, ggf. Kühlmitteleinrichtung und Spänewanne.
+* **Funktion:** Speichert die benötigte Energie und versorgt die Elektronik und den Motor.
+* **Bauteile an der Akkubohrmaschine:** Wechselbarer Li-Ion-Akkupack, Akkukontakte und internes Batteriemanagementsystem (BMS).
 
 ---
 
-## 3. Quiz: Funktionseinheiten zuordnen
+## 3. Vertiefungs-Quiz: Funktionseinheiten zuordnen
 
-* Ordne die Bauteile der Standbohrmaschine den richtigen Einheiten zu:
+* Ordne die Bauteile der Akkubohrmaschine den richtigen Einheiten zu:
 
-1. Der **Maschinenfuß und die Stahlsäule** gehören zu welcher Funktionseinheit?
+1. Der **wechselbare Li-Ion-Akkupack** gehört zu welcher Funktionseinheit?
    [( )] Antriebseinheit
-   [(x)] Stütz- und Trageinheit
-   [( )] Ver- und Entsorgungseinheit
+   [( )] Steuerungs- und Regelungseinheit
+   [(x)] Ver- und Entsorgungseinheit
 
-2. Welches Bauteil bildet die **Arbeitseinheit** der Bohrmaschine?
-   [[x]] Der eingespannte Spiralbohrer
-   [[x]] Das Bohrfutter
-   [[ ]] Das Netzkabel
-   [[ ]] Der Keilriemen
+2. Welches Bauteil stellt die **Steuerungs- und Regelungseinheit** dar?
+   [[x]] Der Stufenlos-Drückerschalter zur Drehzahlsteuerung
+   [[x]] Der Einstellring für das maximale Drehmoment
+   [[ ]] Das Gehäuse
+   [[ ]] Der Motor
 
-3. Wie ist der **EIN/AUS-Schalter mit Not-Aus-Funktion** einzuordnen?
+3. Wie ist das **Schnellspannbohrfutter mit eingesetztem Bit** einzuordnen?
    [( )] Energieübertragungseinheit
-   [( )] Arbeitseinheit
-   [(x)] Steuerungs- und Regelungseinheit
+   [(x)] Arbeitseinheit
+   [( )] Stütz- und Trageinheit
 
-4. Das **Keilriemengetriebe** ist eine...
-   [(x)] ...Energieübertragungseinheit, da es Drehzahl und Drehmoment vom Motor auf die Spindel übersetzt.
-   [( )] ...Ver- und Entsorgungseinheit, da es den Motor mit Strom versorgt.
-   [( )] ...Arbeitseinheit, da es direkt die Späne vom Werkstück abhebt.
+4. Das **2-Gang-Planetengetriebe** ist eine...
+   [(x)] ...Energieübertragungseinheit, da es die Drehbewegung des Motors übersetzt.
+   [( )] ...Arbeitseinheit, weil es direkt in das Holz bohrt.
+   [( )] ...Ver- und Entsorgungseinheit, da es den Motor kühlt.
 
 ---
 
 ## 4. Zusammenfassung & Check-Out
 
 > **Merke:** 
-> Auch eine eigenständige Werkzeugmaschine wie die Standbohrmaschine lässt sich lückenlos in die sechs Funktionseinheiten zerlegen. Dieses Schema hilft dir später bei der Fehlersuche: Wenn die Bohrspindel steht, obwohl der Motor läuft, liegt der Fehler in der **Energieübertragungseinheit** (z. B. Keilriemen gerissen).
+> Durch die Zuordnung zu den sechs Funktionseinheiten wird verständlich, wie Mechanik, Elektrik und Elektronik auf engstem Raum zusammenarbeiten. Fällt bei einem Akkuschrauber beispielsweise das Drehmoment unter Last ab, obwohl der Motor voll dreht, liegt der Fehler in der **Energieübertragungseinheit** (z. B. durchrutschende Drehmomentkupplung oder defektes Planetengetriebe).
+
+
+
+
