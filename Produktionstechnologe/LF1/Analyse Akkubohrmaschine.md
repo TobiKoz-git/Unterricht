@@ -153,25 +153,29 @@ Auch der kompakte Akkuschrauber lässt sich nach **DIN EN 61346** in die sechs F
 * Ordne die Bauteile der Akkubohrmaschine den richtigen Einheiten zu:
 
 1. Der **wechselbare Li-Ion-Akkupack** gehört zu welcher Funktionseinheit?
-   [( )] Antriebseinheit
-   [( )] Steuerungs- und Regelungseinheit
-   [(x)] Ver- und Entsorgungseinheit
+   
+[( )] Antriebseinheit
+[( )] Steuerungs- und Regelungseinheit
+[(x)] Ver- und Entsorgungseinheit
 
 2. Welches Bauteil stellt die **Steuerungs- und Regelungseinheit** dar?
-   [[x]] Der Stufenlos-Drückerschalter zur Drehzahlsteuerung
-   [[x]] Der Einstellring für das maximale Drehmoment
-   [[ ]] Das Gehäuse
-   [[ ]] Der Motor
+
+[[x]] Der Stufenlos-Drückerschalter zur Drehzahlsteuerung
+[[x]] Der Einstellring für das maximale Drehmoment
+[[ ]] Das Gehäuse
+[[ ]] Der Motor
 
 3. Wie ist das **Schnellspannbohrfutter mit eingesetztem Bit** einzuordnen?
-   [( )] Energieübertragungseinheit
-   [(x)] Arbeitseinheit
-   [( )] Stütz- und Trageinheit
+
+[( )] Energieübertragungseinheit
+[(x)] Arbeitseinheit
+[( )] Stütz- und Trageinheit
 
 4. Das **2-Gang-Planetengetriebe** ist eine...
-   [(x)] ...Energieübertragungseinheit, da es die Drehbewegung des Motors übersetzt.
-   [( )] ...Arbeitseinheit, weil es direkt in das Holz bohrt.
-   [( )] ...Ver- und Entsorgungseinheit, da es den Motor kühlt.
+
+[(x)] ...Energieübertragungseinheit, da es die Drehbewegung des Motors übersetzt.
+[( )] ...Arbeitseinheit, weil es direkt in das Holz bohrt.
+[( )] ...Ver- und Entsorgungseinheit, da es den Motor kühlt.
 
 ---
 
