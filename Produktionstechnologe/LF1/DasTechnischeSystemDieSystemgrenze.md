@@ -127,3 +127,16 @@ E              +---------------------------+        E
     
 
 ```
+
+
+## Merke!
+
+> - Systemgrenze = Rechteck bezeichnet mit Gesamtfunktion des Systems
+>
+> - Teilsysteme und Prozesse im Inneren werden nicht dargestellt
+>
+> - in Systemgrenzen findet Verarbeitung der Eingangsgrößen Stoff, Energie und Information statt, von links eingeleitet
+>
+> - System als Black Box dient der Analyse der in das System eintretenden und austretenden physikalischen Größen
+>
+> - wichtig dabei Ein- und Ausgangsgrößen genau durch Zahlenwerte und Einheiten zu beschreiben
