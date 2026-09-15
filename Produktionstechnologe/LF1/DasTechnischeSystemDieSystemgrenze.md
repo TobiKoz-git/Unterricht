@@ -78,10 +78,11 @@ Die Beschaffenheit dieser Schnittstellen kann sehr unterschiedlich sein:
 
 Welche der folgenden drei Aussagen beschreibt den Begriff **Systemgrenze** in der technischen Systemanalyse am exaktesten?
 
-[( ) A) Eine mechanische Schutzverkleidung oder Trenngitter, das den Bediener vor Verletzungen durch laufende Maschinenteile schützt.]
-[(X) B) Eine gedankliche oder reale Trennlinie, die das betrachtete System von seiner Umwelt abgrenzt und alle relevanten Ein- und Ausgangsgrößen an den Schnittstellen definiert.]
-[( ) C) Die maximale thermische und mechanische Belastungsgrenze einer Komponente, bei deren Überschreitung das System ausfällt.]
-[?] Tipp: Denken Sie daran, wie wir Systeme analysieren, unabhängig davon, ob bereits ein festes Maschinengehäuse existiert oder nicht.
+ - [( ) A)] Eine mechanische Schutzverkleidung oder Trenngitter, das den Bediener vor Verletzungen durch laufende Maschinenteile schützt.
+ - [(X) B)] Eine gedankliche oder reale Trennlinie, die das betrachtete System von seiner Umwelt abgrenzt und alle relevanten Ein- und Ausgangsgrößen an den Schnittstellen definiert.
+ - [( ) C)] Die maximale thermische und mechanische Belastungsgrenze einer Komponente, bei deren Überschreitung das System ausfällt.
+
+
 
 ---
 
