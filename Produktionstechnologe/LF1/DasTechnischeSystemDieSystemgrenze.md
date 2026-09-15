@@ -115,14 +115,14 @@ Der Fokus liegt ausschließlich auf den Schnittstellen zur Umwelt:
 ```text        
                 
                        Verarbeitung                 
-E              +---------------------------+           A
-I              |                           |           U
-N      ========|=>       BLACK BOX         |==========>S
-G  Information |                           |           G   | Information
-Ä    Energie   |     (Innerer Aufbau       |           Ä   | Energie
-N    Stoffe    |      vorerst verborgen)   |           N   | Stoffe
-G      ========|=>                         |==========>G    (inkl. Verluste)
-E              +---------------------------+           E
+E              +---------------------------+        A
+I              |                           |        U
+N      ========|=>       BLACK BOX         |=======>S
+G  Information |                           |        G  Information
+Ä    Energie   |     (Innerer Aufbau       |        Ä  Energie
+N    Stoffe    |      vorerst verborgen)   |        N  Stoffe
+G      ========|=>                         |=======>G    
+E              +---------------------------+        E
               
     
 
