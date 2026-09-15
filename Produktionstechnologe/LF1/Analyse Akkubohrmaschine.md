@@ -74,7 +74,7 @@ Wir gliedern das Gesamtsystem systematisch in seine Ebenen:
                 │                            │                            │
                 ▼                            ▼                            ▼
         • Li-Ion-Akkupack            • BLDC-Motor                 • Schnellspannbohrfutter
-        • Schnittstelle/Kontakte     • 2-Gang-Planetengetriebe    • Werkzeug (Bit / Bohrer)
+        • Schnittstelle/Kontakte     • 2-Gang-Getriebe    		  • Werkzeug (Bit / Bohrer)
 ```
 
 
@@ -110,7 +110,7 @@ Wir gliedern das Gesamtsystem systematisch in seine Ebenen:
   [[ ]] Schnellspannbohrfutter
   [[ ]] Planetengetriebe
 
-3. Welche Teilfunktion übernimmt das *mehrstufige getriebe* im Akkuschrauber?
+3. Welche Teilfunktion übernimmt das *mehrstufige Getriebe* im Akkuschrauber?
 
   [( )] Es schützt den Akku vor Tiefentladung.
   [(x)] Es wandelt die hohe Motordrehzahl in ein größeres Drehmoment um und ermöglicht die Gangumschaltung.
