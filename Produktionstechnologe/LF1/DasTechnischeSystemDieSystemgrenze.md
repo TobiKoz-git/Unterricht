@@ -64,14 +64,14 @@ Ein mechatronisches System wandelt Energie, Stoffe und Informationen um, um eine
 
 ## Was ist die Systemgrenze?
 
-Die Systemgrenze ist die Schnittstelle, die ein betrachtetes System von seiner Umgebung trennt. An den Systemgrenzen erfolgt eine Übertragung der Hauptumsatzgrößen, innerhalb des Systems erfolgt deren Umwandlung (EVA-Prinzip), Transport oder Speicherung. Für den Konstrukteur stellt die Systemgrenze häufig eine Schnittstelle dar, die gewissen Vorgaben entsprechen muss.
+Die Systemgrenze bildet die Schnittstelle zwischen einem betrachteten System und seiner Umgebung. An den Systemgrenzen werden die Hauptumsatzgrößen übertragen, innerhalb des Systems werden sie umgewandelt, transportiert oder gespeichert (EVA-Prinzip). Für den Konstrukteur stellt die Systemgrenze häufig eine Schnittstelle dar, die bestimmten Vorgaben entsprechen muss.
 
-Die Beschaffenheit dieser Schnittstellen kann sehr unterschiedlich sein:
+Die Beschaffenheit dieser Schnittstellen kann sehr unterschiedlich sein.
 
- - mechanische Schnittstellen (Maße, Toleranzen, Kupplungen, Befestigungen...)
- - elektrische Schnittstellen (Spannungspegel, Potential, Verbindungstechnik...)
- - pneumatische und hydraulische Schnittstellen (Druck, Anschluss...)
- - Datenschnittstellen (Übertragungsprotokoll, Übertragungsmedium, Anschluss...)
+ - mechanische Schnittstellen (Maße, Toleranzen, Kupplungen, Befestigungen ...)
+ - elektrische Schnittstellen (Spannungspegel, Potenzial, Verbindungstechnik ...)
+ - pneumatische und hydraulische Schnittstellen (Druck, Anschluss ...).
+ - Datenschnittstellen (Übertragungsprotokoll, Übertragungsmedium, Anschluss ...).
 
 * **Innerhalb der Systemgrenze:** Alle Bauteile, die wir direkt betrachten, steuern oder bauen.
 * **Außerhalb der Systemgrenze (Umwelt):** Alles, was das System umgibt (z. B. der Raum, der Benutzer, das Stromnetz).
@@ -94,12 +94,11 @@ Welche der folgenden drei Aussagen beschreibt den Begriff **Systemgrenze** in de
 
 ## Offene, geschlossene und abgeschlossene Systeme
 
-Als offen ist ein System definiert, das sowohl Energie als auch Stoffe mit seiner Umgebung austauschen kann. Ein Beispiel für ein offenes System ist eine eisgekühlte, offene Cola-Flasche, die sowohl Wärmeenergie aus der Umgebungsluft aufnimmt wie auch Materie in Form Kohlendioxid an die Umgebungsluft abgibt.
+Ein System wird als offen bezeichnet, wenn es sowohl Energie als auch Stoffe mit seiner Umgebung austauschen kann. Ein Beispiel hierfür ist eine eisgekühlte, offene Cola-Flasche, die Wärmeenergie aus der Umgebungsluft aufnimmt und Kohlendioxid an diese abgibt.
 
-Ein geschlossenes System ist materieundurchlässig, lässt aber einen Energiefluss zu. Bleiben wir bei besagter Cola-Flasche und lassen sie geschlossen. Die Temperatur steigt aber der Inhalt bleibt gleich.
+Ein geschlossenes System ist dagegen materiedurchlässig, lässt aber einen Energiefluss zu. Bleiben wir bei der besagten Cola-Flasche und lassen sie geschlossen. Die Temperatur steigt, aber der Inhalt bleibt gleich.
 
-Ein abgeschlossenen System lässt sich nur näherungsweise in die Praxis umsetzen, da - per Definition - sowohl Stofffluss wie auch Energiefluss unterbunden sein müssen. Daher nur näherungsweise ein Beispiel: die eiskalte Cola in einer verschlossenen Thermoskanne.
-
+Ein abgeschlossenes System lässt sich in der Praxis nur näherungsweise umsetzen, da sowohl Stoff- als auch Energiefluss unterbunden sein müssen. Ein Beispiel hierfür ist die eiskalte Cola in einer verschlossenen Thermoskanne.
 
 ---
 
