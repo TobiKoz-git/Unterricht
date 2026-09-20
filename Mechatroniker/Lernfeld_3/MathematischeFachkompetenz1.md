@@ -57,7 +57,7 @@ Grundlagen: Spannung, Strom, ohmsches Gesetz, Leistung
 ---
 
 ## Aufgabe 1: Spannungseinheiten umwandeln
-Wandeln Sie folgende Spannungsangaben um in die Grundeinheit Volt:
+Wandeln Sie folgende Spannungsangaben in die Grundeinheit Volt um:
 `2kV, 80mV, 0,23kV, 700µV, 380kV, 0,75MV`
 
 <details>
@@ -98,7 +98,7 @@ Nutzen Sie die Zehnerpotenzen der Einheitsvorsätze:
 ---
 
 ## Aufgabe 2: Stromeinheiten umwandeln
-Wandeln Sie folgende Stromangaben um in eine Angabe mit sinnvollem Maßeinheitsvorsatz:
+Wandeln Sie folgende Stromangaben in eine Angabe mit sinnvollem Maßeinheitsvorsatz um:
 `2500A, 0,003A, 80000µA, 1550mA, 0,000040A`
 
 <details>
@@ -257,7 +257,7 @@ $$N = \frac{Q}{e} = \frac{1920\,\text{C}}{1{,}602 \cdot 10^{-19}\,\text{C}} \app
 ---
 
 ### Aufgabe 7: Mittlerer Entladestrom des Blitzgeräts
-Der Kondensator eines Elektronenblitzgeräts hat eine Ladung von $450\,\text{mAs}$. Er wird durch eine Blitzlampe in einer tausendstel Sekunde entladen. Berechnen Sie den mittleren Entladestrom.
+Der Kondensator eines Blitzgeräts hat eine Ladung von $450\,\text{mAs}$. Er wird durch eine Blitzlampe in einer tausendstel Sekunde entladen. Berechnen Sie den mittleren Entladestrom.
 
 <details>
 <summary><b>Stufe 1: Lösungshinweise</b></summary>
