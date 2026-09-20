@@ -134,7 +134,7 @@ Wandeln Sie folgende Stromangaben um in eine Angabe mit sinnvollem Maßeinheitsv
 ---
 
 ### Aufgabe 3: Erzeugte Spannung im Generator
-Eine Ladungsmenge von $500\,\text{C}$ wird in einem Generator durch Zufuhr einer mechanischen Arbeit von $3000\,\text{Nm}$ getrennt. Wie hoch ist die erzeugte Spannung?
+Eine Ladungsmenge von $500\,\text{C}$ wird in einem Generator durch Zufuhr einer mechanischen Arbeit von $3000\,\text{Nm}$ getrennt. Berechnen Sie die erzeugte Spannung.
 
 <details>
 <summary><b>Stufe 1: Lösungshinweise</b></summary>
@@ -161,8 +161,8 @@ $$U = \frac{W}{Q} = \frac{3000\,\text{J}}{500\,\text{C}} = 6\,\text{V}$$
 
 ---
 
-## Aufgabe 4: Feldstärke einer Oszilloskopröhre
-Die Beschleunigungsspannung einer Elektronenstrahlröhre eines Oszilloskops beträgt $2\,\text{kV}$. Der Abstand zwischen Katode und Anode beträgt $32\,\text{cm}$. Wie hoch ist die Feldstärke?
+### Aufgabe 4: Feldstärke einer Oszilloskopröhre
+Die Beschleunigungsspannung einer Elektronenstrahlröhre eines Oszilloskops beträgt $2\,\text{kV}$. Der Abstand zwischen Katode und Anode beträgt $32\,\text{cm}$. Berechnen Sie die elektrische Feldstärke.
 
 <details>
 <summary><b>Stufe 1: Lösungshinweise</b></summary>
@@ -189,8 +189,8 @@ $$E = \frac{U}{d} = \frac{2000\,\text{V}}{0{,}32\,\text{m}} = 6250\,\frac{\text{
 
 ---
 
-## Aufgabe 5: Maximale Spannung am Folienkondensator
-Bei einem Kunststoff-Folienkondensator mit einer Folienstärke von $0{,}3\,\mu\text{m}$ beträgt die zulässige Feldstärke $E_d = 80\,\text{kV/mm}$. Bis zu wie viel Volt Gleichspannung kann der Kondensator verwendet werden?
+### Aufgabe 5: Maximale Spannung am Folienkondensator
+Bei einem Kunststoff-Folienkondensator mit einer Folienstärke von $0{,}3\,\mu\text{m}$ beträgt die zulässige Feldstärke $E_d = 80\,\text{kV/mm}$. Berechnen Sie die maximale Gleichspannung, bis zu der der Kondensator verwendet werden kann.
 
 <details>
 <summary><b>Stufe 1: Lösungshinweise</b></summary>
@@ -219,7 +219,7 @@ $$U_{\max} = E_d \cdot d = 80000\,\frac{\text{V}}{\text{mm}} \cdot 0{,}0003\,\te
 ---
 
 ### Aufgabe 6: Ladung & Elektronenzahl beim Akku-Laden
-Ein Bleiakkumulator wird $10\,\text{Minuten}$ lang mit $3{,}2\,\text{A}$ geladen. Berechnen Sie
+Ein Bleiakkumulator wird $10\,\text{Minuten}$ lang mit $3{,}2\,\text{A}$ geladen. Berechnen Sie:
 a) die Ladung,
 b) die Elektronenzahl der Ladung.
 
@@ -256,7 +256,7 @@ $$N = \frac{Q}{e} = \frac{1920\,\text{C}}{1{,}602 \cdot 10^{-19}\,\text{C}} \app
 
 ---
 
-## Aufgabe 7: Mittlerer Entladestrom des Blitzgeräts
+### Aufgabe 7: Mittlerer Entladestrom des Blitzgeräts
 Der Kondensator eines Elektronenblitzgeräts hat eine Ladung von $450\,\text{mAs}$. Er wird durch eine Blitzlampe in einer tausendstel Sekunde entladen. Berechnen Sie den mittleren Entladestrom.
 
 <details>
@@ -283,11 +283,11 @@ $$I = \frac{Q}{t} = \frac{0{,}45\,\text{As}}{0{,}001\,\text{s}} = 450\,\text{A}$
 
 ---
 
-## Aufgabe 8: Kfz-Akkumulator Lade- und Entladevorgang
-Ein leerer Kfz-Akkumulator mit der Aufschrift $12\,\text{V} / 44\,\text{Ah}$ wird mit einer konstanten Stromstärke von $2\,\text{A}$ geladen.
-a) Welche Ladezeit wird benötigt?
-b) Welche Ladung hat er nach 8 Stunden?
-c) In welcher Zeit ist der volle Akkumulator bei einer konstanten Belastung mit $0{,}5\,\text{A}$ entladen?
+### Aufgabe 8: Kfz-Akkumulator Lade- und Entladevorgang
+Ein leerer Kfz-Akkumulator mit der Aufschrift $12\,\text{V} / 44\,\text{Ah}$ wird mit einer konstanten Stromstärke von $2\,\text{A}$ geladen. Berechnen Sie:
+a) die benötigte Ladezeit,
+b) die geladene Ladung nach 8 Stunden,
+c) die Entladezeit des vollen Akkumulators bei einer konstanten Belastung mit $0{,}5\,\text{A}$.
 
 <details>
 <summary><b>Stufe 1: Lösungshinweise</b></summary>
@@ -324,8 +324,8 @@ $$t = \frac{Q_{\text{nenn}}}{I_{\text{entlade}}} = \frac{44\,\text{Ah}}{0{,}5\,\
 
 ---
 
-## Aufgabe 9: Erforderliche Querschnitte am Transformator
-Ein Steuertransformator $230\,\text{V} / 24\,\text{V}$ nimmt $0{,}77\,\text{A}$ auf und gibt $6{,}2\,\text{A}$ ab. Die Stromdichte in der Eingangswicklung soll $2{,}3\,\text{A/mm}^2$, in der Ausgangswicklung $2{,}7\,\text{A/mm}^2$ nicht überschreiten. Berechnen Sie die erforderlichen Querschnitte.
+### Aufgabe 9: Erforderliche Querschnitte am Transformator
+Ein Steuertransformator $230\,\text{V} / 24\,\text{V}$ nimmt $0{,}77\,\text{A}$ auf und gibt $6{,}2\,\text{A}$ ab. Die Stromdichte in der Eingangswicklung soll $2{,}3\,\text{A/mm}^2$, in der Ausgangswicklung $2{,}7\,\text{A/mm}^2$ nicht überschreiten. Berechnen Sie die erforderlichen Querschnitte der Eingangs- und Ausgangswicklung.
 
 <details>
 <summary><b>Stufe 1: Lösungshinweise</b></summary>
@@ -356,8 +356,8 @@ $$A_2 = \frac{I_2}{J_2} = \frac{6{,}2\,\text{A}}{2{,}7\,\text{A/mm}^2} \approx 2
 
 ---
 
-## Aufgabe 10: Stromdichte einer Unterputzleitung
-Eine PVC-isolierte Kupferleitung vom Querschnitt $2{,}5\,\text{mm}^2$ darf bei Verlegung im Putz mit $24\,\text{A}$ belastet werden. Wie hoch ist die zulässige Stromdichte?
+### Aufgabe 10: Stromdichte einer Unterputzleitung
+Eine PVC-isolierte Kupferleitung vom Querschnitt $2{,}5\,\text{mm}^2$ darf bei Verlegung im Putz mit $24\,\text{A}$ belastet werden. Berechnen Sie die zulässige Stromdichte.
 
 <details>
 <summary><b>Stufe 1: Lösungshinweise</b></summary>
@@ -384,7 +384,7 @@ $$J = \frac{I}{A} = \frac{24\,\text{A}}{2{,}5\,\text{mm}^2} = 9{,}6\,\frac{\text
 ---
 
 ### Aufgabe 11: Kennwerte einer Glühlampe
-An einer Glühlampe wurde eine Spannung von $12\,\text{V}$ und eine Stromstärke von $417\,\text{mA}$ gemessen. Wie groß ist der Widerstand und der Leitwert? Welche Leistung besitzt die Glühlampe?
+An einer Glühlampe wurde eine Spannung von $12\,\text{V}$ und eine Stromstärke von $417\,\text{mA}$ gemessen. Berechnen Sie den Widerstand, den Leitwert und die Leistung der Glühlampe.
 
 <details>
 <summary><b>Stufe 1: Lösungshinweise</b></summary>
@@ -422,9 +422,8 @@ $$P = U \cdot I = 12\,\text{V} \cdot 0{,}417\,\text{A} = 5{,}004\,\text{W} \appr
 
 ---
 
-## Aufgabe 12: Stromaufnahme von Glühlampen ($230\,\text{V}$)
-Handelsübliche Glühlampen für die Nennspannung $230\,\text{V}$ haben folgende Leistungen:
-Berechnen Sie jeweils die Stromaufnahme für:
+### Aufgabe 12: Stromaufnahme von Glühlampen ($230\,\text{V}$)
+Handelsübliche Glühlampen für die Nennspannung $230\,\text{V}$ haben verschiedene Leistungen. Berechnen Sie jeweils die Stromaufnahme für:
 a) $25\,\text{W}$, b) $40\,\text{W}$, c) $60\,\text{W}$, d) $75\,\text{W}$, e) $100\,\text{W}$, f) $150\,\text{W}$
 
 <details>
@@ -463,8 +462,8 @@ a) $25\,\text{W}$, b) $40\,\text{W}$, c) $60\,\text{W}$, d) $75\,\text{W}$, e) $
 
 ---
 
-## Aufgabe 13: Schnellkochplatte des Elektroherdes
-Bestimmen Sie für die Schnellkochplatte eines Elektroherdes $230\,\text{V} / 2\,\text{kW}$ die Stromaufnahme und den Widerstand.
+### Aufgabe 13: Schnellkochplatte des Elektroherdes
+Berechnen Sie für die Schnellkochplatte eines Elektroherdes ($230\,\text{V} / 2\,\text{kW}$) die Stromaufnahme und den Widerstand.
 
 <details>
 <summary><b>Stufe 1: Lösungshinweise</b></summary>
@@ -497,7 +496,7 @@ $$R = \frac{U^2}{P} = \frac{(230\,\text{V})^2}{2000\,\text{W}} = \frac{52900\,\t
 
 ---
 
-## Aufgabe 14: Widerstand Belastung & Spannung
+### Aufgabe 14: Widerstand Belastung & Spannung
 Ein Widerstand trägt die Aufschrift $3{,}3\,\text{k}\Omega / 5\,\text{W}$. In der Zuleitung wird ein Strom von $30{,}2\,\text{mA}$ gemessen. Berechnen Sie die Spannung am Widerstand.
 
 <details>
@@ -525,8 +524,8 @@ $$U = R \cdot I = 3300\,\Omega \cdot 0{,}0302\,\text{A} = 99{,}66\,\text{V}$$
 
 ---
 
-## Aufgabe 15: Anschlussleistung Schutzkontaktsteckdose
-Eine Schutzkontaktsteckdose $230\,\text{V}$ wird mit einem Leitungsschutzschalter von $16\,\text{A}$ vor Überlastung geschützt. Wie groß ist die maximale Anschlussleistung?
+### Aufgabe 15: Anschlussleistung Schutzkontaktsteckdose
+Eine Schutzkontaktsteckdose ($230\,\text{V}$) wird mit einem Leitungsschutzschalter von $16\,\text{A}$ vor Überlastung geschützt. Berechnen Sie die maximale Anschlussleistung.
 
 <details>
 <summary><b>Stufe 1: Lösungshinweise</b></summary>
@@ -552,7 +551,7 @@ $$P = U \cdot I = 230\,\text{V} \cdot 16\,\text{A} = 3680\,\text{W} = 3{,}68\,\t
 
 ---
 
-## Aufgabe 16: Verlust an mangelhafter Kontaktstelle
+### Aufgabe 16: Verlust an mangelhafter Kontaktstelle
 In einem Stockwerk-Abzweigkasten tritt an einer Kontaktstelle wegen mangelhafter Verschraubung ein Übergangswiderstand von $0{,}15\,\Omega$ auf. In der Abzweigleitung fließen $30\,\text{A}$. Berechnen Sie den Leistungs- und Spannungsverlust an der Kontaktstelle.
 
 <details>
