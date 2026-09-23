@@ -497,6 +497,34 @@ $$R = \frac{U^2}{P} = \frac{(230\,\text{V})^2}{2000\,\text{W}} = \frac{52900\,\t
 ---
 
 ### Aufgabe 14: Widerstand Belastung & Spannung
+Eine PVC-isolierte Kupferleitung vom Querschnitt $2,5\,\text{mm}^2$ darf bei Verlegung im Putz mit $24\,\text{A}$ belastet werden. Berechnen Sie die zulässige Stromdichte.
+
+<details>
+<summary><b>Stufe 1: Lösungshinweise</b></summary>
+
+* **Gegeben:** 
+* **Formel:** 
+* *(Kontrolle: $P_{\text{ist}} = U \cdot I \approx 3{,}01\,\text{W} \le 5\,\text{W}$ max. Belastbarkeit)*
+
+</details>
+
+<details>
+<summary><b>Stufe 2: Nur Ergebnis</b></summary>
+
+$$I=$$
+
+</details>
+
+<details>
+<summary><b>Stufe 3: Vollständiger Lösungsweg</b></summary>
+
+$$ zh$$
+
+
+
+---
+
+### Aufgabe 15: Widerstand Belastung & Spannung
 Ein Widerstand trägt die Aufschrift $3{,}3\,\text{k}\Omega / 5\,\text{W}$. In der Zuleitung wird ein Strom von $30{,}2\,\text{mA}$ gemessen. Berechnen Sie die Spannung am Widerstand.
 
 <details>
