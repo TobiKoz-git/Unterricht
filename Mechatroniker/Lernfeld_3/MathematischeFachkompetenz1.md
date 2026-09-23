@@ -497,7 +497,7 @@ $$R = \frac{U^2}{P} = \frac{(230\,\text{V})^2}{2000\,\text{W}} = \frac{52900\,\t
 ---
 
 ### Aufgabe 14: Widerstand Belastung & Spannung
-Eine PVC-isolierte Kupferleitung vom Querschnitt $2,5\,\text{mm}^2$ darf bei Verlegung im Putz mit $24\,\text{A}$ belastet werden. Berechnen Sie die zulässige Stromdichte.
+Eine Schutzkontaktsteckdose ($230\,\text{V}$) wird mit einem Leitungsschutzschalter von $16\,\text{A}$ vor Überlastung geschützt. Berechnen Sie die maximale Anschlussleistung.
 
 <details>
 <summary><b>Stufe 1: Lösungshinweise</b></summary>
