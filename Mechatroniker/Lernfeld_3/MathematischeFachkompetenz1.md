@@ -496,35 +496,8 @@ $$R = \frac{U^2}{P} = \frac{(230\,\text{V})^2}{2000\,\text{W}} = \frac{52900\,\t
 
 ---
 
-### Aufgabe 14: Widerstand Belastung & Spannung
-Eine Schutzkontaktsteckdose ($230\,\text{V}$) wird mit einem Leitungsschutzschalter von $16\,\text{A}$ vor Überlastung geschützt. Berechnen Sie die maximale Anschlussleistung.
 
-<details>
-<summary><b>Stufe 1: Lösungshinweise</b></summary>
-
-* **Gegeben:** 
-* **Formel:** 
-* *(Kontrolle: $P_{\text{ist}} = U \cdot I \approx 3{,}01\,\text{W} \le 5\,\text{W}$ max. Belastbarkeit)*
-
-</details>
-
-<details>
-<summary><b>Stufe 2: Nur Ergebnis</b></summary>
-
-$$I=$$
-
-</details>
-
-<details>
-<summary><b>Stufe 3: Vollständiger Lösungsweg</b></summary>
-
-$$ zh$$
-
-
-
----
-
-### Aufgabe 15: Widerstand Belastung & Spannung
+### Zusatzaufgabe: Widerstand Belastung & Spannung
 Ein Widerstand trägt die Aufschrift $3{,}3\,\text{k}\Omega / 5\,\text{W}$. In der Zuleitung wird ein Strom von $30{,}2\,\text{mA}$ gemessen. Berechnen Sie die Spannung am Widerstand.
 
 <details>
@@ -552,7 +525,7 @@ $$U = R \cdot I = 3300\,\Omega \cdot 0{,}0302\,\text{A} = 99{,}66\,\text{V}$$
 
 ---
 
-### Aufgabe 16: Anschlussleistung Schutzkontaktsteckdose
+### Aufgabe 14: Anschlussleistung Schutzkontaktsteckdose
 Eine Schutzkontaktsteckdose ($230\,\text{V}$) wird mit einem Leitungsschutzschalter von $16\,\text{A}$ vor Überlastung geschützt. Berechnen Sie die maximale Anschlussleistung.
 
 <details>
@@ -579,7 +552,7 @@ $$P = U \cdot I = 230\,\text{V} \cdot 16\,\text{A} = 3680\,\text{W} = 3{,}68\,\t
 
 ---
 
-### Aufgabe 17: Verlust an mangelhafter Kontaktstelle
+### Aufgabe 15: Verlust an mangelhafter Kontaktstelle
 In einem Stockwerk-Abzweigkasten tritt an einer Kontaktstelle wegen mangelhafter Verschraubung ein Übergangswiderstand von $0{,}15\,\Omega$ auf. In der Abzweigleitung fließen $30\,\text{A}$. Berechnen Sie den Leistungs- und Spannungsverlust an der Kontaktstelle.
 
 <details>
