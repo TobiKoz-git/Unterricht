@@ -552,7 +552,7 @@ $$U = R \cdot I = 3300\,\Omega \cdot 0{,}0302\,\text{A} = 99{,}66\,\text{V}$$
 
 ---
 
-### Aufgabe 15: Anschlussleistung Schutzkontaktsteckdose
+### Aufgabe 16: Anschlussleistung Schutzkontaktsteckdose
 Eine Schutzkontaktsteckdose ($230\,\text{V}$) wird mit einem Leitungsschutzschalter von $16\,\text{A}$ vor Überlastung geschützt. Berechnen Sie die maximale Anschlussleistung.
 
 <details>
@@ -579,7 +579,7 @@ $$P = U \cdot I = 230\,\text{V} \cdot 16\,\text{A} = 3680\,\text{W} = 3{,}68\,\t
 
 ---
 
-### Aufgabe 16: Verlust an mangelhafter Kontaktstelle
+### Aufgabe 17: Verlust an mangelhafter Kontaktstelle
 In einem Stockwerk-Abzweigkasten tritt an einer Kontaktstelle wegen mangelhafter Verschraubung ein Übergangswiderstand von $0{,}15\,\Omega$ auf. In der Abzweigleitung fließen $30\,\text{A}$. Berechnen Sie den Leistungs- und Spannungsverlust an der Kontaktstelle.
 
 <details>
